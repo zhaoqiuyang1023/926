@@ -1,0 +1,77 @@
+DAY 6
+>>>      dampen      —      ['dæmpən]      v.使沮丧
+>>>       dawn       —       [dɔn]       v.破晓、出现       n.黎明、开端
+>>>       dearth       —       [də:θ]       n.缺乏、不足
+>>>       debate       —       [dɪ'bet]       v/n.争论、辩论
+>>>       deceptive       —       [dɪ'sɛptɪv]       adj.骗人的、虚伪的
+>>>       declaration       —       [,dɛklə'reʃən]       n.申明、宣言
+>>>       decline       —       [dɪ'klaɪn]       v/n.下降、衰退、拒绝
+>>>       decorate        —       ['dɛkəret]       v.装饰、布置
+>>>       dedicate       —       ['dɛdɪket]       v.献身、致力于
+>>>       deduce       —       [dɪˈdjus]       v.推理、推断
+>>>       deem       —       [dim]       v.认为、视作
+>>>       defend       —       [dɪ'fɛnd]       v.保护、辩护
+>>>       define       —       [dɪ'faɪn]       v.定义、明确
+>>>       deliberate       —       [dɪ'lɪbərət]       v.仔细考虑       adj.深思熟虑的、故意的
+>>>       delicate        —       [ˈdɛlɪkɪt]       adj.微妙的、棘手的、脆弱的
+>>>       deliver       —       [dɪ'lɪvɚ]       v.发表（演讲/讲话）、递送
+>>>       delusion       —       [dɪ'luʒn]       n.错觉
+>>>       democratic       —       ['dɛmə'krætɪk]       adj.民主的
+>>>       demographic       —       [,dɛmə'ɡræfɪk]       adj.人口学的        n.人口统计数据
+>>>       dense       —       [dɛns]       adj.浓密的、稠密的、密集的
+>>>       deny       —       [dɪ'nai]       v.拒绝、否认、否定
+>>>       depart       —       [dɪ'pɑrt]       v.离开、出发
+>>>       depict       —       [dɪ'pɪkt]       v.描述、描绘
+>>>       depression       —       [dɪ'prɛʃən]       n.沮丧、抑郁、（经济）萧条
+>>>       deprive       —       [dɪ'praɪv]       v.剥夺、使丧失
+>>>       derive        —       [dɪ'raɪv]       v.来自、源于
+>>>       descend       —       [dɪ'sɛnd]       v.下降、遗传
+>>>       describe       —       [dɪ'skraɪb]       v.描述、描绘、形容
+>>>       deserve       —       [dɪ'zɝv]       v.值得、应得
+>>>       designate       —       ['dɛzɪɡnet]       v.把……命名为
+>>>       desire       —       [dɪ'zaɪɚ]       v.渴望、想要       n.欲望、要求、心愿
+>>>       desperate       —       ['dɛspərət]       adj.令人绝望的、不顾一切的、孤注一掷的
+>>>       deteriorate       —       [dɪ'tɪrɪəret]       v.恶化
+>>>       determine       —       [dɪ'tɝmɪn]       v.决定、下定决心
+>>>       devastating       —       ['devəsteitiŋ]       adj.毁灭性的、破坏性极强的
+>>>       devise       —       [dɪ'vaɪz]       v.设计、发明
+>>>       devoted        —       [dɪ'votɪd]       adj.忠实的、忠诚的、热衷于……的 
+>>>       differentiate       —       [,dɪfə'rɛnʃɪet]       v.区分、区别
+>>>       diffuse       —       [dɪ'fjus]       adj.弥漫的、散开的       v.传播、扩散、缓解、消除
+>>>       dilemma       —       [daɪˈlɛmə]       n.困境、进退两难的局面
+>>>       diminish       —       [dɪ'mɪnɪʃ]       v.减少、变小
+>>>       disaster       —       [dɪ'zæstɚ]       n.灾难
+>>>       discipline       —       ['dɪsəplɪn]       n.纪律、原则
+>>>       disclose       —       [dɪs'kloz]       v.揭露、公开
+>>>       disconcerting       —       [ˌdɪskənˈsɜːrtɪŋ]       adj.焦虑的、不安的
+>>>       discover       —       [dɪ'skʌvɚ]       v.发现、发觉
+>>>       discrimination       —       [dɪ,skrɪmɪ'neʃən]       n.歧视、区别对待
+>>>       disgrace       —       [dɪs'ɡres]       v.使丢脸、使蒙羞       n.耻辱、丢脸的人或事 
+>>>       disguise       —       [dɪs'ɡaɪz]       v/n.掩饰、伪装
+>>>       disintegrate       —       [dɪs'ɪntɪɡret]       v.分解、破裂、衰退
+>>>       dismiss       —       [dɪs'mɪs]       v.解散、解雇、不予考虑
+>>>       disorder        —       [dɪs'ɔrdɚ]       v.扰乱、使失调       n.混乱、紊乱
+>>>       display       —       [dɪ'sple]       v/n.展示、显示、表现
+>>>       disposable       —       [dɪ'spozəbl]       adj.一次性的
+>>>       dispute       —       ['dɪs'pjʊt]       v/n.争论、反对
+>>>       disruptive       —       [dɪs'rʌptɪv]       adj.破坏（性）的、分裂（性）的
+>>>       distort       —       [dɪ'stɔrt]       v.歪曲、扭曲
+>>>       distraction       —       [dɪ'strækʃən]       n.分心、分心的事物
+>>>       distressed       —       [dɪ'strɛst]       adj.焦虑的、不安的
+>>>       distressed       —       [dɪ'strɛst]       adj.焦虑的、不安的
+>>>       distribute       —       [dɪ'strɪbjut]       v.分发、分配、分布
+>>>       district       —       ['dɪstrɪkt]       n.区域、地区
+>>>       disturb       —       [dɪ'stɝb]       v.打搅、使烦恼、使混乱
+>>>       diverse       —       [daɪ'vɝs]       adj.不同的、各种各样的
+>>>       divisive       —       [di'vaisiv]       adj.分裂的、有分歧的
+>>>       domestic       —       [də'mɛstɪk]       adj.家庭的、国内的
+>>>       dominate       —       ['dɑmɪnet]       v.统治、支配、主导
+>>>       donate       —       ['donet]       v.捐献、捐赠
+>>>       doom       —       [dʊm]       n.厄运、灾难
+>>>       dormant       —       ['dɔrmənt]       adj.休眠的、静止的
+>>>       dramatic       —       [drə'mætɪk]       adj.戏剧（性）的、引人注目的、急剧的
+>>>       drastic       —       ['dræstɪk]       adj.激烈的、剧烈的
+>>>       dreadful       —       ['drɛdfəl]       adj.可怕的、糟糕的
+>>>       duplication       —       [,djʊplɪ'keʃən]       n.重复、复制、副本
+>>>       durable       —       ['dʊrəbl]       adj.持续的、持久的、耐用的
+>>>       dynamic       —       [daɪ'næmɪk]       adj.动力（学）的、动态的        n.动力、动态

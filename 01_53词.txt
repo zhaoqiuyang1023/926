@@ -1,0 +1,54 @@
+DAY 1
+>>>       abdicate      —      ['æbdɪket]      v.退位、放弃
+>>>       abide       —       [ə'baɪd]       v.忍受
+>>>       abolish       —       [ə'bɑlɪʃ]      v.废除、取消
+>>>       abound       —       [ə'baʊnd]       v.充满、富于
+>>>       abreast       —       [ə'brɛst]       adj/adv.并排的/地、并列的/地
+>>>       absolute       —       ['æbsəlut]       adj.绝对的、独裁的
+>>>       absorb       —       [əbˈsɔrb]       v.吸收、吸引、承受
+>>>       abstract       —       ['æbstrækt]       adj.抽象的
+>>>       abundantly       —       [ə'bʌndəntli]       adv.大量地、非常
+>>>       abuse       —       [ə'bjus]       v/n.滥用
+>>>       academic       —       [,ækə'dɛmɪk]       adj.学术的
+>>>       accelerate       —       [əkˈsɛləˌret]       v.加速、促进
+>>>       access       —       ['æksɛs]       v/n.进入、使用
+>>>       acclaim       —       [ə'klem]       v/n.称赞、喝彩
+>>>       accommodation       —       [ə,kɑmə'deʃən]       n.住所
+>>>       accompany       —       [ə'kʌmpəni]       v.陪伴、伴随
+>>>       account       —       [ə'kaʊnt]       v.占比、解释         n.账户
+>>>       accuracy       —       ['ækjərəsi]       n.精确性、准确性
+>>>       achieve       —       [ə'tʃiv]       v.获得、实现
+>>>       acknowledge       —       [ək'nɑlɪdʒ]       v.承认、认可
+>>>       acquire       —       [ə'kwaɪr]       v.获得
+>>>       activate       —       ['æktə'vet]       v.刺激、激发
+>>>       acute       —       [ə'kjut]       adj.严重的、敏锐的
+>>>       adaptable       —       [ə'dæptəbl]       adj.适合的、能适应的
+>>>       addicted       —       [ə'dɪktɪd]       adj.入迷的、上瘾的
+>>>       adequate       —       [ˈædɪkwət]       adj.充足的、充分的
+>>>       adhere       —       [əd'hɪr]       v.坚持、遵守
+>>>       adjoining       —       [ə'dʒɔɪnɪŋ]       adj.邻接的
+>>>       adjust       —       [ə'dʒʌst]       v.调整、适应
+>>>       administration       —       [əd,mɪnɪ'streʃən]       n.行政（机构）、管理（机构）、（美国）政府
+>>>       admire       —       [ədˈmaɪr]       v.钦佩、欣赏
+>>>       admit       —       [əd'mɪt]       v.承认
+>>>       adopt       —       [ə'dɑpt]       v.收养、采用、采纳
+>>>       adornment       —       [ə'dɔ:nmənt]       n.装饰（品）
+>>>       advocate       —       [ˈædvəkeɪt]       v.提倡、拥护       n.支持者、拥护者
+>>>       affect       —       [ə'fɛkt]       v.影响、感动       n.情感
+>>>       affiliation       —       [ə,fɪlɪ'eʃən]       n.联系、有关连的事物
+>>>       affirm       —       [ə'fɝm]       v.肯定、证实
+>>>       agency       —       ['edʒənsi]       n.代理、中介、政府机构
+>>>       aggravate       —       ['ægrəvet]       v.加重、使恶化
+>>>       aggressive       —       [ə'grɛsɪv]       adj.好斗的、好强的
+>>>       agitated       —       ['ædʒɪtetɪd]       adj.激动的、焦虑的
+>>>       agony       —       ['ægəni]       n.痛苦、苦恼
+>>>       alien       —       [ˈeliən]       adj.外国的       n.外国人
+>>>       allegation       —       ['ælə'geʃən]       n.指控、陈述
+>>>       alleviate       —       [ə'livɪ'et]       v.减轻、缓和
+>>>       alliance       —       [ə'laɪəns]       n.联合、联盟
+>>>       allocation       —       [,ælə'keʃən]       n.分配、配置
+>>>       alter       —       ['ɔltɚ]       v.改变、更改
+>>>       amateur       —       ['æmə.tʃʊr]       adj.业余的       n.业余爱好者
+>>>       amazing       —       [ə'mezɪŋ]       adj.令人惊叹的
+>>>       ambiguous       —       [æm'bɪgjuəs]       adj.模糊的、模棱两可的
+>>>       ambition       —       [æm'bɪʃən]       n.雄心、志向
