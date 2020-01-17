@@ -6,26 +6,26 @@ DAY 1
 >>>       abundantly       —       [ə'bʌndəntli]       adv.大量地、非常
 >>>       academic       —       [,ækə'dɛmɪk]       adj.学术的
 >>>       accelerate       —       [əkˈsɛləˌret]       v.加速、促进
->>>       access       —       ['æksɛs]       v/n.进入、使用
 >>>       acclaim       —       [ə'klem]       v/n.称赞、喝彩
 >>>       accommodation       —       [ə,kɑmə'deʃən]       n.住所
->>>       accuracy       —       ['ækjərəsi]       n.精确性、准确性
 >>>       acute       —       [ə'kjut]       adj.严重的、敏锐的
->>>       addicted       —       [ə'dɪktɪd]       adj.入迷的、上瘾的
->>>       adequate       —       [ˈædɪkwət]       adj.充足的、充分的
 >>>       adornment       —       [ə'dɔ:nmənt]       n.装饰（品）
 >>>       advocate       —       [ˈædvəkeɪt]       v.提倡、拥护       n.支持者、拥护者
 >>>       affiliation       —       [ə,fɪlɪ'eʃən]       n.联系、有关连的事物
->>>       affirm       —       [ə'fɝm]       v.肯定、证实
 >>>       aggravate       —       ['ægrəvet]       v.加重、使恶化
 >>>       aggressive       —       [ə'grɛsɪv]       adj.好斗的、好强的
 >>>       agitated       —       ['ædʒɪtetɪd]       adj.激动的、焦虑的
->>>       agony       —       ['ægəni]       n.痛苦、苦恼
 >>>       allegation       —       ['ælə'geʃən]       n.指控、陈述
 >>>       alleviate       —       [ə'livɪ'et]       v.减轻、缓和
 >>>       alliance       —       [ə'laɪəns]       n.联合、联盟
 >>>       amateur       —       ['æmə.tʃʊr]       adj.业余的       n.业余爱好者
 
+>>>       access       —       ['æksɛs]       v/n.进入、使用
+>>>       accuracy       —       ['ækjərəsi]       n.精确性、准确性
+>>>       agony       —       ['ægəni]       n.痛苦、苦恼
+>>>       adequate       —       [ˈædɪkwət]       adj.充足的、充分的
+>>>       addict       —       [ə'dɪktɪd]       adj.入迷的、上瘾的
+>>>       affirm       —       [ə'fɝm]       v.肯定、证实
 >>>       ambiguous       —       [æm'bɪgjuəs]       adj.模糊的、模棱两可的
 >>>       allocation       —       [,ælə'keʃən]       n.分配、配置
 >>>       amazing       —       [ə'mezɪŋ]       adj.令人惊叹的
@@ -43,7 +43,7 @@ DAY 1
 >>>       adjust       —       [ə'dʒʌst]       v.调整、适应
 >>>       administration       —       [əd,mɪnɪ'streʃən]       n.行政（机构）、管理（机构）、（美国）政府
 >>>       abstract       —       ['æbstrækt]       adj.抽象的
->>>       abuse       —       [ə'bjus]       v/n.滥用
+>>>       abuse       —       [ə'bjus]       v/n.滥用 辱骂；弊端；恶习，陋习
 >>>       admit       —       [əd'mɪt]       v.承认采纳
 >>>       adopt       —       [ə'dɑpt]       v.收养、采用、
 >>>       affect       —       [ə'fɛkt]       v.影响、感动       n.情感

@@ -3,7 +3,7 @@ DAY 17
 >>>       temporary       —       [ˈtempəreri]       adj.暂时的、临时的
 >>>       tempt        —       [tɛmpt]       v.引诱、诱使、吸引
 >>>       tendency       —       ['tɛndənsi]       n.趋势、倾向
->>>       terminal        —       ['tɜːmɪnl]       adj.终点的、末端的、（疾病）晚期的       n.终点、末端、终端（机）
+
 >>>       testify        —       ['tɛstɪfaɪ]       v.证明、作证
 >>>       threaten       —       ['θrɛtn]       v.威胁 
 >>>       thrive       —       [θraɪv]       v.繁荣、兴旺
@@ -16,7 +16,7 @@ DAY 17
 >>>       triumph       —       [ˈtraɪəmf]       v/n.成功
 >>>       turbulent        —       ['tɝbjələnt]       adj.混乱的、湍急的
 
-
+>>>       terminal        —       ['tɜːmɪnl]       adj.终点的、末端的、（疾病）晚期的       n.终点、末端、终端（机）
 >>>       transportation       —       [,trænspɔr'teʃən]       n.运输、交通工具
 >>>       tremendous        —       [trə'mɛndəs]       adj.巨大的
 >>>       transition       —       [træn'zɪʃən]       n.转型、过渡
