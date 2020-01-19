@@ -1,6 +1,5 @@
 DAY 9
 >>>       garment      —      ['gɑrmənt]      n.衣服、服装
->>>       generate       —       ['dʒɛnəret]       v.产生、引起
 >>>       generous       —       ['dʒɛnərəs]       adj.慷慨的、大方的、大量的
 >>>       genetic       —       [dʒə'nɛtɪk]       adj.基因的、遗传的
 >>>       genius       —       ['dʒinjəs]       n.天才、天赋
@@ -16,7 +15,6 @@ DAY 9
 >>>       grievance       —       ['grivəns]       n.委屈、不满
 >>>       grip       —       [ɡrɪp]       v/n.抓住、握紧、控制  
 >>>       guarantee       —       [,ɡærən'ti]       v/n.保证、确保
->>>       habitat       —       ['hæbə'tæt]       n.栖息地、生长环境
 >>>       hasten       —       ['hesn]       v.加速
 >>>       hemisphere       —       ['hɛmɪsfɪr]       n.半球
 >>>       heritage       —       ['hɛrɪtɪdʒ]       n.遗产、传统
@@ -27,6 +25,8 @@ DAY 9
 >>>       hybrid        —       ['haɪbrɪd]       adj.混合的       n.混合物
 
 
+>>>       generate       —       ['dʒɛnəret]       v.产生、引起
+>>>       habitat       —       ['hæbə'tæt]       n.栖息地、生长环境
 >>>       hijack       —       ['haɪdʒæk]       v/n.劫持、强行控制
 >>>       horizon       —       [hə'raɪzn]       n.地平线
 >>>       grasp       —       [ɡræsp]       v/n.抓住、理解

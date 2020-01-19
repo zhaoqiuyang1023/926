@@ -42,7 +42,7 @@ DAY 14
 >>>       reveal       —       [rɪ'vil]       v.揭露、显示
 >>>       revenue       —       ['rɛvənu]       n.收入、收益
 >>>       reverse       —       [rɪ'vɝs]       v.颠倒、逆转
->>>       review       —       [rɪ'vju]       v/n.回顾、检查、审查、复习、评论
+
 >>>       revival       —       [rɪ'vaɪvl]       n.复活、复兴
 >>>       revolutionary       —       ['rɛvə'lʊʃə'nɛri]       adj.革命的、革命性的
 >>>       righteous       —       ['raɪtʃəs]       adj.公正的、正直的
@@ -55,6 +55,7 @@ DAY 14
 >>>       routine       —       [rʊ'tin]       adj.日常的、常规的       n.常规、惯例、日常工作、程序、流程
 
 
+>>>       review       —       [rɪ'vju]       v/n.回顾、检查、审查、复习、评论
 >>>       reflect       —       [rɪ'flɛkt]       v.反射、反映
 >>>       remarkable       —       [rɪ'mɑrkəbl]       adj.惊人的、非凡的、值得注意的
 >>>       regulation       —       [ˌrɛɡjəˈleʃən]       n.管理、调节、法规、规则

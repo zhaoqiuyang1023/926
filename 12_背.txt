@@ -17,7 +17,7 @@ DAY 12
 >>>       occur        —       [ə'kɝ]       v.出现、发生
 >>>       odds       —       [ɑdz]       n.几率、可能性
 >>>       opponent       —       [ə'ponənt]       adj.敌对的、对立的        n.对手、反对者
->>>       oppose       —       [ə'poz]       v.反对
+
 >>>       oppressive       —       [ə'prɛsɪv]       adj.压迫的、压抑的
 >>>       organism       —       ['ɔrɡənɪzəm]       n.生物体、有机体
 >>>       orientate       —       ['orɪɛntet]       v.定位、定向
@@ -31,6 +31,7 @@ DAY 12
 >>>       overwhelming       —       [,ovɚ'wɛlmɪŋ]       adj.压倒性的、势不可挡的
 
 
+>>>       oppose       —       [ə'poz]       v.反对
 >>>       optimistic       —       [,ɑptɪ'mɪstɪk]       adj.乐观的
 >>>       normal       —       ['nɔrml]       adj.正常的、标准的
 >>>       native       —       ['netɪv]       adj.天生的、天然的、本国的、本地的

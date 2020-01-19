@@ -10,7 +10,7 @@ DAY 5
 >>>       conscience       —       [ˈkɑːnʃəns]       n.良心、良知
 >>>       conscious       —       ['kɑnʃəs]       adj.有意识的
 >>>       consent       —       [kən'sɛnt]       v/n.赞成、同意
->>>       consequence       —       ['kɑnsəkwɛns]       n.结果
+>>>       consequence       —       ['kɑnsəkwɛns]       n.结果  （看谁困死）
 >>>       conservative       —       [kən'sɝvətɪv]       adj.保守的       n.保守派、保守党 
 >>>       consistent        —       [kən'sɪstənt]       adj.一致的、始终如一的
 >>>       consolidation       —       [kən,sɑlə'deʃən]       n.合并
@@ -26,7 +26,7 @@ DAY 5
 >>>       contract        —       ['kɑntrækt]       n.合约、合同
 >>>       contradictory       —       [,kɑntrə'dɪktəri]       adj.矛盾的
 >>>       contrast       —       ['kɑntræst]       v/n.对比、对照
->>>       contribute       —       [kən'trɪbjut]       v.贡献、捐献
+
 >>>       controversial       —       [,kɑntrə'vɝʃl]       adj.有争议的
 >>>       conventional       —       [kən'vɛnʃənl]       adj.传统的、常规的
 >>>       converge       —       [kən'vɝdʒ]       v.聚集、汇合
@@ -36,7 +36,7 @@ DAY 5
 >>>       convincing       —       [kən'vɪnsɪŋ]       adj.令人信服的、有说服力的
 >>>       cooperate        —       [koʊˈɑːpəreɪt]       v.配合、合作 
 >>>       coordination       —       [ko,ɔrdɪ'neʃən]       n.协调、配合、合作 
->>>       core       —       [kɔr]       n.核心、要点
+
 >>>       corporate       —       [ˈkɔːrpərət]       adj.公司的、企业的
 >>>       correct       —       [kə'rɛkt]       adj.正确的
 >>>       correlate       —       ['kɔrəlet]       v.使相互关联、和……相关
@@ -48,19 +48,25 @@ DAY 5
 >>>       courageous       —       [kə'redʒəs]       adj.勇敢的、大胆的
 >>>       craft       —       [kræft]       v.精心制作       n.手艺、工艺
 >>>       crash       —       [kræʃ]       v/n.撞击、坠落、崩溃
->>>       credit       —       ['krɛdɪt]       v.相信、信任、认可       n.信用、信任、认可、学分
->>>       creep       —       [krip]       v.爬行、缓慢移动
+
+
 >>>       crisis       —       ['kraɪsɪs]       n.危机、关键时刻
 >>>       critical       —       ['krɪtɪkl]       adj.批判（性）的、关键的、临界的
 >>>       crucial       —       ['krʊʃəl]       adj.至关重要的
->>>       cue       —       [kju]       n.线索、提示
+
 >>>       cultivate       —       ['kʌltɪvet]       v.种植、培养
 >>>       cunning       —       ['kʌnɪŋ]       adj.巧妙的、狡猾的、可爱的
 >>>       curb       —       [kɝb]       v/n.限制、抑制
 >>>       cure       —       [kjʊr]       v.治疗       n.治疗、疗法
 >>>       curiosity       —       [,kjʊrɪ'ɑsəti]       n.好奇心
->>>       current       —       ['kʌr(ə)nt]       adj.现在的、当前的
+
 >>>       cursory       —       ['kə:səri]       adj.粗略的、草率的、匆忙的
 
 
+>>>       creep       —       [krip]       v.爬行、缓慢移动
+>>>       credit       —       ['krɛdɪt]       v.相信、信任、认可       n.信用、信任、认可、学分
+>>>       core       —       [kɔr]       n.核心、要点
+>>>       contribute       —       [kən'trɪbjut]       v.贡献、捐献    词根词缀：tribo-, trib- 拉丁语:分配，分配，赠与，给予，授予；v, attribute, attribution, attributive, attributively
+>>>       current       —       ['kʌr(ə)nt]       adj.现在的、当前的
+>>>       cue       —       [kju]       n.线索、提示
 >>>       confirm       —       [kən'fɝm]       v.确认、确定

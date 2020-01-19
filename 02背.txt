@@ -2,7 +2,6 @@ DAY 2
 >>>       amplify      —      ['æmplɪfaɪ]      v.扩大、放大
 >>>       analogy       —       [ə'nælədʒi]       n.类比
 >>>       ancestor       —       ['ænsɛstɚ]       n.祖先
->>>       annoy       —       [ə'nɔɪ]       v/n.困扰、烦扰
 >>>       annual       —       ['ænjuəl]       adj.年度的、每年的
 >>>       anonymity       —       ['ænə'nɪməti]       n.匿名
 >>>       anticipate       —       [æn'tɪsə'pet]       v.预料、预期
@@ -19,7 +18,6 @@ DAY 2
 >>>       assemble       —       [ə'sɛmbl]       v.集合、组装
 >>>       assert       —       [ə'sɝt]       v.宣称、断言
 >>>       assess       —       [ə'sɛs]       v.评价、评估
->>>       asset       —       ['æsɛt]       n.资产
 >>>       assign       —       [ə'saɪn]       v.布置、分配
 >>>       assimilation       —       [əˌsɪməˈleʃən]       n.同化
 >>>       assist       —       [ə'sɪst]       v.帮助、协助
@@ -29,9 +27,12 @@ DAY 2
 >>>       astronomy       —       [ə'strɑnəmi]       n.天文学
 >>>       atmosphere       —       ['ætməsfɪr]       n.大气（层）、空气、气氛
 >>>       auction       —       ['ɔkʃən]       v/n.拍卖
->>>       authority       —       [ə'θɔrəti]       n.权力、权威、官方
 >>>       automated       —       [ɔtəˌmetɪd]       adj.自动（化）的
 
+
+>>>       authority       —       [ə'θɔrəti]       n.权力、权威、官方
+>>>       asset       —       ['æsɛt]       n.资产
+>>>       annoy       —       [ə'nɔɪ]       v/n.困扰、烦扰
 >>>       announce       —       [ə'naʊns]       v.宣布、声明
 >>>       awkward       —       ['ɔkwɚd]       adj.尴尬的
 >>>       array       —       [ə're]       v/n.排列
