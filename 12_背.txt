@@ -8,7 +8,7 @@ DAY 12
 >>>       notably       —       ['notəbli]       adv.明显地
 >>>       noteworthy       —       ['notwɝði]       adj.值得注意的、显著的
 >>>       novel       —       [ˈnɑːvl]       adj.新颖的、新奇的        n.小说
->>>       nurture       —       ['nɝtʃɚ]       v/n.培养、培育、养育
+>>>       nurture       —       ['nɝtʃɚ]       v/n.培养、培育、养育     nurse /护士
 >>>       obesity       —       [o'bisəti]       n.肥胖
 >>>       oblige       —       [ə'blaɪdʒ]       v.强制、强迫、迫使
 >>>       obscure       —       [əb'skjʊr]       adj.模糊的、不清楚的
@@ -25,12 +25,12 @@ DAY 12
 >>>       ornament       —       ['ɔrnəmənt]       n.装饰（物）
 >>>       outlive       —       [,aʊt'lɪv]       v.比……活得长
 >>>       outraged       —       ['autreidʒid]       adj.愤怒的
->>>       overlook       —       [,ovɚ'lʊk]       v/n.忽略、忽视
->>>       overshadow       —       ['ovɚ'ʃædo]       v.给……蒙上阴影、使黯然失色
->>>       overturn       —       ['ovətɝn]       v/n.推翻、打翻、翻倒
+
+
 >>>       overwhelming       —       [,ovɚ'wɛlmɪŋ]       adj.压倒性的、势不可挡的
-
-
+>>>       overturn       —       ['ovətɝn]       v/n.推翻、打翻、翻倒
+>>>       overshadow       —       ['ovɚ'ʃædo]       v.给……蒙上阴影、使黯然失色
+>>>       overlook       —       [,ovɚ'lʊk]       v/n.忽略、忽视
 >>>       oppose       —       [ə'poz]       v.反对
 >>>       optimistic       —       [,ɑptɪ'mɪstɪk]       adj.乐观的
 >>>       normal       —       ['nɔrml]       adj.正常的、标准的

@@ -1,25 +1,28 @@
 DAY 1
->>>       abdicate      —      ['æbdɪket]      v.退位、放弃
->>>       abide       —       [ə'baɪd]       v.忍受
->>>       abolish       —       [ə'bɑlɪʃ]      v.废除、取消
->>>       abound       —       [ə'baʊnd]       v.充满、富于
->>>       abundantly       —       [ə'bʌndəntli]       adv.大量地、非常
->>>       academic       —       [,ækə'dɛmɪk]       adj.学术的
->>>       accelerate       —       [əkˈsɛləˌret]       v.加速、促进
->>>       acclaim       —       [ə'klem]       v/n.称赞、喝彩
+
+
 >>>       accommodation       —       [ə,kɑmə'deʃən]       n.住所
 >>>       acute       —       [ə'kjut]       adj.严重的、敏锐的
 >>>       adornment       —       [ə'dɔ:nmənt]       n.装饰（品）
 >>>       advocate       —       [ˈædvəkeɪt]       v.提倡、拥护       n.支持者、拥护者
 >>>       affiliation       —       [ə,fɪlɪ'eʃən]       n.联系、有关连的事物
 >>>       aggravate       —       ['ægrəvet]       v.加重、使恶化
->>>       aggressive       —       [ə'grɛsɪv]       adj.好斗的、好强的
 >>>       agitated       —       ['ædʒɪtetɪd]       adj.激动的、焦虑的
 >>>       allegation       —       ['ælə'geʃən]       n.指控、陈述
 >>>       alleviate       —       [ə'livɪ'et]       v.减轻、缓和
->>>       alliance       —       [ə'laɪəns]       n.联合、联盟
 >>>       amateur       —       ['æmə.tʃʊr]       adj.业余的       n.业余爱好者
 
+
+>>>       abundantly       —       [ə'bʌndəntli]       adv.大量地、非常
+>>>       abolish       —       [ə'bɑlɪʃ]      v.废除、取消
+>>>       alliance       —       [ə'laɪəns]       n.联合、联盟
+>>>       acclaim       —       [ə'klem]       v/n.称赞、喝彩
+>>>       abdicate      —      ['æbdɪket]      v.退位、放弃
+>>>       accelerate       —       [əkˈsɛləˌret]       v.加速、促进
+>>>       abound       —       [ə'baʊnd]       v.充满、富于
+>>>       abide       —       [ə'baɪd]       v.忍受
+>>>       aggressive       —       [ə'grɛsɪv]       adj.好斗的、好强的
+>>>       academic       —       [,ækə'dɛmɪk]       adj.学术的
 >>>       access       —       ['æksɛs]       v/n.进入、使用
 >>>       accuracy       —       ['ækjərəsi]       n.精确性、准确性
 >>>       agony       —       ['ægəni]       n.痛苦、苦恼
