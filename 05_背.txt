@@ -26,7 +26,6 @@ DAY 5
 >>>       contract        —       ['kɑntrækt]       n.合约、合同
 >>>       contradictory       —       [,kɑntrə'dɪktəri]       adj.矛盾的
 >>>       contrast       —       ['kɑntræst]       v/n.对比、对照
-
 >>>       controversial       —       [,kɑntrə'vɝʃl]       adj.有争议的
 >>>       conventional       —       [kən'vɛnʃənl]       adj.传统的、常规的
 >>>       converge       —       [kən'vɝdʒ]       v.聚集、汇合
@@ -35,8 +34,7 @@ DAY 5
 >>>       conviction       —       [kən'vɪkʃən]       n.判决、定罪
 >>>       convincing       —       [kən'vɪnsɪŋ]       adj.令人信服的、有说服力的
 >>>       cooperate        —       [koʊˈɑːpəreɪt]       v.配合、合作 
->>>       coordination       —       [ko,ɔrdɪ'neʃən]       n.协调、配合、合作 
-
+>>>       coordination       —       [ko,ɔrdɪ'neʃən]       n.协调、配合、合作
 >>>       corporate       —       [ˈkɔːrpərət]       adj.公司的、企业的
 >>>       correct       —       [kə'rɛkt]       adj.正确的
 >>>       correlate       —       ['kɔrəlet]       v.使相互关联、和……相关
@@ -48,18 +46,14 @@ DAY 5
 >>>       courageous       —       [kə'redʒəs]       adj.勇敢的、大胆的
 >>>       craft       —       [kræft]       v.精心制作       n.手艺、工艺
 >>>       crash       —       [kræʃ]       v/n.撞击、坠落、崩溃
-
-
 >>>       crisis       —       ['kraɪsɪs]       n.危机、关键时刻
 >>>       critical       —       ['krɪtɪkl]       adj.批判（性）的、关键的、临界的
 >>>       crucial       —       ['krʊʃəl]       adj.至关重要的
-
 >>>       cultivate       —       ['kʌltɪvet]       v.种植、培养
 >>>       cunning       —       ['kʌnɪŋ]       adj.巧妙的、狡猾的、可爱的
 >>>       curb       —       [kɝb]       v/n.限制、抑制
 >>>       cure       —       [kjʊr]       v.治疗       n.治疗、疗法
 >>>       curiosity       —       [,kjʊrɪ'ɑsəti]       n.好奇心
-
 >>>       cursory       —       ['kə:səri]       adj.粗略的、草率的、匆忙的
 
 

@@ -39,7 +39,6 @@ DAY 11
 >>>       minister       —       ['mɪnɪstɚ]       n.牧师、部长 mini 小型的
 >>>       minority       —       [maɪ'nɔrəti]       n.少数（派）
 >>>       misery       —       ['mɪzəri]       n.不幸、苦难、悲惨的境遇
-
 >>>       mobilize       —       ['mobəlaɪz]       v.组织、调动、动员
 >>>       modest       —       ['mɑdɪst]       adj.谦虚的、谦逊的、适度的（不大不小的、不多不少的） mon 单独的 arch=统治
 >>>       monarch       —       ['mɑnɚk]       n.君主、最高统治者

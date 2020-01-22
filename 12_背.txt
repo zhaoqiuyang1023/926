@@ -1,6 +1,4 @@
 DAY 12
->>>       nasty       —      ['næsti]      adj.肮脏的、令人厌恶的
->>>       negative       —       ['nɛɡətɪv]       adj.负面的、消极的、否定的
 >>>       neglect       —       [nɪ'glɛkt]       v/n.疏忽、忽视
 >>>       negotiate       —       [nɪ'ɡoʃɪet]       v.协商、谈判
 >>>       nightmare       —       ['naɪt'mɛr]       n.恶梦、噩梦
@@ -17,7 +15,6 @@ DAY 12
 >>>       occur        —       [ə'kɝ]       v.出现、发生
 >>>       odds       —       [ɑdz]       n.几率、可能性
 >>>       opponent       —       [ə'ponənt]       adj.敌对的、对立的        n.对手、反对者
-
 >>>       oppressive       —       [ə'prɛsɪv]       adj.压迫的、压抑的
 >>>       organism       —       ['ɔrɡənɪzəm]       n.生物体、有机体
 >>>       orientate       —       ['orɪɛntet]       v.定位、定向
@@ -27,6 +24,8 @@ DAY 12
 >>>       outraged       —       ['autreidʒid]       adj.愤怒的
 
 
+>>>       negative       —       ['nɛɡətɪv]       adj.负面的、消极的、否定的
+>>>       nasty       —      ['næsti]      adj.肮脏的、令人厌恶的
 >>>       overwhelming       —       [,ovɚ'wɛlmɪŋ]       adj.压倒性的、势不可挡的
 >>>       overturn       —       ['ovətɝn]       v/n.推翻、打翻、翻倒
 >>>       overshadow       —       ['ovɚ'ʃædo]       v.给……蒙上阴影、使黯然失色

@@ -14,7 +14,6 @@ DAY 14
 >>>       reform       —       [rɪ'fɔrm]       v/n.改革
 >>>       refutation       —       [,rɛfjʊ'teʃən]       n.反驳、驳斥
 >>>       regime       —       [re'ʒim]       n.政权、政体、政治制度
->>>       region       —       ['ridʒən]       n.地区、范围 
 >>>       regrettable       —       [rɪ'ɡrɛtəbl]       adj.可惜的、令人遗憾的
 >>>       reign       —       [ren]       v/n.统治、支配
 >>>       reinforce       —       [,riɪn'fɔrs]       v.强化、加强
@@ -42,7 +41,6 @@ DAY 14
 >>>       reveal       —       [rɪ'vil]       v.揭露、显示
 >>>       revenue       —       ['rɛvənu]       n.收入、收益
 >>>       reverse       —       [rɪ'vɝs]       v.颠倒、逆转
-
 >>>       revival       —       [rɪ'vaɪvl]       n.复活、复兴
 >>>       revolutionary       —       ['rɛvə'lʊʃə'nɛri]       adj.革命的、革命性的
 >>>       righteous       —       ['raɪtʃəs]       adj.公正的、正直的
@@ -55,6 +53,8 @@ DAY 14
 >>>       routine       —       [rʊ'tin]       adj.日常的、常规的       n.常规、惯例、日常工作、程序、流程
 
 
+
+>>>       region       —       ['ridʒən]       n.地区、范围
 >>>       review       —       [rɪ'vju]       v/n.回顾、检查、审查、复习、评论
 >>>       reflect       —       [rɪ'flɛkt]       v.反射、反映
 >>>       remarkable       —       [rɪ'mɑrkəbl]       adj.惊人的、非凡的、值得注意的

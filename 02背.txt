@@ -1,35 +1,31 @@
 DAY 2
->>>       amplify      —      ['æmplɪfaɪ]      v.扩大、放大   amp 大
+
 >>>       analogy       —       [ə'nælədʒi]       n.类比    and and and
 >>>       ancestor       —       ['ænsɛstɚ]       n.祖先 ante 之前 cess 走
->>>       annual       —       ['ænjuəl]       adj.年度的、每年的
 >>>       anonymity       —       ['ænə'nɪməti]       n.匿名 name-onym-nomy-namy-name onym=名字
 >>>       anticipate       —       [æn'tɪsə'pet]       v.预料、预期  anti-之前 cip=cap=抓住；=ate v
->>>       apparent       —       [ə'pærənt]       adj.明显的  “一个家长特别明显”
 >>>       appreciate       —       [ə'priʃɪet]       v.感激、欣赏、理解  prec=price价格 precious 珍贵的
 >>>       apprehensive       —       [,æprɪ'hɛnsɪv]       adj.忧虑的、不安的  prehen 抓住；理解；考虑
 >>>       approach       —       v.接近、靠近、处理       n.接近、靠近、方法、方案 proach=proch=prox=大约
 >>>       appropriate       —       [əˈproprɪet]       adj.适当的、合适的   propr=合适
->>>       arbiter       —       ['ɑrbɪtɚ]       n.仲裁者、主宰者  ar=an-否定 bit=bat=战斗
-
-
-
->>>       aspire       —       [ə'spaɪr]       v.渴望、追求  as=去 spir=呼吸  inspir
 >>>       assemble       —       [ə'sɛmbl]       v.集合、组装 sem=sam=同-；相同 “去成为同一个整体”
 >>>       assert       —       [ə'sɝt]       v.宣称、断言 sert=cert确定
 >>>       assess       —       [ə'sɛs]       v.评价、评估 评估；评价  sess评估
 >>>       assign       —       [ə'saɪn]       v.布置、分配  sign=记号；标记‘去签署自己的任务“
->>>       assimilation       —       [əˌsɪməˈleʃən]       n.同化  simil=相同 similar相似
-
->>>       associate       —       [ə'soʃɪet]       v.联合、使有联系
 >>>       assume       —       [ə'sum]       v.假设  sum=sumpt=拿；认为；消耗
 >>>       astrological       —       [,æstrə'lɔdʒikəl]       adj.占星的 astro=stell=星星
 >>>       astronomy       —       [ə'strɑnəmi]       n.天文学  astro=星星
->>>       atmosphere       —       ['ætməsfɪr]       n.大气（层）、空气、气氛 atmo=大气 sphere=球体
 >>>       auction       —       ['ɔkʃən]       v/n.拍卖  auct=aug=大；增大
+
+>>>       annual       —       ['ænjuəl]       adj.年度的、每年的
+>>>       apparent       —       [ə'pærənt]       adj.明显的  “一个家长特别明显”
+>>>       arbiter       —       ['ɑrbɪtɚ]       n.仲裁者、主宰者  ar=an-否定 bit=bat=战斗
+>>>       assimilation       —       [əˌsɪməˈleʃən]       n.同化  simil=相同 similar相似
+>>>       associate       —       [ə'soʃɪet]       v.联合、使有联系
 >>>       automated       —       [ɔtəˌmetɪd]       adj.自动（化）的
-
-
+>>>       atmosphere       —       ['ætməsfɪr]       n.大气（层）、空气、气氛 atmo=大气 sphere=球体
+>>>       aspire       —       [ə'spaɪr]       v.渴望、追求  as=去 spir=呼吸  inspir
+>>>       amplify      —      ['æmplɪfaɪ]      v.扩大、放大   amp 大
 >>>       assist       —       [ə'sɪst]       v.帮助、协助    sist 组成
 >>>       aspect       —       ['æspɛkt]       n.方面  spetc看
 >>>       artificial       —       [,ɑrtɪ'fɪʃl]       adj.人造的、人工的
@@ -44,5 +40,5 @@ DAY 2
 >>>       attract       —       [ə'trækt]       v.吸引、引起
 >>>       appoint       —       [ə'pɔɪnt]       v.指定、任命
 >>>       apply       —       [ə'plaɪ]       v.运用、适用、申请
->>>       appeal       —       [ə'pil]       v/n.上诉、吸引、请求
+>>>       appeal       —       [ə'pil]       v/n.上诉、吸引、请求  appear出现
 >>>       attribute       —       [əˈtrɪbjut]       n.特质、属性         v.归属  tribute=归与   attitude   titude感激  manner

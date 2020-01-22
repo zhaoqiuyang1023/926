@@ -2,7 +2,6 @@ DAY 6
 >>>       dampen      —      ['dæmpən]      v.使沮丧
 >>>       dawn       —       [dɔn]       v.破晓、出现       n.黎明、开端
 >>>       dearth       —       [də:θ]       n.缺乏、不足
-
 >>>       deceptive       —       [dɪ'sɛptɪv]       adj.骗人的、虚伪的
 >>>       declaration       —       [,dɛklə'reʃən]       n.申明、宣言
 >>>       decline       —       [dɪ'klaɪn]       v/n.下降、衰退、拒绝
@@ -14,7 +13,6 @@ DAY 6
 >>>       define       —       [dɪ'faɪn]       v.定义、明确
 >>>       deliberate       —       [dɪ'lɪbərət]       v.仔细考虑       adj.深思熟虑的、故意的
 >>>       delicate        —       [ˈdɛlɪkɪt]       adj.微妙的、棘手的、脆弱的
-
 >>>       delusion       —       [dɪ'luʒn]       n.错觉
 >>>       democratic       —       ['dɛmə'krætɪk]       adj.民主的
 >>>       demographic       —       [,dɛmə'ɡræfɪk]       adj.人口学的        n.人口统计数据
@@ -51,7 +49,6 @@ DAY 6
 >>>       disintegrate       —       [dɪs'ɪntɪɡret]       v.分解、破裂、衰退
 >>>       dismiss       —       [dɪs'mɪs]       v.解散、解雇、不予考虑
 >>>       disorder        —       [dɪs'ɔrdɚ]       v.扰乱、使失调       n.混乱、紊乱
-
 >>>       disposable       —       [dɪ'spozəbl]       adj.一次性的
 >>>       dispute       —       ['dɪs'pjʊt]       v/n.争论、反对
 >>>       disruptive       —       [dɪs'rʌptɪv]       adj.破坏（性）的、分裂（性）的
@@ -59,13 +56,11 @@ DAY 6
 >>>       distraction       —       [dɪ'strækʃən]       n.分心、分心的事物
 >>>       distressed       —       [dɪ'strɛst]       adj.焦虑的、不安的
 >>>       distressed       —       [dɪ'strɛst]       adj.焦虑的、不安的
-
 >>>       district       —       ['dɪstrɪkt]       n.区域、地区
 >>>       disturb       —       [dɪ'stɝb]       v.打搅、使烦恼、使混乱
 >>>       diverse       —       [daɪ'vɝs]       adj.不同的、各种各样的
 >>>       divisive       —       [di'vaisiv]       adj.分裂的、有分歧的
 >>>       domestic       —       [də'mɛstɪk]       adj.家庭的、国内的
-
 >>>       donate       —       ['donet]       v.捐献、捐赠
 >>>       doom       —       [dʊm]       n.厄运、灾难
 >>>       dormant       —       ['dɔrmənt]       adj.休眠的、静止的
@@ -75,6 +70,7 @@ DAY 6
 >>>       duplication       —       [,djʊplɪ'keʃən]       n.重复、复制、副本
 >>>       durable       —       ['dʊrəbl]       adj.持续的、持久的、耐用的
 >>>       dynamic       —       [daɪ'næmɪk]       adj.动力（学）的、动态的        n.动力、动态
+
 
 >>>       dominate       —       ['dɑmɪnet]       v.统治、支配、主导
 >>>       debate       —       [dɪ'bet]       v/n.争论、辩论

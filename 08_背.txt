@@ -4,7 +4,6 @@ DAY 8
 >>>       evoke       —       [ɪ'vok]       v.引起、唤起
 >>>       evolve       —       [ɪ'vɑlv]       v.发展、进化
 >>>       exaggerate        —       [ɪɡ'zædʒəret]       v.夸大、夸张 ger=gest=动作
-
 >>>       excellent       —       ['ɛksələnt]       adj.优秀的、卓越的
 >>>       excessive       —       [ɪkˈsɛsɪv]       adj.过度的、过量的
 >>>       exclusive       —       [ɪk'sklusɪv]       adj.排他的、独有的
@@ -17,7 +16,6 @@ DAY 8
 >>>       exploit       —       [ɛksplɔɪt]       v.开发、利用
 >>>       explore       —       [ɪk'splɔr]       v.探索、探测、探险
 >>>       explosion       —       [ɪk'sploʒən]       n.爆炸、爆发、激增
-
 >>>       expose       —       [ɪk'spoz]       v.揭露、使暴露、使曝光 pose 摆姿势
 >>>       express       —       [ɪk'sprɛs]       v.表露、表达
 >>>       extend       —       [ɪk'stɛnd]       v.延长、延期
@@ -25,12 +23,8 @@ DAY 8
 >>>       extinguish       —       [ɪk'stɪŋɡwɪʃ]       v.使熄灭、使破灭
 >>>       extract       —       ['ɛkstrækt]       v.提炼、提取、取出、拔出
 >>>       extraordinarily       —       [ɪk'strɔdɪn(ə)rəlɪ]       adv.非常地
-
-FAFF
-fab=fac=fact=制造
->>>       fabric       —       ['fæbrɪk]       n.组织、结构、织物
+>>>       fabric       —       ['fæbrɪk]       n.组织、结构、织物   fab=fac=fact=制造
 >>>       facilitate       —       [fə'sɪlə'tet]       v.促进、有助于
-
 >>>       faint       —       [fent]       adj.模糊的、微弱的、勉强的
 >>>       fantastic       —       [fæn'tæstɪk]       adj.异想天开的、不切实际的、极好的
 >>>       fascinate       —       ['fæsə'net]       v.入迷、使着迷
@@ -38,20 +32,14 @@ fab=fac=fact=制造
 >>>       favorable       —       ['fevərəbl]       adj.有利的、赞成的、支持的 favo喜欢
 >>>       federal       —       ['fɛdərəl]       adj.联邦的
 >>>       feverish       —       ['fivərɪʃ]       adj.发热的、狂热的
-
 >>>       fierce       —       [fɪrs]       adj.凶猛的、激烈的 force
 >>>       finite       —       ['faɪnaɪt]       adj.有限的
 >>>       flaw       —       [flɔ]       n.缺陷、瑕疵、裂缝  flawless 无暇
 >>>       flourish       —       [ˈflɜːrɪʃ]       v/n.繁荣、兴旺 flow
 >>>       folk       —       [fok]       adj.民间的         n.人们（多用复数）
-
-
-
 >>>       foster       —       ['fɔstɚ]       v.促进、助长  fos=fod
-
 >>>       fraction       —       ['frækʃən]       n.（小）部分、少量 frac=frag 折断
 >>>       fragile       —       ['frædʒəl]       adj.脆弱的、易碎的
-
 >>>       freeze       —       [friz]       v.冻结  free=fri
 >>>       frugal        —       ['fruɡl]       adj.朴素的、节俭的
 >>>       frustrate       —       ['frʌstret]       v.失败、受挫
