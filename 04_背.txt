@@ -12,7 +12,6 @@ DAY 4
 >>>       commodity       —       [kə'mɑdəti]       n.商品
 >>>       community       —       [kəˈmjunətɪ]       n.社区、团体
 >>>       compact       —       ['kɑmpækt]       n.合同、契约
->>>       compare       —       [kəm'pɛr]       v.对比、比较 
 >>>       compelling       —       [kəm'pɛlɪŋ]       adj.强制的、有说服力的
 >>>       compensate       —       ['kɑmpɛnset]       v.补偿、赔偿、弥补、抵消
 >>>       competent       —       ['kɑmpɪtənt]       adj.有能力的、能胜任的
@@ -34,7 +33,7 @@ DAY 4
 >>>       conduct       —       [kən'dʌkt]       v.实施、管理、引导        n.行为 
 >>>       confer       —       [kən'fɝ]       v.给予、协商
 
-
+>>>       compare       —       [kəm'pɛr]       v.对比、比较
 >>>       component       —       [kəm'ponənt]       n.组成部分
 >>>       commit       —       [kə'mɪt]       v.进行、实施
 >>>       command       —       [kə'mænd]       v/n.命令、指挥、掌握

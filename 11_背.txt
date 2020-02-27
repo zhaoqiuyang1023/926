@@ -1,20 +1,4 @@
 DAY 11
->>>       journal        —       ['dʒɝnl]       n.日报、杂志、期刊  jour 天   journey 行程
->>>       jury       —       ['dʒʊri]       n.陪审团、评委会        jus=jur 正确
->>>       justice       —       ['dʒʌstɪs]       n.法官、公正、司法
->>>       lag       —       [læɡ]       v/n.落后、滞后、延迟
->>>       lame       —       [lem]       adj.瘸的、站不住脚的
->>>       lean       —       [lin]       v.倾斜、倚靠        adj.瘦的 
->>>       legacy       —       ['lɛgəsi]       n.遗产、传统   词根 leg 法律
->>>       legal       —       ['ligl]       adj.法律的、合法的  il legal 非法的
->>>       legitimate       —       [ləˈdʒɪtəmɪt]       adj.合法的、合理的、正当的
->>>       leisure       —       ['liʒɚ]       adj.空闲的、休闲的       n.空闲、休闲  累了一定要休闲一下 记忆方法
->>>       liberal       —       ['lɪbərəl]       adj.自由（主义）的、开明的       n.自由主义者、自由党   liber
->>>       lineage       —       ['lɪnɪɪdʒ]       n.血统、谱系 line 线+age
->>>       literate       —       ['lɪtərət]       adj.有文化的、有读写能力的 liter=leter =字母;文字 liter ature 文学
->>>       lobby       —       ['lɑbi]       v.游说 n.大厅    lob=log=loc =loqu 说
->>>       lure       —       [lʊr]       v/n.引诱、诱惑  lur=lus=lux =光；色
->>>       luxury       —       [ˈlʌkʃəri]       adj.奢侈的       n.奢侈（品）
 >>>       magnify       —       ['mæɡnɪfaɪ]       v.放大、扩大   magn=maj=大
 >>>       maintain       —       [men'ten]       v.保持、维持、坚持认为   tain=拿，保持  main=man=收 attain 获得
 >>>       majestic       —       [mə'dʒɛstɪk]       adj.宏伟的、壮丽的、高贵的
@@ -48,6 +32,24 @@ DAY 11
 >>>       mutual       —       ['mjutʃuəl]       adj.相互的、共同的   mut=mun=改变；交换
 
 
+
+
+>>>       journal        —       ['dʒɝnl]       n.日报、杂志、期刊  jour 天   journey 行程
+>>>       jury       —       ['dʒʊri]       n.陪审团、评委会        jus=jur 正确
+>>>       justice       —       ['dʒʌstɪs]       n.法官、公正、司法
+>>>       lag       —       [læɡ]       v/n.落后、滞后、延迟
+>>>       lame       —       [lem]       adj.瘸的、站不住脚的
+>>>       lean       —       [lin]       v.倾斜、倚靠        adj.瘦的
+>>>       legacy       —       ['lɛgəsi]       n.遗产、传统   词根 leg 法律
+>>>       legal       —       ['ligl]       adj.法律的、合法的  il legal 非法的
+>>>       legitimate       —       [ləˈdʒɪtəmɪt]       adj.合法的、合理的、正当的
+>>>       leisure       —       ['liʒɚ]       adj.空闲的、休闲的       n.空闲、休闲  累了一定要休闲一下 记忆方法
+>>>       liberal       —       ['lɪbərəl]       adj.自由（主义）的、开明的       n.自由主义者、自由党   liber
+>>>       lineage       —       ['lɪnɪɪdʒ]       n.血统、谱系 line 线+age
+>>>       literate       —       ['lɪtərət]       adj.有文化的、有读写能力的 liter=leter =字母;文字 liter ature 文学
+>>>       lobby       —       ['lɑbi]       v.游说 n.大厅    lob=log=loc =loqu 说
+>>>       lure       —       [lʊr]       v/n.引诱、诱惑  lur=lus=lux =光；色
+>>>       luxury       —       [ˈlʌkʃəri]       adj.奢侈的       n.奢侈（品）
 >>>       mislead       —       ['mɪs'lid]       v.误导
 >>>       leakage       —       ['likɪdʒ]       n.泄露    leak 漏水
 >>>       launch       —       [lɔntʃ]       v.发起、推出（新产品） lance 长毛

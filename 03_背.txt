@@ -1,8 +1,5 @@
 DAY 3
->>>       bankruptcy      —      ['bæŋkrʌptsi]      n.破产
 >>>       barely       —       ['bɛrli]       adv.仅仅、几乎没有
->>>       barrier       —       ['bærɪɚ]       n.障碍
->>>       behavior       —       [bɪ'hevjɚ]       n.行为、举止
 >>>       bellyful       —       ['bɛlɪ'fʊl]       n.满腹
 >>>       benefactor       —       ['bɛnɪfæktɚ]       n.捐助者
 >>>       benign       —       [bɪ'naɪn]       adj.良性的
@@ -23,23 +20,25 @@ DAY 3
 >>>       bureaucratic       —       [,bjʊrə'krætɪk]       adj.官僚主义的
 >>>       burst       —       [bɝst]       v/n.爆炸、爆发
 >>>       candidate       —       [ˈkændɪˌdet]       n.候选人
->>>       capable       —       ['kepəbl]       adj.有能力的、能胜任的
 >>>       capacity       —       [kə'pæsəti]       n.能力
 >>>       capture       —       v.俘获、捕捉       n.俘虏、战利品
 >>>       carve       —       [kɑrv]       v.切、雕刻
->>>       category       —       ['kætəgɔri]       n.分类、范畴
 >>>       cater       —       ['ketɚ]       v.迎合、为……服务
 >>>       cavity       —       ['kævəti]       n.腔、洞、(牙齿的)龋洞
 >>>       celebrate       —       [sɛləˌbret]       v.庆祝
->>>       charity       —       ['tʃærəti]       n.慈善（机构）
 >>>       chronic       —       ['krɑnɪk]       adj.长期的、慢性的
 >>>       circuit       —       ['sɝkɪt]       v.环行       n.巡回、电路
 >>>       civil       —       ['sɪvl]       adj.公民的、文明的
->>>       claim       —       [klem]       v/n.声称、要求、索赔
 >>>       clarity       —       ['klærəti]       n.清晰
 >>>       cloak       —       [klok]       v.遮盖、掩饰       n.斗篷
 
-
+>>>       claim       —       [klem]       v/n.声称、要求、索赔
+>>>       category       —       ['kætəgɔri]       n.分类、范畴
+>>>       charity       —       ['tʃærəti]       n.慈善（机构）
+>>>       capable       —       ['kepəbl]       adj.有能力的、能胜任的
+>>>       behavior       —       [bɪ'hevjɚ]       n.行为、举止
+>>>       barrier       —       ['bærɪɚ]       n.障碍
+>>>       bankruptcy      —      ['bæŋkrʌptsi]      n.破产
 >>>       caution       —       ['kɔʃən]       v.警告       n.小心、谨慎、警告
 >>>       boom       —       [buːm]       v.迅速发展         n.繁荣、兴旺
 >>>       bother       —       ['bɑðɚ]       v/n.操心、烦恼

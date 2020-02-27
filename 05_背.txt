@@ -6,12 +6,12 @@ DAY 5
 >>>       confuse       —       [kən'fjʊz]       v.迷惑、使困惑
 >>>       congress       —       ['kɑŋɡrəs]       n.国会
 >>>       conjunction       —       [kən'dʒʌŋkʃən]       n.结合、同时发生
->>>       conquer       —       ['kɑŋkɚ]       v.征服、克服  
+>>>       conquer       —       ['kɑŋkɚ]       v.征服、克服
 >>>       conscience       —       [ˈkɑːnʃəns]       n.良心、良知
 >>>       conscious       —       ['kɑnʃəs]       adj.有意识的
 >>>       consent       —       [kən'sɛnt]       v/n.赞成、同意
 >>>       consequence       —       ['kɑnsəkwɛns]       n.结果  （看谁困死）
->>>       conservative       —       [kən'sɝvətɪv]       adj.保守的       n.保守派、保守党 
+>>>       conservative       —       [kən'sɝvətɪv]       adj.保守的       n.保守派、保守党
 >>>       consistent        —       [kən'sɪstənt]       adj.一致的、始终如一的
 >>>       consolidation       —       [kən,sɑlə'deʃən]       n.合并
 >>>       constant       —       ['kɑnstənt]       adj.恒定的、持续的、经常的       n.常数、不变的事物
@@ -53,10 +53,9 @@ DAY 5
 >>>       cunning       —       ['kʌnɪŋ]       adj.巧妙的、狡猾的、可爱的
 >>>       curb       —       [kɝb]       v/n.限制、抑制
 >>>       cure       —       [kjʊr]       v.治疗       n.治疗、疗法
->>>       curiosity       —       [,kjʊrɪ'ɑsəti]       n.好奇心
 >>>       cursory       —       ['kə:səri]       adj.粗略的、草率的、匆忙的
 
-
+>>>       curiosity       —       [,kjʊrɪ'ɑsəti]       n.好奇心
 >>>       creep       —       [krip]       v.爬行、缓慢移动
 >>>       credit       —       ['krɛdɪt]       v.相信、信任、认可       n.信用、信任、认可、学分
 >>>       core       —       [kɔr]       n.核心、要点

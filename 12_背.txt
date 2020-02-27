@@ -1,11 +1,7 @@
 DAY 12
->>>       neglect       —       [nɪ'glɛkt]       v/n.疏忽、忽视
 >>>       negotiate       —       [nɪ'ɡoʃɪet]       v.协商、谈判
->>>       nightmare       —       ['naɪt'mɛr]       n.恶梦、噩梦
 >>>       nonsense       —       ['nɑnsɛns]       adj.荒谬的       n.胡说
 >>>       notably       —       ['notəbli]       adv.明显地
->>>       noteworthy       —       ['notwɝði]       adj.值得注意的、显著的
->>>       novel       —       [ˈnɑːvl]       adj.新颖的、新奇的        n.小说
 >>>       nurture       —       ['nɝtʃɚ]       v/n.培养、培育、养育     nurse /护士
 >>>       obesity       —       [o'bisəti]       n.肥胖
 >>>       oblige       —       [ə'blaɪdʒ]       v.强制、强迫、迫使
@@ -18,12 +14,15 @@ DAY 12
 >>>       oppressive       —       [ə'prɛsɪv]       adj.压迫的、压抑的
 >>>       organism       —       ['ɔrɡənɪzəm]       n.生物体、有机体
 >>>       orientate       —       ['orɪɛntet]       v.定位、定向
->>>       original       —       [ə'rɪdʒənl]       adj.起初的、原始的
 >>>       ornament       —       ['ɔrnəmənt]       n.装饰（物）
->>>       outlive       —       [,aʊt'lɪv]       v.比……活得长
 >>>       outraged       —       ['autreidʒid]       adj.愤怒的
 
-
+>>>       outlive       —       [,aʊt'lɪv]       v.比……活得长
+>>>       original       —       [ə'rɪdʒənl]       adj.起初的、原始的
+>>>       noteworthy       —       ['notwɝði]       adj.值得注意的、显著的
+>>>       novel       —       [ˈnɑːvl]       adj.新颖的、新奇的        n.小说
+>>>       nightmare       —       ['naɪt'mɛr]       n.恶梦、噩梦
+>>>       neglect       —       [nɪ'glɛkt]       v/n.疏忽、忽视
 >>>       negative       —       ['nɛɡətɪv]       adj.负面的、消极的、否定的
 >>>       nasty       —      ['næsti]      adj.肮脏的、令人厌恶的
 >>>       overwhelming       —       [,ovɚ'wɛlmɪŋ]       adj.压倒性的、势不可挡的

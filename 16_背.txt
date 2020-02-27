@@ -17,7 +17,6 @@ DAY 16
 >>>       substitute       —       ['sʌbstɪtut]       v.替代       n.替代（品）  
 >>>       subtle       —       ['sʌtl]       adj.不明显的、不易察觉的
 >>>       suicide       —       ['suɪsaɪd]       v/n.自杀
->>>       suitable       —       ['sutəbl]       adj.合适的、适当的、恰当的
 >>>       summit       —       ['sʌmɪt]       n.顶点、顶峰
 >>>       superb       —       [suːˈpɜːrb]       adj.非常好的
 >>>       superior        —       [sʊˈpɪrɪɚ]       adj.比……好的、优秀的、出众的
@@ -36,7 +35,7 @@ DAY 16
 >>>       swing       —       [swɪŋ]       v/n.摇摆、波动、涨落
 >>>       symbol       —       ['sɪmbl]       n.标志、象征
 
-
+>>>       suitable       —       ['sutəbl]       adj.合适的、适当的、恰当的
 >>>       switch       —       [swɪtʃ]       v.转移、转换
 >>>       suffer       —       ['sʌfɚ]       v.遭受、经受
 >>>       subject       —       [ˈsʌbdʒɪkt]       v.使遭受         n.话题、主题、（研究）对象

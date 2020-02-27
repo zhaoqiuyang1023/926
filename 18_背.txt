@@ -17,17 +17,16 @@ DAY 18
 >>>       vanish       —       ['vænɪʃ]       v.消失
 >>>       vanity       —       ['vænəti]       n.虚荣心
 >>>       verbal       —       ['vɝbl]       adj.口头的、语言的、文字的
->>>       verdict       —       ['vɝdɪkt]       n.结论、裁决
->>>       viable       —       ['vaiəbl]       adj.可行的
 >>>       vibrant       —       ['vaɪbrənt]       adj.充满活力的
 >>>       vigorously       —       ['vɪgərəsli]       adv.精力充沛地、强烈地
 >>>       violate       —       ['vaɪəlet]       v.违反、侵犯
 >>>       virtually       —       [ˈvɜrtʃuəli]       adv.几乎、事实上
 >>>       vision       —       ['vɪʒən]       n.视力、视野、憧憬
 >>>       vivid       —       ['vɪvɪd]       adj.生动的、逼真的
+
+>>>       verdict       —       ['vɝdɪkt]       n.结论、裁决
+>>>       viable       —       ['vaiəbl]       adj.可行的
 >>>       vocation       —       [vo'keʃən]       n.职业
-
-
 >>>       vain       —       [ven]       adj.自负的  徒劳的；自负的；无结果的；无用的
 >>>       vital       —       ['vaɪtl]       adj.至关重要的、生死攸关的
 >>>       visual       —       ['vɪʒʊəl]       adj.视力的、视觉的

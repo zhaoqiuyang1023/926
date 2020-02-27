@@ -1,12 +1,9 @@
 DAY 15
->>>       satisfy      —      ['sætɪsfaɪ]      v.满足、使满意
 >>>       saturate       —       ['sætʃərɪt]       v.浸透、使饱和
 >>>       scapegoat       —       ['skepɡot]       n.替罪羊
 >>>       scary       —       ['skɛri]       adj.可怕的、胆小的
 >>>       scorn       —       [skɔrn]       v/n.轻蔑、鄙视
 >>>       scrutinize       —       ['skrutənaɪz]       v/n.仔细察看、详细检查
->>>       segment        —       ['sɛɡmənt]       v.切分、分割         n.部分
->>>       senior       —       ['sinɪɚ]       adj.年长的、高级的、资深的
 >>>       sensitive       —       ['sɛnsətɪv]       adj.敏感的
 >>>       sentiment       —       ['sɛntɪmənt]       n.感情、情绪
 >>>       separate       —       [sɛpəˌret]       adj.单独的、分开的       v.分开、隔开、使分离
@@ -24,6 +21,10 @@ DAY 15
 >>>       stagnation       —       [stæg'neʃən]       n.停滞
 
 
+
+>>>       senior       —       ['sinɪɚ]       adj.年长的、高级的、资深的
+>>>       satisfy      —      ['sætɪsfaɪ]      v.满足、使满意
+>>>       segment        —       ['sɛɡmənt]       v.切分、分割         n.部分
 >>>       section       —       ['sɛkʃən]       n.部分、部门、地区、章节
 >>>       statement       —       ['stetmənt]       n.陈述、声明、报表、清单
 >>>       statistical       —       [stə'tɪstɪkl]       adj.统计（学）的
