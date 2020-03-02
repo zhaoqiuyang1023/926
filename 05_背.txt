@@ -21,7 +21,7 @@ DAY 5
 >>>       consume       —       [kənˈsum]       v.消费、消耗
 >>>       contempt       —       [kən'tɛmpt]       n.轻蔑、蔑视
 >>>       contend       —       [kən'tɛnd]       v.主张、认为
->>>       content       —       ['kɑntɛnt]       adj.满意的、满足的       v.使满意、使满足         n.满意、满足、内容、含量
+
 >>>       contest       —       [kən'tɛst]       v/n.竞争、争论
 >>>       contract        —       ['kɑntrækt]       n.合约、合同
 >>>       contradictory       —       [,kɑntrə'dɪktəri]       adj.矛盾的
@@ -55,6 +55,8 @@ DAY 5
 >>>       cure       —       [kjʊr]       v.治疗       n.治疗、疗法
 >>>       cursory       —       ['kə:səri]       adj.粗略的、草率的、匆忙的
 
+
+>>>       content       —       ['kɑntɛnt]       adj.满意的、满足的       v.使满意、使满足         n.满意、满足、内容、含量
 >>>       curiosity       —       [,kjʊrɪ'ɑsəti]       n.好奇心
 >>>       creep       —       [krip]       v.爬行、缓慢移动
 >>>       credit       —       ['krɛdɪt]       v.相信、信任、认可       n.信用、信任、认可、学分

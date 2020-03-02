@@ -84,5 +84,8 @@ DAY 13
 >>>       prudent       —       ['prʊdnt]       adj.谨慎的
 >>>       psychology       —       [saɪ'kɑlədʒi]       n.心理（学）
 >>>       publication       —       [,pʌblɪ'keʃən]       n.出版（物）
->>>       purchase       —       ['pɝtʃəs]       v/n.购买
+
 >>>       pursuit       —       [pɚ'sut]       n.追赶、追求、职业、工作
+
+
+>>>       purchase       —       ['pɝtʃəs]       v/n.购买

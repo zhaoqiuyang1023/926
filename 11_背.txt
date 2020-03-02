@@ -1,7 +1,4 @@
 DAY 11
->>>       magnify       —       ['mæɡnɪfaɪ]       v.放大、扩大   magn=maj=大
->>>       maintain       —       [men'ten]       v.保持、维持、坚持认为   tain=拿，保持  main=man=收 attain 获得
->>>       majestic       —       [mə'dʒɛstɪk]       adj.宏伟的、壮丽的、高贵的
 >>>       mandatory       —       ['mændətɔri]       adj.强制性的、法定的、义务的、必修的 mand=命令
 >>>       manipulate       —       [mə'nɪpjulet]       v.操作、操纵、控制  mani=manu=手 ；pul=pel =推
 >>>       manufacture       —       ['mænjə'fæktʃɚ]       v.加工、制造       n.制造业 fact 手
@@ -31,9 +28,9 @@ DAY 11
 >>>       motivate       —       ['motə'vet]       v.激发、激励
 >>>       mutual       —       ['mjutʃuəl]       adj.相互的、共同的   mut=mun=改变；交换
 
-
-
-
+>>>       majestic       —       [mə'dʒɛstɪk]       adj.宏伟的、壮丽的、高贵的
+>>>       maintain       —       [men'ten]       v.保持、维持、坚持认为   tain=拿，保持  main=man=收 attain 获得
+>>>       magnify       —       ['mæɡnɪfaɪ]       v.放大、扩大   magn=maj=大
 >>>       journal        —       ['dʒɝnl]       n.日报、杂志、期刊  jour 天   journey 行程
 >>>       jury       —       ['dʒʊri]       n.陪审团、评委会        jus=jur 正确
 >>>       justice       —       ['dʒʌstɪs]       n.法官、公正、司法

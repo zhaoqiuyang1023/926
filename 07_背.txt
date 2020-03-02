@@ -1,8 +1,6 @@
 DAY 7
->>>       elaborate       —       [ɪ'læbəret]       v.精心准备、详细阐述        adj.精心的、精致的、详尽的 
->>>       elect        —       [ɪ'lɛkt]       v.推选、选举
+>>>       elaborate       —       [ɪ'læbəret]       v.精心准备、详细阐述        adj.精心的、精致的、详尽的
 >>>       elegant       —       ['ɛləgənt]       adj.优雅的、高雅的
->>>       element       —       ['ɛləmənt]       n.元素、要素、成分
 >>>       elevate       —       ['ɛlɪvet]       v.提升、提高
 >>>       eligible       —       ['ɛlɪdʒəbl]       adj.合格的、有资格的、符合条件的
 >>>       eliminate       —       [ɪ'lɪmɪnet]       v.消除、排除
@@ -17,10 +15,8 @@ DAY 7
 >>>       empower       —       [ɪm'paʊɚ]       v.授权、允许 
 >>>       encounter       —       [ɪn'kaʊntɚ]       v/n.遭遇、遇到
 >>>       endeavor       —       [ɪn'dɛvɚ]       v/n.努力、尝试
->>>       endure       —       [ɪn'dʊr]       v.承受、忍受、持续、延续
 >>>       engage       —       [ɪn'ɡedʒ]       v.从事、参与
 >>>       enhance       —       [ɪn'hæns]       v.提高、增加、加强
->>>       enlarge       —       [ɪn'lɑrdʒ]       v.扩大、放大
 >>>       enormous       —       [ɪ'nɔrməs]       adj.巨大的
 >>>       enrage       —       [in'reidʒ]       v.激怒
 >>>       entail       —       [ɪn'tel]       v.需要
@@ -38,7 +34,10 @@ DAY 7
 >>>       ethical       —       ['ɛθɪkl]       adj.伦理的、道德的
 >>>       evaluate       —       [ɪ'væljʊ'et]       v.评价、评估
 
-
+>>>       enlarge       —       [ɪn'lɑrdʒ]       v.扩大、放大
+>>>       endure       —       [ɪn'dʊr]       v.承受、忍受、持续、延续
+>>>       element       —       ['ɛləmənt]       n.元素、要素、成分
+>>>       elect        —       [ɪ'lɛkt]       v.推选、选举
 >>>       entitle       —       [ɪn'taɪtl]       v.给……命名、授予……称号、使有权利/资格
 >>>       effective       —       [ɪ'fɛktɪv]       adj.有效的
 >>>       efficient        —       [ɪ'fɪʃnt]       adj.有效率的

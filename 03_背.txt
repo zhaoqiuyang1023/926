@@ -12,7 +12,6 @@ DAY 3
 >>>       board       —       [bɔrd]       n.委员会、董事会
 >>>       boundary       —       ['baʊndri]       n.界限、范围 
 >>>       bribery       —       ['braɪbəri]       n.行贿、受贿
->>>       brief       —       [brif]       adj.简短的、简洁的       n.摘要、简报
 >>>       broaden       —       ['brɔdn]       v.扩大、加宽
 >>>       broker       —      ['brokɚ]      n.经纪人
 >>>       bubble       —       ['bʌbl]       v.冒泡         n.气泡、泡沫
@@ -20,18 +19,21 @@ DAY 3
 >>>       bureaucratic       —       [,bjʊrə'krætɪk]       adj.官僚主义的
 >>>       burst       —       [bɝst]       v/n.爆炸、爆发
 >>>       candidate       —       [ˈkændɪˌdet]       n.候选人
->>>       capacity       —       [kə'pæsəti]       n.能力
 >>>       capture       —       v.俘获、捕捉       n.俘虏、战利品
->>>       carve       —       [kɑrv]       v.切、雕刻
 >>>       cater       —       ['ketɚ]       v.迎合、为……服务
 >>>       cavity       —       ['kævəti]       n.腔、洞、(牙齿的)龋洞
->>>       celebrate       —       [sɛləˌbret]       v.庆祝
 >>>       chronic       —       ['krɑnɪk]       adj.长期的、慢性的
 >>>       circuit       —       ['sɝkɪt]       v.环行       n.巡回、电路
 >>>       civil       —       ['sɪvl]       adj.公民的、文明的
->>>       clarity       —       ['klærəti]       n.清晰
->>>       cloak       —       [klok]       v.遮盖、掩饰       n.斗篷
 
+
+
+>>>       cloak       —       [klok]       v.遮盖、掩饰       n.斗篷
+>>>       celebrate       —       [sɛləˌbret]       v.庆祝
+>>>       carve       —       [kɑrv]       v.切、雕刻
+>>>       capacity       —       [kə'pæsəti]       n.能力
+>>>       clarity       —       ['klærəti]       n.清晰
+>>>       brief       —       [brif]       adj.简短的、简洁的       n.摘要、简报
 >>>       claim       —       [klem]       v/n.声称、要求、索赔
 >>>       category       —       ['kætəgɔri]       n.分类、范畴
 >>>       charity       —       ['tʃærəti]       n.慈善（机构）

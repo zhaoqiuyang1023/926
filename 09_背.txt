@@ -3,15 +3,16 @@ DAY 9
 >>>       grievance       —       ['grivəns]       n.委屈、不满
 >>>       guarantee       —       [,ɡærən'ti]       v/n.保证、确保
 >>>       hasten       —       ['hesn]       v.加速
->>>       hemisphere       —       ['hɛmɪsfɪr]       n.半球
 >>>       heritage       —       ['hɛrɪtɪdʒ]       n.遗产、传统
 >>>       hierarchical       —       [,haɪə'rɑrkɪkl]       adj.分层的、分级的、等级森严的
 >>>       hostile       —       [ˈhɑstl]       adj.敌对的、怀有敌意的
->>>       humane       —       [hju'men]       adj.人道的、仁慈的
+
 >>>       humble       —       ['hʌmbl]       adj.普通的、谦逊的
 
 
 
+>>>       humane       —       [hju'men]       adj.人道的、仁慈的
+>>>       hemisphere       —       ['hɛmɪsfɪr]       n.半球
 >>>       garment      —      ['gɑrmənt]      n.衣服、服装
 >>>       genuinely       —       ['dʒenjuinli]       adv.真诚地、诚实地
 >>>       glamorous       —       ['glæmərəs]       adj.迷人的、富有魅力的

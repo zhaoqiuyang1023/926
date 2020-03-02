@@ -10,7 +10,6 @@ DAY 15
 >>>       severe       —       [səˈvɪr]       adj.严重的、严峻的、严厉的
 >>>       shield       —       [ʃild]       v.遮挡、保护         n.盾牌
 >>>       shrinking       —       [ʃrɪŋkɪŋ]       adj.缩小的、萎缩的         n.缩小、萎缩
->>>       significant       —       [sɪɡ'nɪfɪkənt]       adj.重要的
 >>>       skeptical       —       ['skɛptɪkl]       adj.怀疑的
 >>>       slack       —       [slæk]       v.偷懒
 >>>       sophisticated       —       [sə'fɪstɪketɪd]       adj.复杂的、高级的、精致的
@@ -21,7 +20,7 @@ DAY 15
 >>>       stagnation       —       [stæg'neʃən]       n.停滞
 
 
-
+>>>       significant       —       [sɪɡ'nɪfɪkənt]       adj.重要的
 >>>       senior       —       ['sinɪɚ]       adj.年长的、高级的、资深的
 >>>       satisfy      —      ['sætɪsfaɪ]      v.满足、使满意
 >>>       segment        —       ['sɛɡmənt]       v.切分、分割         n.部分
