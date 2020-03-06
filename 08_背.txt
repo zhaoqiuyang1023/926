@@ -17,8 +17,6 @@ DAY 8
 >>>       explore       —       [ɪk'splɔr]       v.探索、探测、探险
 >>>       explosion       —       [ɪk'sploʒən]       n.爆炸、爆发、激增
 >>>       expose       —       [ɪk'spoz]       v.揭露、使暴露、使曝光 pose 摆姿势
->>>       extend       —       [ɪk'stɛnd]       v.延长、延期
->>>       external       —       [ɪk'stɝnl]       adj.外部的、外在的
 >>>       extinguish       —       [ɪk'stɪŋɡwɪʃ]       v.使熄灭、使破灭
 >>>       extract       —       ['ɛkstrækt]       v.提炼、提取、取出、拔出
 >>>       extraordinarily       —       [ɪk'strɔdɪn(ə)rəlɪ]       adv.非常地
@@ -28,11 +26,10 @@ DAY 8
 >>>       fantastic       —       [fæn'tæstɪk]       adj.异想天开的、不切实际的、极好的
 >>>       fascinate       —       ['fæsə'net]       v.入迷、使着迷
 >>>       fatal        —       ['fetl]       adj.致命的、重大的
->>>       favorable       —       ['fevərəbl]       adj.有利的、赞成的、支持的 favo喜欢
+>>>       favorable       —       ['fevərəbl]       adj.有利的、赞成的、支持的 favo喜欢  favorite 最喜欢的
 >>>       federal       —       ['fɛdərəl]       adj.联邦的
 >>>       feverish       —       ['fivərɪʃ]       adj.发热的、狂热的
 >>>       fierce       —       [fɪrs]       adj.凶猛的、激烈的 force
->>>       finite       —       ['faɪnaɪt]       adj.有限的
 >>>       flaw       —       [flɔ]       n.缺陷、瑕疵、裂缝  flawless 无暇
 >>>       flourish       —       [ˈflɜːrɪʃ]       v/n.繁荣、兴旺 flow
 >>>       folk       —       [fok]       adj.民间的         n.人们（多用复数）
@@ -44,7 +41,9 @@ DAY 8
 >>>       frustrate       —       ['frʌstret]       v.失败、受挫
 >>>       fulfill       —       [ful'fil]       v.履行、实现、满足 fill=full
 
-
+>>>       finite       —       ['faɪnaɪt]       adj.有限的
+>>>       extend       —       [ɪk'stɛnd]       v.延长、延期
+>>>       external       —       [ɪk'stɝnl]       adj.外部的、外在的
 >>>       express       —       [ɪk'sprɛs]       v.表露、表达
 >>>       export       —       [ˈekspɔːrt]       v/n.输出、出口
 >>>       fade       —       [fed]       v.褪色、变弱、逐渐消失  “谐音废的”

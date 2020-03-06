@@ -1,11 +1,10 @@
 DAY 17
 >>>       temporary       —       [ˈtempəreri]       adj.暂时的、临时的
->>>       transaction       —       [træn'zækʃən]       n.交易
->>>       transcendence       —       [træn'sendəns]       n.超越
->>>       triumph       —       [ˈtraɪəmf]       v/n.成功
 >>>       turbulent        —       ['tɝbjələnt]       adj.混乱的、湍急的
 
 
+>>>       triumph       —       [ˈtraɪəmf]       v/n.成功
+>>>       transaction       —       [træn'zækʃən]       n.交易
 >>>       tempt        —       [tɛmpt]       v.引诱、诱使、吸引
 >>>       toxic       —       ['tɑksɪk]       adj.有毒的
 >>>       tissue       —       ['tɪʃu]       n.（动植物的）组织
@@ -26,3 +25,4 @@ DAY 17
 >>>       transparency       —       [træns'pærənsi]       n.透明（度）
 >>>       transmit        —       [trænzˈmɪt]       v.传输、传播
 >>>       terrify       —       [ˈtɛrəˌfaɪ]       v.恐吓、使害怕
+>>>       transcendence       —       [træn'sendəns]       n.超越

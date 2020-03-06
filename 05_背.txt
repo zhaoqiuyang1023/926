@@ -1,7 +1,6 @@
 DAY 5
 >>>       confident      —      ['kɑnfɪdənt]      adj.自信的、有信心的
 >>>       confine       —       [kən'faɪn]       v.限制、约束       n.限制、约束、界限
->>>       conflict       —       ['kɑnflɪkt]       v.与……相冲突       n.冲突、矛盾
 >>>       confront       —       [kən'frʌnt]       v.遭遇、面对
 >>>       confuse       —       [kən'fjʊz]       v.迷惑、使困惑
 >>>       congress       —       ['kɑŋɡrəs]       n.国会
@@ -18,10 +17,8 @@ DAY 5
 >>>       constitute       —       ['kɑnstətut]       v.组成、构成
 >>>       constrain       —       [kən'stren]       v.限制、约束
 >>>       construction       —       [kən'strʌkʃən]       n.建立、建造、建筑（物）
->>>       consume       —       [kənˈsum]       v.消费、消耗
 >>>       contempt       —       [kən'tɛmpt]       n.轻蔑、蔑视
 >>>       contend       —       [kən'tɛnd]       v.主张、认为
-
 >>>       contest       —       [kən'tɛst]       v/n.竞争、争论
 >>>       contract        —       ['kɑntrækt]       n.合约、合同
 >>>       contradictory       —       [,kɑntrə'dɪktəri]       adj.矛盾的
@@ -29,14 +26,11 @@ DAY 5
 >>>       controversial       —       [,kɑntrə'vɝʃl]       adj.有争议的
 >>>       conventional       —       [kən'vɛnʃənl]       adj.传统的、常规的
 >>>       converge       —       [kən'vɝdʒ]       v.聚集、汇合
->>>       convert       —       [kən'vɝt]       v.转变、转化
->>>       convey       —       [kən've]       v.运输、表达
 >>>       conviction       —       [kən'vɪkʃən]       n.判决、定罪
 >>>       convincing       —       [kən'vɪnsɪŋ]       adj.令人信服的、有说服力的
 >>>       cooperate        —       [koʊˈɑːpəreɪt]       v.配合、合作 
 >>>       coordination       —       [ko,ɔrdɪ'neʃən]       n.协调、配合、合作
 >>>       corporate       —       [ˈkɔːrpərət]       adj.公司的、企业的
->>>       correct       —       [kə'rɛkt]       adj.正确的
 >>>       correlate       —       ['kɔrəlet]       v.使相互关联、和……相关
 >>>       correspond       —       [,kɔrə'spɑnd]       v.符合、一致、通信
 >>>       corruption       —       [kə'rʌpʃən]       n.贪污、腐败
@@ -52,10 +46,15 @@ DAY 5
 >>>       cultivate       —       ['kʌltɪvet]       v.种植、培养
 >>>       cunning       —       ['kʌnɪŋ]       adj.巧妙的、狡猾的、可爱的
 >>>       curb       —       [kɝb]       v/n.限制、抑制
->>>       cure       —       [kjʊr]       v.治疗       n.治疗、疗法
 >>>       cursory       —       ['kə:səri]       adj.粗略的、草率的、匆忙的
 
 
+>>>       convert       —       [kən'vɝt]       v.转变、转化
+>>>       convey       —       [kən've]       v.运输、表达
+>>>       consume       —       [kənˈsum]       v.消费、消耗  customer 客户
+>>>       correct       —       [kə'rɛkt]       adj.正确的
+>>>       cure       —       [kjʊr]       v.治疗       n.治疗、疗法
+>>>       conflict       —       ['kɑnflɪkt]       v.与……相冲突       n.冲突、矛盾
 >>>       content       —       ['kɑntɛnt]       adj.满意的、满足的       v.使满意、使满足         n.满意、满足、内容、含量
 >>>       curiosity       —       [,kjʊrɪ'ɑsəti]       n.好奇心
 >>>       creep       —       [krip]       v.爬行、缓慢移动

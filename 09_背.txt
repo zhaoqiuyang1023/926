@@ -2,15 +2,13 @@ DAY 9
 >>>       gratification       —       [,ɡrætɪfɪ'keʃən]       n.喜悦、满足（感）
 >>>       grievance       —       ['grivəns]       n.委屈、不满
 >>>       guarantee       —       [,ɡærən'ti]       v/n.保证、确保
->>>       hasten       —       ['hesn]       v.加速
->>>       heritage       —       ['hɛrɪtɪdʒ]       n.遗产、传统
 >>>       hierarchical       —       [,haɪə'rɑrkɪkl]       adj.分层的、分级的、等级森严的
+
+
 >>>       hostile       —       [ˈhɑstl]       adj.敌对的、怀有敌意的
-
+>>>       heritage       —       ['hɛrɪtɪdʒ]       n.遗产、传统
+>>>       hasten       —       ['hesn]       v.加速
 >>>       humble       —       ['hʌmbl]       adj.普通的、谦逊的
-
-
-
 >>>       humane       —       [hju'men]       adj.人道的、仁慈的
 >>>       hemisphere       —       ['hɛmɪsfɪr]       n.半球
 >>>       garment      —      ['gɑrmənt]      n.衣服、服装
@@ -21,7 +19,7 @@ DAY 9
 >>>       giant       —       ['dʒaɪənt]       adj.巨大的
 >>>       glory       —       ['ɡlɔri]       n.荣誉、荣耀、辉煌
 >>>       grant       —       [ɡrænt]       v.授予、允许
->>>       gratitude       —       ['ɡrætɪtud]       n.感激、感谢
+>>>       gratitude       —       ['ɡrætɪtud]       n.感激、感谢  appreciate 感激
 >>>       greed       —       [ɡrid]       n.贪婪
 >>>       grip       —       [ɡrɪp]       v/n.抓住、握紧、控制
 >>>       genius       —       ['dʒinjəs]       n.天才、天赋

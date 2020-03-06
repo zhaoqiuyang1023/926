@@ -2,7 +2,6 @@ DAY 15
 >>>       saturate       —       ['sætʃərɪt]       v.浸透、使饱和
 >>>       scapegoat       —       ['skepɡot]       n.替罪羊
 >>>       scary       —       ['skɛri]       adj.可怕的、胆小的
->>>       scorn       —       [skɔrn]       v/n.轻蔑、鄙视
 >>>       scrutinize       —       ['skrutənaɪz]       v/n.仔细察看、详细检查
 >>>       sensitive       —       ['sɛnsətɪv]       adj.敏感的
 >>>       sentiment       —       ['sɛntɪmənt]       n.感情、情绪
@@ -13,13 +12,15 @@ DAY 15
 >>>       skeptical       —       ['skɛptɪkl]       adj.怀疑的
 >>>       slack       —       [slæk]       v.偷懒
 >>>       sophisticated       —       [sə'fɪstɪketɪd]       adj.复杂的、高级的、精致的
->>>       species       —       ['spiʃiz]       n.种类、物种
 >>>       sponsor       —       ['spɑnsɚ]       v.赞助         n.赞助商
 >>>       spontaneity       —       [,spɑntə'neəti]       n.自然流露、即兴发挥
 >>>       spread       —       [sprɛd]       v/n.传播、扩散
 >>>       stagnation       —       [stæg'neʃən]       n.停滞
 
 
+
+>>>       species       —       ['spiʃiz]       n.种类、物种
+>>>       scorn       —       [skɔrn]       v/n.轻蔑、鄙视
 >>>       significant       —       [sɪɡ'nɪfɪkənt]       adj.重要的
 >>>       senior       —       ['sinɪɚ]       adj.年长的、高级的、资深的
 >>>       satisfy      —      ['sætɪsfaɪ]      v.满足、使满意

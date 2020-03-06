@@ -1,6 +1,4 @@
 DAY 13
->>>       panel      —      ['pænl]      n.专家组、仪表盘
->>>       panic       —       ['pænɪk]       adj.恐慌的        n.恐慌
 >>>       paradox       —       ['pærədɑks]       n.悖论
 >>>       parallel        —       ['pærəlɛl]       adj.平行的、类似的         n.平行线、类似的事情
 >>>       paralysis       —       [pə'ræləsɪs]       n.麻痹、瘫痪
@@ -16,7 +14,6 @@ DAY 13
 >>>       perceive       —       [pɚ'siv]       v.感知、理解
 >>>       perish       —       ['pɛrɪʃ]       v.死亡
 >>>       permanent       —       ['pɝmənənt]       adj.永久的、永恒的
->>>       permissible       —       [pɚ'mɪsəbl]       adj.允许的
 >>>       perpetuate       —       [pɚ'pɛtʃuet]       v.保持、继续
 >>>       perplexed       —       [pɚ'plɛkst]       adj.困惑的
 >>>       persistent       —       [pə'zɪstənt]       adj.坚持的、持续的
@@ -45,26 +42,20 @@ DAY 13
 >>>       premise       —       [ˈpremɪs]       n.前提
 >>>       prescribe       —       [prɪ'skraɪb]       v.开药、开处方
 >>>       preserve       —       [prɪ'zɝv]       v.保存、保护、保持
->>>       pressure       —       ['prɛʃɚ]       n.压力
 >>>       prestige       —       [prɛ'stidʒ]       n.声誉、声望
 >>>       presumptively       —       [pri'zʌmptɪvli]       adv.假设地、推测地
 >>>       prevailing       —       [pri'velɪŋ]       adj.流行的、盛行的
 >>>       prevent       —       [pri'vɛnt]       v.阻止、防止
 >>>       previous       —       ['privɪəs]       adj.之前的
->>>       primary       —       ['praɪmɛri]       adj.主要的、基本的、初级的
 >>>       principle       —       ['prɪnsəpl]       n.原理、原则
 >>>       prior       —       ['praɪɚ]       adj.在……之前的、事先的、优先的
->>>       private       —       [ˈpraɪvɪt]       adj.私人的、私密的
 >>>       privilege       —       [ˈprɪvəlɪdʒ]       n.特权
 >>>       procedure       —       [prə'sidʒɚ]       n.程序、步骤
 >>>       proceed       —       [pro'sid]       v.接着、继续
 >>>       proclaim       —       [prə'klem]       v.宣布、宣告
 >>>       productive       —       [prə'dʌktɪv]       adj.生产的、多产的、富有成效的
->>>       professional        —       [prə'fɛʃənl]       adj.专业的、职业的
 >>>       proficient        —       [prə'fɪʃnt]       adj.熟练的、精通的
->>>       profit       —       ['prɑfɪt]       v.获利、受益       n.利益、利润 
 >>>       profound       —       [prə'faʊnd]       adj.深刻的、深远的
->>>       progress       —       ['prɑɡrɛs]       v/n.进步、发展
 >>>       prohibit        —       [prə'hɪbɪt]       v.禁止
 >>>       prominent       —       ['prɑmɪnənt]       adj.显著的、突出的
 >>>       promising       —       ['prɑmɪsɪŋ]       adj.有希望的、有前途的
@@ -82,10 +73,18 @@ DAY 13
 >>>       provide       —       [prə'vaɪd]       v.提供、供应
 >>>       provoke       —       [prə'vok]       v.激起、引起
 >>>       prudent       —       ['prʊdnt]       adj.谨慎的
->>>       psychology       —       [saɪ'kɑlədʒi]       n.心理（学）
 >>>       publication       —       [,pʌblɪ'keʃən]       n.出版（物）
-
 >>>       pursuit       —       [pɚ'sut]       n.追赶、追求、职业、工作
 
 
+>>>       permissible       —       [pɚ'mɪsəbl]       adj.允许的
+>>>       progress       —       ['prɑɡrɛs]       v/n.进步、发展
+>>>       private       —       [ˈpraɪvɪt]       adj.私人的、私密的
+>>>       primary       —       ['praɪmɛri]       adj.主要的、基本的、初级的
+>>>       pressure       —       ['prɛʃɚ]       n.压力
+>>>       professional        —       [prə'fɛʃənl]       adj.专业的、职业的
+>>>       psychology       —       [saɪ'kɑlədʒi]       n.心理（学）
+>>>       profit       —       ['prɑfɪt]       v.获利、受益       n.利益、利润
+>>>       panic       —       ['pænɪk]       adj.恐慌的        n.恐慌
+>>>       panel      —      ['pænl]      n.专家组、仪表盘
 >>>       purchase       —       ['pɝtʃəs]       v/n.购买

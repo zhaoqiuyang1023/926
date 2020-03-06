@@ -10,24 +10,23 @@ DAY 3
 >>>       binding       —       ['baɪndɪŋ]       adj.有约束力的
 >>>       biographical       —       [,baɪə'græfɪkl]       adj.传记的
 >>>       board       —       [bɔrd]       n.委员会、董事会
->>>       boundary       —       ['baʊndri]       n.界限、范围 
 >>>       bribery       —       ['braɪbəri]       n.行贿、受贿
 >>>       broaden       —       ['brɔdn]       v.扩大、加宽
->>>       broker       —      ['brokɚ]      n.经纪人
->>>       bubble       —       ['bʌbl]       v.冒泡         n.气泡、泡沫
 >>>       budget       —       ['bʌdʒɪt]       v/n.预算
 >>>       bureaucratic       —       [,bjʊrə'krætɪk]       adj.官僚主义的
->>>       burst       —       [bɝst]       v/n.爆炸、爆发
 >>>       candidate       —       [ˈkændɪˌdet]       n.候选人
->>>       capture       —       v.俘获、捕捉       n.俘虏、战利品
 >>>       cater       —       ['ketɚ]       v.迎合、为……服务
 >>>       cavity       —       ['kævəti]       n.腔、洞、(牙齿的)龋洞
 >>>       chronic       —       ['krɑnɪk]       adj.长期的、慢性的
->>>       circuit       —       ['sɝkɪt]       v.环行       n.巡回、电路
 >>>       civil       —       ['sɪvl]       adj.公民的、文明的
 
 
-
+>>>       circuit       —       ['sɝkɪt]       v.环行       n.巡回、电路
+>>>       capture       —       v.俘获、捕捉       n.俘虏、战利品
+>>>       burst       —       [bɝst]       v/n.爆炸、爆发
+>>>       broker       —      ['brokɚ]      n.经纪人
+>>>       bubble       —       ['bʌbl]       v.冒泡         n.气泡、泡沫
+>>>       boundary       —       ['baʊndri]       n.界限、范围
 >>>       cloak       —       [klok]       v.遮盖、掩饰       n.斗篷
 >>>       celebrate       —       [sɛləˌbret]       v.庆祝
 >>>       carve       —       [kɑrv]       v.切、雕刻

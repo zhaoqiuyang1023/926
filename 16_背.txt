@@ -22,7 +22,6 @@ DAY 16
 >>>       suppose       —       [sə'poz]       v.假设、猜想
 >>>       suppress       —       [sə'prɛs]       v.镇压、压制、抑制
 >>>       supreme       —       [suˈprim]       adj.最高的、最大的、最重要的
->>>       surface       —       ['sɝfɪs]       adj.表面的       v.（使）浮出水面       n.表面
 >>>       surgery       —       ['sɝdʒəri]       n.外科、（外科）手术
 >>>       suspect       —       [səˈspɛkt]       v.怀疑、猜想
 >>>       suspend       —       [sə'spɛnd]       v.悬挂、暂停
@@ -30,12 +29,14 @@ DAY 16
 >>>       swamp       —       [swɑmp]       v.淹没、（使）陷入困境       n.沼泽  
 >>>       swing       —       [swɪŋ]       v/n.摇摆、波动、涨落
 
+
+>>>       surface       —       ['sɝfɪs]       adj.表面的       v.（使）浮出水面       n.表面
 >>>       stem       —       [stɛm]       v.起源         n.茎、干
 >>>       stress       —       [strɛs]       v.强调         n.压力、重点
 >>>       stick       —       [stɪk]       v.刺、戳、粘住         n.棍子、棒子
 >>>       survive        —       [sɚ'vaɪv]       v.幸存
 >>>       symbol       —       ['sɪmbl]       n.标志、象征
->>>       suitable       —       ['sutəbl]       adj.合适的、适当的、恰当的
+>>>       suitable       —       ['sutəbl]       adj.合适的、适当的、恰当的 appropriate 合适的
 >>>       switch       —       [swɪtʃ]       v.转移、转换
 >>>       suffer       —       ['sʌfɚ]       v.遭受、经受
 >>>       subject       —       [ˈsʌbdʒɪkt]       v.使遭受         n.话题、主题、（研究）对象

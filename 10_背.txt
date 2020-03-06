@@ -13,7 +13,6 @@ DAY 10
 >>>       implicit       —       [ɪm'plɪsɪt]       adj.含蓄的、隐含的
 >>>       impose       —       [ɪm'poz]       v.把……强加于、使承受  pos=放置  pose姿势
 >>>       impoverished       —       [ɪm'pɑvərɪʃt]       adj.贫困的   pover= 贫困 poverty 贫困
->>>       impressive       —       [ɪm'prɛsɪv]       adj.令人印象深刻的、令人敬佩的  im 进入 press 压
 >>>       impulse       —       ['ɪmpʌls]       n.冲动、心血来潮  冲动 心血来潮  pul=pel=推  impulsive
 >>>       inability       —       [,ɪnə'bɪləti]       n.无能为力 in=无 inability 无能为力的
 >>>       incentive       —       [ɪn'sɛntɪv]       adj.激励的、刺激的       n.激励、刺激、动机  cent=美分
@@ -26,19 +25,17 @@ DAY 10
 >>>       indulge       —       [ɪn'dʌldʒ]       v.放任、纵容     Dulce酒杯
 >>>       inedible       —       [ɪn'ɛdəbl]       adj.不能吃的、难吃的     不能吃的，难吃的
 >>>       inevitable       —       [ɪn'ɛvɪtəbl]       adj.不可避免的、必然的
->>>       infer       —       [ɪn'fɝ]       v.推测、推断   推测，推断
 >>>       inferior       —       [ɪn'fɪrɪɚ]       adj.较差的  fer 拿
 >>>       infirm       —       [ɪn'fɝm]       adj.（年老）体弱的、意志薄弱的、不坚固的
 >>>       inflation       —       [ɪn'fleʃən]       n.（通货）膨胀
 >>>       infrastructure       —       ['ɪnfrə'strʌktʃɚ]       n.基础设施
 >>>       infuriating       —       [ɪn'fjʊrɪetɪŋ]       adj.令人愤怒的
 >>>       infuse       —       [ɪn'fjuz]       v.注入、灌输  fus 流
->>>       ingenuity       —       [,ɪndʒə'nuəti]       n.创造力、智慧  创造力 智慧
+>>>       ingenuity       —       [,ɪndʒə'nuəti]       n.创造力、智慧  创造力 智慧  genuine 真诚的
 >>>       inherent       —       [ɪn'hɪrənt]       adj.内在的、固有的、与生俱来的 her=链接
 >>>       innate       —       [ɪ'net]       adj.天生的、与生俱来的
 >>>       innocent       —       ['ɪnəsnt]       adj.无辜的、无罪的
 >>>       innovation       —       [,ɪnə'veʃən]       n.创新、革新
->>>       inquire       —       [ɪn'kwaɪr]       v.调查、询问
 >>>       insidious       —       [ɪn'sɪdɪəs]       adj.潜伏的、不易察觉的  sid=坐，存在
 >>>       insightful        —       ['ɪnsaɪtfəl]       adj.有深刻见解的、富有洞察力的   Insight 洞察力
 >>>       insist       —       [ɪn'sɪst]       v.坚持认为、坚决要求  sist=站立
@@ -54,17 +51,20 @@ DAY 10
 >>>       intense       —       [ɪn'tɛns]       adj.紧张的、强烈的、非常的
 >>>       interact       —       [,ɪntɚ'ækt]       v.相互作用、相互影响  inter-相互
 >>>       interpersonal       —       ['ɪntɚ'pɝsnl]       adj.人际的、人与人之间的
->>>       interpretation       —       [ɪn'tɝprɪ'teʃən]       n.翻译、解释
->>>       interrupt       —       ['ɪntə'rʌpt]       v.中断、打断
->>>       intervention       —       [,ɪntɚ'vɛnʃən]       n.干预、介入
+>>>       interpretation       —       [ɪn'tɝprɪ'teʃən]       n.翻译、解释   translate  翻译；转化；解释；转变为；调动；翻译； interpret 说明；口译；解释；翻译；
+>>>       intervention       —       [,ɪntɚ'vɛnʃən]       n.干预、介入    vection： n. [医]（病原体的）媒介过程
 >>>       intricate       —       [ˈɪntrəkət]       adj.错综复杂的  complex =complicated
 >>>       intrude       —       [ɪn'trʊd]       v.闯入、侵入、侵扰 trud=凸起
 >>>       involve       —       [ɪn'vɑlv]       v.包括、涉及
+>>>       issue       —       ['ɪʃu]       v.发布、发行         n.问题、发行物  include
+
+
+>>>       inquire       —       [ɪn'kwaɪr]       v.调查、询问
+>>>       interrupt       —       ['ɪntə'rʌpt]       v.中断、打断
 >>>       ironic       —       [aɪ'rɑnɪk]       adj.讽刺的   irony "爱惹你-讽刺"
 >>>       isolate       —       [aɪslˌet]       v.孤立、隔离  sol=单独
->>>       issue       —       ['ɪʃu]       v.发布、发行         n.问题、发行物
-
-
+>>>       infer       —       [ɪn'fɝ]       v.推测、推断   推测，推断
+>>>       impressive       —       [ɪm'prɛsɪv]       adj.令人印象深刻的、令人敬佩的  im 进入 press 压
 >>>       intuitive       —       [ɪn'tuɪtɪv]       adj.直觉的、本能的
 >>>       invert       —       ['ɪnvɝt]       v.使颠倒、使反转 in-强调 vert=旋转
 >>>       invest       —       [ɪn'vɛst]       v.投资
