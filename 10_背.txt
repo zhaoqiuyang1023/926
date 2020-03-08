@@ -1,4 +1,53 @@
 DAY 10
+>>>       immune       —       [ɪ'mjʊn]       adj.免疫的、免除的、不受影响的 mun=公共的 ，交换  不受公共事务的影响
+>>>       implicit       —       [ɪm'plɪsɪt]       adj.含蓄的、隐含的
+>>>       impulse       —       ['ɪmpʌls]       n.冲动、心血来潮  冲动 心血来潮  pul=pel=推  impulsive
+>>>       incite       —       [ɪn'saɪt]       v.煽动、鼓动
+>>>       indication       —       [,ɪndɪ'keʃən]       n.指示、迹象
+>>>       indispensable       —       ['ɪndɪ'spɛnsəbl]       adj.必不可少的、不可或缺的  dispense 分发
+>>>       induce       —       [ɪn'dus]       v.引诱、引起  duc=duct=引导
+>>>       inevitable       —       [ɪn'ɛvɪtəbl]       adj.不可避免的、必然的
+>>>       inferior       —       [ɪn'fɪrɪɚ]       adj.较差的  fer 拿
+>>>       infuriating       —       [ɪn'fjʊrɪetɪŋ]       adj.令人愤怒的
+>>>       infuse       —       [ɪn'fjuz]       v.注入、灌输  fus 流
+>>>       innocent       —       ['ɪnəsnt]       adj.无辜的、无罪的
+>>>       innovation       —       [,ɪnə'veʃən]       n.创新、革新
+>>>       insidious       —       [ɪn'sɪdɪəs]       adj.潜伏的、不易察觉的  sid=坐，存在
+>>>       insightful        —       ['ɪnsaɪtfəl]       adj.有深刻见解的、富有洞察力的   Insight 洞察力
+>>>       instinct       —       ['ɪnstɪŋkt]       n.本性、本能
+>>>       insurance       —       [ɪn'ʃʊrəns]       n.保险、预防措施
+>>>       intangible       —       [ɪn'tændʒəbl]       adj.无形的、触摸不到的  tang 触摸
+>>>       integrity       —       [ɪn'tɛɡrəti]       n.完整、诚信、正直  integr=完整
+>>>       intellectual       —       [,ɪntə'lɛktʃuəl]       adj.学术的、知识的        n.知识分子   学术的
+>>>       intelligence       —       [ɪn'tɛlɪdʒəns]       n.智力、智能
+>>>       interact       —       [,ɪntɚ'ækt]       v.相互作用、相互影响  inter-相互
+>>>       interpretation       —       [ɪn'tɝprɪ'teʃən]       n.翻译、解释   translate  翻译；转化；解释；转变为；调动；翻译； interpret 说明；口译；解释；翻译；
+>>>       intervention       —       [,ɪntɚ'vɛnʃən]       n.干预、介入    vection： n. [医]（病原体的）媒介过程
+>>>       intricate       —       [ˈɪntrəkət]       adj.错综复杂的  complex =complicated
+
+
+>>>       interpersonal       —       ['ɪntɚ'pɝsnl]       adj.人际的、人与人之间的
+>>>       intense       —       [ɪn'tɛns]       adj.紧张的、强烈的、非常的
+>>>       institution       —       [,ɪnstɪ'tuʃən]       n.机构、制度
+>>>       instruct       —       [ɪn'strʌkt]       v.指导、命令  struct 构建
+>>>       insist       —       [ɪn'sɪst]       v.坚持认为、坚决要求  sist=站立
+>>>       inspire       —       [ɪn'spaɪɚ]       v.激发、使产生灵感  spire吸气
+>>>       ingenuity       —       [,ɪndʒə'nuəti]       n.创造力、智慧  创造力 智慧  genuine 真诚的
+>>>       inherent       —       [ɪn'hɪrənt]       adj.内在的、固有的、与生俱来的 her=链接
+>>>       innate       —       [ɪ'net]       adj.天生的、与生俱来的
+>>>       infirm       —       [ɪn'fɝm]       adj.（年老）体弱的、意志薄弱的、不坚固的
+>>>       inflation       —       [ɪn'fleʃən]       n.（通货）膨胀
+>>>       infrastructure       —       ['ɪnfrə'strʌktʃɚ]       n.基础设施
+>>>       indulge       —       [ɪn'dʌldʒ]       v.放任、纵容     Dulce酒杯
+>>>       inedible       —       [ɪn'ɛdəbl]       adj.不能吃的、难吃的     不能吃的，难吃的
+>>>       incline       —       [ɪn'klaɪn]       v.倾斜、倾向于  clin=爬
+>>>       incomplete       —       ['ɪnkəm'plit]       adj.不完整的、不完全的、不足的
+>>>       inability       —       [,ɪnə'bɪləti]       n.无能为力 in=无 inability 无能为力的
+>>>       incentive       —       [ɪn'sɛntɪv]       adj.激励的、刺激的       n.激励、刺激、动机  cent=美分
+>>>       impose       —       [ɪm'poz]       v.把……强加于、使承受  pos=放置  pose姿势
+>>>       impoverished       —       [ɪm'pɑvərɪʃt]       adj.贫困的   pover= 贫困 poverty 贫困
+>>>       impact        —       [ɪm'pækt]       v/n.影响  pact=压
+>>>       impel       —       [ɪm'pɛl]       v.推动、促使   pel=推
 >>>       identify      —      [aɪ'dɛntɪfaɪ]      v.确定、识别、辨认  ident=和。。。一样  identity相同  unidentified 无法辨认的
 >>>       illuminate       —       [ɪ'lumɪnet]       v.阐明、说明 il-强调 lum=loom=光
 >>>       illusory       —       [ɪ'lusəri]       adj.虚假的、虚幻的  il-否定 lus=光  de-lusion
@@ -7,58 +56,9 @@ DAY 10
 >>>       immediate       —       [ɪ'midɪət]       adj.直接的、立即的、当前的、最接近的   im=否定 medi=中间  没有中间过程
 >>>       immense       —       [ɪ'mɛns]       adj.巨大的、大量的   im=否定  mens=测量
 >>>       immigrate       —       ['ɪmɪɡret]       v.移民（入） migr=迁移
->>>       immune       —       [ɪ'mjʊn]       adj.免疫的、免除的、不受影响的 mun=公共的 ，交换  不受公共事务的影响
->>>       impact        —       [ɪm'pækt]       v/n.影响  pact=压
->>>       impel       —       [ɪm'pɛl]       v.推动、促使   pel=推
->>>       implicit       —       [ɪm'plɪsɪt]       adj.含蓄的、隐含的
->>>       impose       —       [ɪm'poz]       v.把……强加于、使承受  pos=放置  pose姿势
->>>       impoverished       —       [ɪm'pɑvərɪʃt]       adj.贫困的   pover= 贫困 poverty 贫困
->>>       impulse       —       ['ɪmpʌls]       n.冲动、心血来潮  冲动 心血来潮  pul=pel=推  impulsive
->>>       inability       —       [,ɪnə'bɪləti]       n.无能为力 in=无 inability 无能为力的
->>>       incentive       —       [ɪn'sɛntɪv]       adj.激励的、刺激的       n.激励、刺激、动机  cent=美分
->>>       incite       —       [ɪn'saɪt]       v.煽动、鼓动
->>>       incline       —       [ɪn'klaɪn]       v.倾斜、倾向于  clin=爬
->>>       incomplete       —       ['ɪnkəm'plit]       adj.不完整的、不完全的、不足的
->>>       indication       —       [,ɪndɪ'keʃən]       n.指示、迹象
->>>       indispensable       —       ['ɪndɪ'spɛnsəbl]       adj.必不可少的、不可或缺的  dispense 分发
->>>       induce       —       [ɪn'dus]       v.引诱、引起  duc=duct=引导
->>>       indulge       —       [ɪn'dʌldʒ]       v.放任、纵容     Dulce酒杯
->>>       inedible       —       [ɪn'ɛdəbl]       adj.不能吃的、难吃的     不能吃的，难吃的
->>>       inevitable       —       [ɪn'ɛvɪtəbl]       adj.不可避免的、必然的
->>>       inferior       —       [ɪn'fɪrɪɚ]       adj.较差的  fer 拿
->>>       infirm       —       [ɪn'fɝm]       adj.（年老）体弱的、意志薄弱的、不坚固的
->>>       inflation       —       [ɪn'fleʃən]       n.（通货）膨胀
->>>       infrastructure       —       ['ɪnfrə'strʌktʃɚ]       n.基础设施
->>>       infuriating       —       [ɪn'fjʊrɪetɪŋ]       adj.令人愤怒的
->>>       infuse       —       [ɪn'fjuz]       v.注入、灌输  fus 流
->>>       ingenuity       —       [,ɪndʒə'nuəti]       n.创造力、智慧  创造力 智慧  genuine 真诚的
->>>       inherent       —       [ɪn'hɪrənt]       adj.内在的、固有的、与生俱来的 her=链接
->>>       innate       —       [ɪ'net]       adj.天生的、与生俱来的
->>>       innocent       —       ['ɪnəsnt]       adj.无辜的、无罪的
->>>       innovation       —       [,ɪnə'veʃən]       n.创新、革新
->>>       insidious       —       [ɪn'sɪdɪəs]       adj.潜伏的、不易察觉的  sid=坐，存在
->>>       insightful        —       ['ɪnsaɪtfəl]       adj.有深刻见解的、富有洞察力的   Insight 洞察力
->>>       insist       —       [ɪn'sɪst]       v.坚持认为、坚决要求  sist=站立
->>>       inspire       —       [ɪn'spaɪɚ]       v.激发、使产生灵感  spire吸气
->>>       instinct       —       ['ɪnstɪŋkt]       n.本性、本能
->>>       institution       —       [,ɪnstɪ'tuʃən]       n.机构、制度
->>>       instruct       —       [ɪn'strʌkt]       v.指导、命令  struct 构建
->>>       insurance       —       [ɪn'ʃʊrəns]       n.保险、预防措施
->>>       intangible       —       [ɪn'tændʒəbl]       adj.无形的、触摸不到的  tang 触摸
->>>       integrity       —       [ɪn'tɛɡrəti]       n.完整、诚信、正直  integr=完整
->>>       intellectual       —       [,ɪntə'lɛktʃuəl]       adj.学术的、知识的        n.知识分子   学术的
->>>       intelligence       —       [ɪn'tɛlɪdʒəns]       n.智力、智能
->>>       intense       —       [ɪn'tɛns]       adj.紧张的、强烈的、非常的
->>>       interact       —       [,ɪntɚ'ækt]       v.相互作用、相互影响  inter-相互
->>>       interpersonal       —       ['ɪntɚ'pɝsnl]       adj.人际的、人与人之间的
->>>       interpretation       —       [ɪn'tɝprɪ'teʃən]       n.翻译、解释   translate  翻译；转化；解释；转变为；调动；翻译； interpret 说明；口译；解释；翻译；
->>>       intervention       —       [,ɪntɚ'vɛnʃən]       n.干预、介入    vection： n. [医]（病原体的）媒介过程
->>>       intricate       —       [ˈɪntrəkət]       adj.错综复杂的  complex =complicated
 >>>       intrude       —       [ɪn'trʊd]       v.闯入、侵入、侵扰 trud=凸起
 >>>       involve       —       [ɪn'vɑlv]       v.包括、涉及
 >>>       issue       —       ['ɪʃu]       v.发布、发行         n.问题、发行物  include
-
-
 >>>       inquire       —       [ɪn'kwaɪr]       v.调查、询问
 >>>       interrupt       —       ['ɪntə'rʌpt]       v.中断、打断
 >>>       ironic       —       [aɪ'rɑnɪk]       adj.讽刺的   irony "爱惹你-讽刺"

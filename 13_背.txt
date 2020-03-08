@@ -5,10 +5,8 @@ DAY 13
 >>>       partial        —       ['pɑrʃəl]       adj.部分的、局部的、偏袒的
 >>>       participate       —       [pɑr'tɪsə'peɪt]       v.参加、参与
 >>>       passionate       —       ['pæʃənət]       adj.热情的、热烈的
->>>       patent       —       ['pætnt]       v.授予/取得专利       n.专利  
->>>       pause       —       [pɔz]       v/n.中止、暂停
+>>>       patent       —       ['pætnt]       v.授予/取得专利       n.专利
 >>>       peak       —       [pik]       n.顶峰
->>>       peer       —       [pɪr]       v.凝视、盯着       n.同龄人、同等地位的人
 >>>       penalty       —       ['pɛnəlti]       n.处罚、惩罚
 >>>       pension       —       ['pɛnʃən]       n.津贴、退休金
 >>>       perceive       —       [pɚ'siv]       v.感知、理解
@@ -27,7 +25,6 @@ DAY 13
 >>>       pledge       —       [plɛdʒ]       v/n.保证、承诺
 >>>       polarize       —       ['polə'raɪz]       v.（使）两极分化
 >>>       ponder       —       ['pɑndɚ]       v.仔细考虑、深思
->>>       popularity        —       [,pɑpju'lærəti]       n.普及、流行
 >>>       portray       —       [pɔr'tre]       v.描述、描绘
 >>>       possession       —       [pə'zɛʃən]       n.财产、所有物
 >>>       potential       —       [pə'tɛnʃl]       adj.潜在的、可能的         n.潜能、可能
@@ -35,17 +32,14 @@ DAY 13
 >>>       precious       —       ['prɛʃəs]       adj.珍贵的、宝贵的
 >>>       precisely       —       [prɪ'saɪsli]       adv.准确地、恰恰是
 >>>       predecessor       —       ['prɛdəsɛsɚ]       n.前任、前辈
->>>       predict       —       [prɪ'dɪkt]       v.预言、预知
 >>>       preference       —       ['prɛfrəns]       n.偏爱、偏好
 >>>       prejudice       —       ['prɛdʒədɪs]       n.偏见
 >>>       preliminary       —       [prɪ'lɪmɪnɛri]       adj.初步的、预备的
 >>>       premise       —       [ˈpremɪs]       n.前提
->>>       prescribe       —       [prɪ'skraɪb]       v.开药、开处方
 >>>       preserve       —       [prɪ'zɝv]       v.保存、保护、保持
 >>>       prestige       —       [prɛ'stidʒ]       n.声誉、声望
 >>>       presumptively       —       [pri'zʌmptɪvli]       adv.假设地、推测地
 >>>       prevailing       —       [pri'velɪŋ]       adj.流行的、盛行的
->>>       prevent       —       [pri'vɛnt]       v.阻止、防止
 >>>       previous       —       ['privɪəs]       adj.之前的
 >>>       principle       —       ['prɪnsəpl]       n.原理、原则
 >>>       prior       —       ['praɪɚ]       adj.在……之前的、事先的、优先的
@@ -53,30 +47,35 @@ DAY 13
 >>>       procedure       —       [prə'sidʒɚ]       n.程序、步骤
 >>>       proceed       —       [pro'sid]       v.接着、继续
 >>>       proclaim       —       [prə'klem]       v.宣布、宣告
->>>       productive       —       [prə'dʌktɪv]       adj.生产的、多产的、富有成效的
 >>>       proficient        —       [prə'fɪʃnt]       adj.熟练的、精通的
 >>>       profound       —       [prə'faʊnd]       adj.深刻的、深远的
->>>       prohibit        —       [prə'hɪbɪt]       v.禁止
 >>>       prominent       —       ['prɑmɪnənt]       adj.显著的、突出的
 >>>       promising       —       ['prɑmɪsɪŋ]       adj.有希望的、有前途的
 >>>       promote       —       [prə'mot]       v.提升、促进、促销
 >>>       prompt       —       [prɑmpt]       adj.迅速的、立即的        v.促使 
 >>>       prone       —       [pron]       adj.易于……的、倾向于……的
 >>>       pronounced       —       [prə'naʊnst]       adj.明显的、显著的
->>>       propel       —       [prə'pɛl]       v.推进、推动、驱使、激励
->>>       proper       —       ['prɑpɚ]       adj.适当的、恰当的
 >>>       property       —       ['prɑpɚti]       n.资产、财产
 >>>       propose       —       [prə'poz]       v.计划、建议
->>>       prospect       —       ['prɑspɛkt]       n.前途、前景
 >>>       prosperity       —       [prɑ'spɛrəti]       n.繁荣
->>>       protest        —       [prəˈtɛst]       v/n.抗议 
->>>       provide       —       [prə'vaɪd]       v.提供、供应
+>>>       protest        —       [prəˈtɛst]       v/n.抗议
 >>>       provoke       —       [prə'vok]       v.激起、引起
 >>>       prudent       —       ['prʊdnt]       adj.谨慎的
->>>       publication       —       [,pʌblɪ'keʃən]       n.出版（物）
 >>>       pursuit       —       [pɚ'sut]       n.追赶、追求、职业、工作
 
-
+>>>       publication       —       [,pʌblɪ'keʃən]       n.出版（物）
+>>>       provide       —       [prə'vaɪd]       v.提供、供应
+>>>       prospect       —       ['prɑspɛkt]       n.前途、前景
+>>>       propel       —       [prə'pɛl]       v.推进、推动、驱使、激励
+>>>       proper       —       ['prɑpɚ]       adj.适当的、恰当的
+>>>       prohibit        —       [prə'hɪbɪt]       v.禁止
+>>>       productive       —       [prə'dʌktɪv]       adj.生产的、多产的、富有成效的
+>>>       prevent       —       [pri'vɛnt]       v.阻止、防止
+>>>       prescribe       —       [prɪ'skraɪb]       v.开药、开处方
+>>>       predict       —       [prɪ'dɪkt]       v.预言、预知
+>>>       popularity        —       [,pɑpju'lærəti]       n.普及、流行
+>>>       peer       —       [pɪr]       v.凝视、盯着       n.同龄人、同等地位的人
+>>>       pause       —       [pɔz]       v/n.中止、暂停
 >>>       permissible       —       [pɚ'mɪsəbl]       adj.允许的
 >>>       progress       —       ['prɑɡrɛs]       v/n.进步、发展
 >>>       private       —       [ˈpraɪvɪt]       adj.私人的、私密的

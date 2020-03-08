@@ -3,46 +3,29 @@ DAY 6
 >>>       deceptive       —       [dɪ'sɛptɪv]       adj.骗人的、虚伪的
 >>>       declaration       —       [,dɛklə'reʃən]       n.申明、宣言
 >>>       decorate        —       ['dɛkəret]       v.装饰、布置
->>>       dedicate       —       ['dɛdɪket]       v.献身、致力于
->>>       deem       —       [dim]       v.认为、视作
->>>       defend       —       [dɪ'fɛnd]       v.保护、辩护
 >>>       deliberate       —       [dɪ'lɪbərət]       v.仔细考虑       adj.深思熟虑的、故意的 liberate 解放；放出；释放    liberty 自由
 >>>       delicate        —       [ˈdɛlɪkɪt]       adj.微妙的、棘手的、脆弱的 delicious
 >>>       demographic       —       [,dɛmə'ɡræfɪk]       adj.人口学的        n.人口统计数据   graphic 形象的；图表的；绘画似的
 >>>       deduce       —       [dɪˈdjus]       v.推理、推断  deduct  扣除，减去；演绎
->>>       delusion       —       [dɪ'luʒn]       n.错觉  illusion 幻觉，错觉；错误的观念或信仰；
 >>>       democratic       —       ['dɛmə'krætɪk]       adj.民主的
->>>       depict       —       [dɪ'pɪkt]       v.描述、描绘
->>>       depression       —       [dɪ'prɛʃən]       n.沮丧、抑郁、（经济）萧条
 >>>       deprive       —       [dɪ'praɪv]       v.剥夺、使丧失
 >>>       derive        —       [dɪ'raɪv]       v.来自、源于
->>>       descend       —       [dɪ'sɛnd]       v.下降、遗传
->>>       deserve       —       [dɪ'zɝv]       v.值得、应得
->>>       desire       —       [dɪ'zaɪɚ]       v.渴望、想要       n.欲望、要求、心愿
->>>       desperate       —       ['dɛspərət]       adj.令人绝望的、不顾一切的、孤注一掷的
 >>>       deteriorate       —       [dɪ'tɪrɪəret]       v.恶化
->>>       determine       —       [dɪ'tɝmɪn]       v.决定、下定决心
 >>>       devastating       —       ['devəsteitiŋ]       adj.毁灭性的、破坏性极强的
 >>>       devise       —       [dɪ'vaɪz]       v.设计、发明
->>>       devoted        —       [dɪ'votɪd]       adj.忠实的、忠诚的、热衷于……的
 >>>       diffuse       —       [dɪ'fjus]       adj.弥漫的、散开的       v.传播、扩散、缓解、消除
->>>       dilemma       —       [daɪˈlɛmə]       n.困境、进退两难的局面
 >>>       diminish       —       [dɪ'mɪnɪʃ]       v.减少、变小
->>>       disaster       —       [dɪ'zæstɚ]       n.灾难
 >>>       discipline       —       ['dɪsəplɪn]       n.纪律、原则
 >>>       disconcerting       —       [ˌdɪskənˈsɜːrtɪŋ]       adj.焦虑的、不安的
 >>>       discrimination       —       [dɪ,skrɪmɪ'neʃən]       n.歧视、区别对待
 >>>       disgrace       —       [dɪs'ɡres]       v.使丢脸、使蒙羞       n.耻辱、丢脸的人或事 
 >>>       disguise       —       [dɪs'ɡaɪz]       v/n.掩饰、伪装
 >>>       disintegrate       —       [dɪs'ɪntɪɡret]       v.分解、破裂、衰退
->>>       dismiss       —       [dɪs'mɪs]       v.解散、解雇、不予考虑
->>>       disorder        —       [dɪs'ɔrdɚ]       v.扰乱、使失调       n.混乱、紊乱
 >>>       disposable       —       [dɪ'spozəbl]       adj.一次性的
 >>>       dispute       —       ['dɪs'pjʊt]       v/n.争论、反对
 >>>       disruptive       —       [dɪs'rʌptɪv]       adj.破坏（性）的、分裂（性）的
 >>>       distort       —       [dɪ'stɔrt]       v.歪曲、扭曲
 >>>       distraction       —       [dɪ'strækʃən]       n.分心、分心的事物
->>>       distressed       —       [dɪ'strɛst]       adj.焦虑的、不安的
 >>>       district       —       ['dɪstrɪkt]       n.区域、地区
 >>>       diverse       —       [daɪ'vɝs]       adj.不同的、各种各样的
 >>>       domestic       —       [də'mɛstɪk]       adj.家庭的、国内的
@@ -50,11 +33,29 @@ DAY 6
 >>>       dramatic       —       [drə'mætɪk]       adj.戏剧（性）的、引人注目的、急剧的
 >>>       drastic       —       ['dræstɪk]       adj.激烈的、剧烈的
 >>>       dreadful       —       ['drɛdfəl]       adj.可怕的、糟糕的
->>>       duplication       —       [,djʊplɪ'keʃən]       n.重复、复制、副本
 >>>       durable       —       ['dʊrəbl]       adj.持续的、持久的、耐用的
 >>>       dynamic       —       [daɪ'næmɪk]       adj.动力（学）的、动态的        n.动力、动态
 
 
+
+>>>       distressed       —       [dɪ'strɛst]       adj.焦虑的、不安的
+>>>       duplication       —       [,djʊplɪ'keʃən]       n.重复、复制、副本
+>>>       dismiss       —       [dɪs'mɪs]       v.解散、解雇、不予考虑
+>>>       disorder        —       [dɪs'ɔrdɚ]       v.扰乱、使失调       n.混乱、紊乱
+>>>       disaster       —       [dɪ'zæstɚ]       n.灾难
+>>>       devoted        —       [dɪ'votɪd]       adj.忠实的、忠诚的、热衷于……的
+>>>       dilemma       —       [daɪˈlɛmə]       n.困境、进退两难的局面
+>>>       determine       —       [dɪ'tɝmɪn]       v.决定、下定决心
+>>>       desperate       —       ['dɛspərət]       adj.令人绝望的、不顾一切的、孤注一掷的
+>>>       descend       —       [dɪ'sɛnd]       v.下降、遗传
+>>>       deserve       —       [dɪ'zɝv]       v.值得、应得
+>>>       desire       —       [dɪ'zaɪɚ]       v.渴望、想要       n.欲望、要求、心愿
+>>>       depict       —       [dɪ'pɪkt]       v.描述、描绘
+>>>       depression       —       [dɪ'prɛʃən]       n.沮丧、抑郁、（经济）萧条
+>>>       delusion       —       [dɪ'luʒn]       n.错觉  illusion 幻觉，错觉；错误的观念或信仰；
+>>>       dedicate       —       ['dɛdɪket]       v.献身、致力于
+>>>       deem       —       [dim]       v.认为、视作
+>>>       defend       —       [dɪ'fɛnd]       v.保护、辩护
 >>>       decline       —       [dɪ'klaɪn]       v/n.下降、衰退、拒绝
 >>>       disturb       —       [dɪ'stɝb]       v.打搅、使烦恼、使混乱
 >>>       dense       —       [dɛns]       adj.浓密的、稠密的、密集的

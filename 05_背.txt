@@ -1,8 +1,5 @@
 DAY 5
->>>       confident      —      ['kɑnfɪdənt]      adj.自信的、有信心的
->>>       confine       —       [kən'faɪn]       v.限制、约束       n.限制、约束、界限
 >>>       confront       —       [kən'frʌnt]       v.遭遇、面对
->>>       confuse       —       [kən'fjʊz]       v.迷惑、使困惑
 >>>       congress       —       ['kɑŋɡrəs]       n.国会
 >>>       conjunction       —       [kən'dʒʌŋkʃən]       n.结合、同时发生
 >>>       conquer       —       ['kɑŋkɚ]       v.征服、克服
@@ -12,13 +9,9 @@ DAY 5
 >>>       consequence       —       ['kɑnsəkwɛns]       n.结果  （看谁困死）
 >>>       conservative       —       [kən'sɝvətɪv]       adj.保守的       n.保守派、保守党
 >>>       consistent        —       [kən'sɪstənt]       adj.一致的、始终如一的
->>>       consolidation       —       [kən,sɑlə'deʃən]       n.合并
->>>       constant       —       ['kɑnstənt]       adj.恒定的、持续的、经常的       n.常数、不变的事物
 >>>       constitute       —       ['kɑnstətut]       v.组成、构成
 >>>       constrain       —       [kən'stren]       v.限制、约束
 >>>       construction       —       [kən'strʌkʃən]       n.建立、建造、建筑（物）
->>>       contempt       —       [kən'tɛmpt]       n.轻蔑、蔑视
->>>       contend       —       [kən'tɛnd]       v.主张、认为
 >>>       contest       —       [kən'tɛst]       v/n.竞争、争论
 >>>       contract        —       ['kɑntrækt]       n.合约、合同
 >>>       contradictory       —       [,kɑntrə'dɪktəri]       adj.矛盾的
@@ -35,7 +28,6 @@ DAY 5
 >>>       correspond       —       [,kɔrə'spɑnd]       v.符合、一致、通信
 >>>       corruption       —       [kə'rʌpʃən]       n.贪污、腐败
 >>>       council       —       ['kaʊnsl]       n.委员会、理事会
->>>       counterbalance       —       [,kaʊntɚ'bæləns]       v.抵消、使平衡       n.平衡力
 >>>       counterpart       —       ['kaʊntɚpɑrt]       n.极其相似的人或物
 >>>       courageous       —       [kə'redʒəs]       adj.勇敢的、大胆的
 >>>       craft       —       [kræft]       v.精心制作       n.手艺、工艺
@@ -43,12 +35,20 @@ DAY 5
 >>>       crisis       —       ['kraɪsɪs]       n.危机、关键时刻
 >>>       critical       —       ['krɪtɪkl]       adj.批判（性）的、关键的、临界的
 >>>       crucial       —       ['krʊʃəl]       adj.至关重要的
->>>       cultivate       —       ['kʌltɪvet]       v.种植、培养
->>>       cunning       —       ['kʌnɪŋ]       adj.巧妙的、狡猾的、可爱的
 >>>       curb       —       [kɝb]       v/n.限制、抑制
 >>>       cursory       —       ['kə:səri]       adj.粗略的、草率的、匆忙的
 
 
+>>>       cultivate       —       ['kʌltɪvet]       v.种植、培养
+>>>       cunning       —       ['kʌnɪŋ]       adj.巧妙的、狡猾的、可爱的
+>>>       counterbalance       —       [,kaʊntɚ'bæləns]       v.抵消、使平衡       n.平衡力
+>>>       contend       —       [kən'tɛnd]       v.主张、认为
+>>>       contempt       —       [kən'tɛmpt]       n.轻蔑、蔑视
+>>>       constant       —       ['kɑnstənt]       adj.恒定的、持续的、经常的       n.常数、不变的事物
+>>>       consolidation       —       [kən,sɑlə'deʃən]       n.合并
+>>>       confuse       —       [kən'fjʊz]       v.迷惑、使困惑
+>>>       confident      —      ['kɑnfɪdənt]      adj.自信的、有信心的
+>>>       confine       —       [kən'faɪn]       v.限制、约束       n.限制、约束、界限
 >>>       convert       —       [kən'vɝt]       v.转变、转化
 >>>       convey       —       [kən've]       v.运输、表达
 >>>       consume       —       [kənˈsum]       v.消费、消耗  customer 客户
