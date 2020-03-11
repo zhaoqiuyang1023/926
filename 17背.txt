@@ -10,7 +10,7 @@ DAY 17
 >>>       tissue       —       ['tɪʃu]       n.（动植物的）组织
 >>>       threaten       —       ['θrɛtn]       v.威胁
 >>>       temper      —      ['tɛmpɚ]      v.调和、（使）缓和       n.脾气、性情
->>>       tough       —       [tʌf]       adj.艰苦的、艰难的、坚强的、强硬的
+>>>       tough       —       [tʌf]       adj.艰苦的、艰难的、坚强的、强硬的 过去式 thought过去分词 thought现在分词 thinking第三人称单数 thinks
 >>>       tendency       —       ['tɛndənsi]       n.趋势、倾向
 >>>       testify        —       ['tɛstɪfaɪ]       v.证明、作证
 >>>       thrive       —       [θraɪv]       v.繁荣、兴旺

@@ -1,23 +1,17 @@
 DAY 8
->>>       eventually      —      [ɪ'vɛntʃuəli]      adv.最终、终于
 >>>       evidence       —       ['ɛvɪdəns]       n.证据、证明
->>>       evoke       —       [ɪ'vok]       v.引起、唤起
->>>       evolve       —       [ɪ'vɑlv]       v.发展、进化
->>>       exaggerate        —       [ɪɡ'zædʒəret]       v.夸大、夸张 ger=gest=动作
+>>>       exaggerate        —       [ɪɡ'zædʒəret]       v.夸大、夸张 ger=gest=动作  aggravate 加重使恶化  aggressive 好斗的
 >>>       excellent       —       ['ɛksələnt]       adj.优秀的、卓越的
 >>>       excessive       —       [ɪkˈsɛsɪv]       adj.过度的、过量的
 >>>       exclusive       —       [ɪk'sklusɪv]       adj.排他的、独有的
 >>>       executive       —       [ɪɡ'zɛkjətɪv]       adj.执行的、行政的       n.执行者、主管、经理
 >>>       exert       —       [ɪɡ'zɝt]       v.施加、运用、发挥
 >>>       exhaust       —       [ɪɡ'zɔst]       v.排出、耗尽、使精疲力尽
->>>       exhibit       —       [ɪɡ'zɪbɪt]       v.显示、表现出、展览
->>>       expire       —       [ɪk'spaɪɚ]       v.到期、终止
 >>>       explicit       —       [ɪk'splɪsɪt]       adj.清楚的、明确的
 >>>       exploit       —       [ɛksplɔɪt]       v.开发、利用
 >>>       explore       —       [ɪk'splɔr]       v.探索、探测、探险
 >>>       explosion       —       [ɪk'sploʒən]       n.爆炸、爆发、激增
 >>>       expose       —       [ɪk'spoz]       v.揭露、使暴露、使曝光 pose 摆姿势
->>>       extinguish       —       [ɪk'stɪŋɡwɪʃ]       v.使熄灭、使破灭
 >>>       extract       —       ['ɛkstrækt]       v.提炼、提取、取出、拔出
 >>>       extraordinarily       —       [ɪk'strɔdɪn(ə)rəlɪ]       adv.非常地
 >>>       fabric       —       ['fæbrɪk]       n.组织、结构、织物   fab=fac=fact=制造
@@ -41,6 +35,13 @@ DAY 8
 >>>       frustrate       —       ['frʌstret]       v.失败、受挫
 >>>       fulfill       —       [ful'fil]       v.履行、实现、满足 fill=full
 
+
+>>>       evoke       —       [ɪ'vok]       v.引起、唤起
+>>>       evolve       —       [ɪ'vɑlv]       v.发展、进化
+>>>       extinguish       —       [ɪk'stɪŋɡwɪʃ]       v.使熄灭、使破灭
+>>>       eventually      —      [ɪ'vɛntʃuəli]      adv.最终、终于
+>>>       exhibit       —       [ɪɡ'zɪbɪt]       v.显示、表现出、展览
+>>>       expire       —       [ɪk'spaɪɚ]       v.到期、终止
 >>>       finite       —       ['faɪnaɪt]       adj.有限的
 >>>       extend       —       [ɪk'stɛnd]       v.延长、延期
 >>>       external       —       [ɪk'stɝnl]       adj.外部的、外在的

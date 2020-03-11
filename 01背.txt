@@ -15,7 +15,7 @@ DAY 1
 >>>       alliance       —       [ə'laɪəns]       n.联合、联盟
 >>>       acclaim       —       [ə'klem]       v/n.称赞、喝彩
 >>>       abdicate      —      ['æbdɪket]      v.退位、放弃
->>>       accelerate       —       [əkˈsɛləˌret]       v.加速、促进
+>>>       accelerate       —       [əkˈsɛləˌret]       v.加速、促进   celebrate  vt. 庆祝；举行；赞美；祝贺；宣告
 >>>       abound       —       [ə'baʊnd]       v.充满、富于
 >>>       abide       —       [ə'baɪd]       v.忍受
 >>>       aggressive       —       [ə'grɛsɪv]       adj.好斗的、好强的

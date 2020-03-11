@@ -3,8 +3,6 @@ DAY 13
 >>>       parallel        —       ['pærəlɛl]       adj.平行的、类似的         n.平行线、类似的事情
 >>>       paralysis       —       [pə'ræləsɪs]       n.麻痹、瘫痪
 >>>       partial        —       ['pɑrʃəl]       adj.部分的、局部的、偏袒的
->>>       participate       —       [pɑr'tɪsə'peɪt]       v.参加、参与
->>>       passionate       —       ['pæʃənət]       adj.热情的、热烈的
 >>>       patent       —       ['pætnt]       v.授予/取得专利       n.专利
 >>>       peak       —       [pik]       n.顶峰
 >>>       penalty       —       ['pɛnəlti]       n.处罚、惩罚
@@ -45,8 +43,6 @@ DAY 13
 >>>       prior       —       ['praɪɚ]       adj.在……之前的、事先的、优先的
 >>>       privilege       —       [ˈprɪvəlɪdʒ]       n.特权
 >>>       procedure       —       [prə'sidʒɚ]       n.程序、步骤
->>>       proceed       —       [pro'sid]       v.接着、继续
->>>       proclaim       —       [prə'klem]       v.宣布、宣告
 >>>       proficient        —       [prə'fɪʃnt]       adj.熟练的、精通的
 >>>       profound       —       [prə'faʊnd]       adj.深刻的、深远的
 >>>       prominent       —       ['prɑmɪnənt]       adj.显著的、突出的
@@ -63,6 +59,10 @@ DAY 13
 >>>       prudent       —       ['prʊdnt]       adj.谨慎的
 >>>       pursuit       —       [pɚ'sut]       n.追赶、追求、职业、工作
 
+>>>       proceed       —       [pro'sid]       v.接着、继续
+>>>       proclaim       —       [prə'klem]       v.宣布、宣告
+>>>       participate       —       [pɑr'tɪsə'peɪt]       v.参加、参与
+>>>       passionate       —       ['pæʃənət]       adj.热情的、热烈的
 >>>       publication       —       [,pʌblɪ'keʃən]       n.出版（物）
 >>>       provide       —       [prə'vaɪd]       v.提供、供应
 >>>       prospect       —       ['prɑspɛkt]       n.前途、前景

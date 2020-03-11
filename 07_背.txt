@@ -5,24 +5,21 @@ DAY 7
 >>>       eligible       —       ['ɛlɪdʒəbl]       adj.合格的、有资格的、符合条件的
 >>>       eliminate       —       [ɪ'lɪmɪnet]       v.消除、排除
 >>>       elite       —       [ɪˈliːt]       n.精英
->>>       embarrassing       —       [ɪm'bærəsɪŋ]       adj.令人尴尬的
 >>>       embrace       —       [ɪm'bres]       v/n.拥抱、接受
 >>>       emerging       —       [ɪ'mɝdʒɪŋ]       adj.新兴的
->>>       emigrate       —       ['ɛmɪɡret]       v.移民（出）
 >>>       emission       —       [ɪ'mɪʃən]       n.排放（量）
 >>>       emotional       —       [ɪ'moʃənl]       adj.情绪的、情感的
 >>>       emphasize       —       ['ɛmfəsaɪz]       v.强调
 >>>       empower       —       [ɪm'paʊɚ]       v.授权、允许 
->>>       encounter       —       [ɪn'kaʊntɚ]       v/n.遭遇、遇到
+>>>       encounter       —       [ɪn'kaʊntɚ]       v/n.遭遇、遇到 confront  vt. 面对；遭遇；比较
 >>>       endeavor       —       [ɪn'dɛvɚ]       v/n.努力、尝试
 >>>       engage       —       [ɪn'ɡedʒ]       v.从事、参与
 >>>       enhance       —       [ɪn'hæns]       v.提高、增加、加强
 >>>       enrage       —       [in'reidʒ]       v.激怒
->>>       entail       —       [ɪn'tel]       v.需要
->>>       entertaining       —       [,ɛntɚ'tenɪŋ]       adj.有趣的、令人愉快的
+>>>       entail       —       [ɪn'tel]       v.需要   retail  v. 零售，（以某价格）零售；详述；散播（私密消息）
+>>>       entertaining       —       [,ɛntɚ'tenɪŋ]       adj.有趣的、令人愉快的  款待（entertain的ing形式）
 >>>       enthusiasm       —       [ɪn'θuzɪæzəm]       n.热情
 >>>       entirely       —       [ɪn'taɪɚli]       adv.完全地、彻底地
->>>       envision       —       [ɪn'vɪʒn]       v.想象、设想
 >>>       epidemic       —       [,ɛpɪ'dɛmɪk]       adj.传染性的、流行的       n.传染病、流行病、流行、风行
 >>>       equivalent       —       [ɪ'kwɪvələnt]       adj.相等的、等价的、意义相同的       n.等价物 
 >>>       essential       —       [ɪ'sɛnʃl]       adj.基本的、本质的、必要的       n.本质、必需品
@@ -30,8 +27,11 @@ DAY 7
 >>>       esteem       —       [ɪ'stim]       v/n.尊敬、尊重
 >>>       estimate       —       ['ɛstə,met]       v/n.估计、估算、评价
 >>>       ethical       —       ['ɛθɪkl]       adj.伦理的、道德的
->>>       evaluate       —       [ɪ'væljʊ'et]       v.评价、评估
+>>>       evaluate       —       [ɪ'væljʊ'et]       v.评价、评估   morality
 
+>>>       envision       —       [ɪn'vɪʒn]       v.想象、设想  vis 看
+>>>       emigrate       —       ['ɛmɪɡret]       v.移民（出）
+>>>       embarrassing       —       [ɪm'bærəsɪŋ]       adj.令人尴尬的
 >>>       enormous       —       [ɪ'nɔrməs]       adj.巨大的
 >>>       equality       —       [ɪ'kwɑləti]       n.公平、平等
 >>>       enlarge       —       [ɪn'lɑrdʒ]       v.扩大、放大

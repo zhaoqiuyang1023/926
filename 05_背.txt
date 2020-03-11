@@ -1,44 +1,44 @@
 DAY 5
->>>       confront       —       [kən'frʌnt]       v.遭遇、面对
->>>       congress       —       ['kɑŋɡrəs]       n.国会
->>>       conjunction       —       [kən'dʒʌŋkʃən]       n.结合、同时发生
+>>>       conjunction       —       [kən'dʒʌŋkʃən]       n.结合、同时发生  junc
 >>>       conquer       —       ['kɑŋkɚ]       v.征服、克服
->>>       conscience       —       [ˈkɑːnʃəns]       n.良心、良知
 >>>       conscious       —       ['kɑnʃəs]       adj.有意识的
 >>>       consent       —       [kən'sɛnt]       v/n.赞成、同意
->>>       consequence       —       ['kɑnsəkwɛns]       n.结果  （看谁困死）
+>>>       consequence       —       ['kɑnsəkwɛns]       n.结果  （看谁困死）  sequence   [数][计] 序列；顺序；续发事件
 >>>       conservative       —       [kən'sɝvətɪv]       adj.保守的       n.保守派、保守党
->>>       consistent        —       [kən'sɪstənt]       adj.一致的、始终如一的
 >>>       constitute       —       ['kɑnstətut]       v.组成、构成
 >>>       constrain       —       [kən'stren]       v.限制、约束
->>>       construction       —       [kən'strʌkʃən]       n.建立、建造、建筑（物）
 >>>       contest       —       [kən'tɛst]       v/n.竞争、争论
->>>       contract        —       ['kɑntrækt]       n.合约、合同
 >>>       contradictory       —       [,kɑntrə'dɪktəri]       adj.矛盾的
 >>>       contrast       —       ['kɑntræst]       v/n.对比、对照
 >>>       controversial       —       [,kɑntrə'vɝʃl]       adj.有争议的
 >>>       conventional       —       [kən'vɛnʃənl]       adj.传统的、常规的
 >>>       converge       —       [kən'vɝdʒ]       v.聚集、汇合
->>>       conviction       —       [kən'vɪkʃən]       n.判决、定罪
->>>       convincing       —       [kən'vɪnsɪŋ]       adj.令人信服的、有说服力的
->>>       cooperate        —       [koʊˈɑːpəreɪt]       v.配合、合作 
+>>>       conviction       —       [kən'vɪkʃən]       n.判决、定罪 convicted 证明有罪的；已被判刑的  con-, 强调。-vict, 胜利，词源同evince, victory. 该词主要用于法律用语。词根词缀： con-加强意义 + -vict-征服,战胜
+>>>       convincing       —       [kən'vɪnsɪŋ]       adj.令人信服的、有说服力的  convince 說服
 >>>       coordination       —       [ko,ɔrdɪ'neʃən]       n.协调、配合、合作
->>>       corporate       —       [ˈkɔːrpərət]       adj.公司的、企业的
+>>>       cooperate        —       [koʊˈɑːpəreɪt]       v.配合、合作
+>>>       corporate       —       [ˈkɔːrpərət]       adj.公司的、企业的 来自词根corp，身体，见corporeal. 即成为一体的，成立法人实体的公司。
 >>>       correlate       —       ['kɔrəlet]       v.使相互关联、和……相关
->>>       correspond       —       [,kɔrə'spɑnd]       v.符合、一致、通信
->>>       corruption       —       [kə'rʌpʃən]       n.贪污、腐败
+>>>       correspond       —       [,kɔrə'spɑnd]       v.符合、一致、通信  respond 回答回復
+>>>       corruption       —       [kə'rʌpʃən]       n.贪污、腐败   interrupt  中断；打断；插嘴；妨碍；打断；打扰；中断
 >>>       council       —       ['kaʊnsl]       n.委员会、理事会
->>>       counterpart       —       ['kaʊntɚpɑrt]       n.极其相似的人或物
+
+
+>>>       conscience       —       [ˈkɑːnʃəns]       n.良心、良知
+>>>       contract        —       ['kɑntrækt]       n.合约、合同
+>>>       construction       —       [kən'strʌkʃən]       n.建立、建造、建筑（物）
+>>>       counterpart       —       ['kaʊntɚpɑrt]       n.极其相似的人或物 副本；配对物；极相似的人或物
 >>>       courageous       —       [kə'redʒəs]       adj.勇敢的、大胆的
 >>>       craft       —       [kræft]       v.精心制作       n.手艺、工艺
 >>>       crash       —       [kræʃ]       v/n.撞击、坠落、崩溃
 >>>       crisis       —       ['kraɪsɪs]       n.危机、关键时刻
 >>>       critical       —       ['krɪtɪkl]       adj.批判（性）的、关键的、临界的
->>>       crucial       —       ['krʊʃəl]       adj.至关重要的
+>>>       crucial       —       ['krʊʃəl]       adj.至关重要的 重要的；决定性的；定局的；决断的
 >>>       curb       —       [kɝb]       v/n.限制、抑制
 >>>       cursory       —       ['kə:səri]       adj.粗略的、草率的、匆忙的
-
-
+>>>       consistent        —       [kən'sɪstənt]       adj.一致的、始终如一的 坚持的
+>>>       congress       —       ['kɑŋɡrəs]       n.国会
+>>>       confront       —       [kən'frʌnt]       v.遭遇、面对
 >>>       cultivate       —       ['kʌltɪvet]       v.种植、培养
 >>>       cunning       —       ['kʌnɪŋ]       adj.巧妙的、狡猾的、可爱的
 >>>       counterbalance       —       [,kaʊntɚ'bæləns]       v.抵消、使平衡       n.平衡力

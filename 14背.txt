@@ -1,24 +1,23 @@
 DAY 14
 >>>       radical       —         ['rædɪkl]      adj.根本的、彻底的、激进的
->>>       recessing       —       [ri'sɛsɪŋ]       n.衰退（期）、萧条（期）
->>>       recitation       —      [,rɛsɪ'teʃən]       n.背诵、朗诵
->>>       recognize       —       [ˈrɛkəɡˌnaɪz]       v.认出、识别、承认、认可
+>>>       recessing       —       [ri'sɛsɪŋ]       n.衰退（期）、萧条（期）  recess
+>>>       recitation       —      [,rɛsɪ'teʃən]       n.背诵、朗诵   recite
 >>>       recruit        —       [rɪ'krut]       v.招聘、招募
 >>>       rectify       —       ['rɛktɪfaɪ]       v.改正、矫正
->>>       refutation       —       [,rɛfjʊ'teʃən]       n.反驳、驳斥
+>>>       refutation       —       [,rɛfjʊ'teʃən]       n.反驳、驳斥  unfortunate
 >>>       regrettable       —       [rɪ'ɡrɛtəbl]       adj.可惜的、令人遗憾的
 >>>       reluctant       —       [rɪ'lʌktənt]       adj.勉强的、不情愿的
 >>>       renovation       —       [,rɛnə'veʃən]       n.整修、翻新
 >>>       reputation       —       [,rɛpju'teʃən]       n.名声、名誉
 >>>       revival       —       [rɪ'vaɪvl]       n.复活、复兴
->>>       revolutionary       —       ['rɛvə'lʊʃə'nɛri]       adj.革命的、革命性的
->>>       rigid       —       ['rɪdʒɪd]       adj.过于严格的、僵化的、死板的
->>>       rigorous       —       ['rɪɡərəs]       adj.严格的、严厉的
+>>>       revolutionary       —       ['rɛvə'lʊʃə'nɛri]       adj.革命的、革命性的  volunteer 志愿者
 >>>       ritual       —       ['rɪtʃuəl]       n.仪式、典礼、习俗、习惯
 >>>       rival       —       ['raɪvl]       n.竞争者、对手
 >>>       robust       —       [ro'bʌst]       adj.健壮的、强有力的
 
-
+>>>       rigid       —       ['rɪdʒɪd]       adj.过于严格的、僵化的、死板的
+>>>       rigorous       —       ['rɪɡərəs]       adj.严格的、严厉的
+>>>       recognize       —       [ˈrɛkəɡˌnaɪz]       v.认出、识别、承认、认可
 >>>       regime       —       [re'ʒim]       n.政权、政体、政治制度
 >>>       religion       —       [rɪ'lɪdʒən]       n.宗教
 >>>       reign       —       [ren]       v/n.统治、支配

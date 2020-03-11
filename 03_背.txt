@@ -16,11 +16,10 @@ DAY 3
 >>>       bureaucratic       —       [,bjʊrə'krætɪk]       adj.官僚主义的
 >>>       candidate       —       [ˈkændɪˌdet]       n.候选人
 >>>       cater       —       ['ketɚ]       v.迎合、为……服务
->>>       cavity       —       ['kævəti]       n.腔、洞、(牙齿的)龋洞
->>>       chronic       —       ['krɑnɪk]       adj.长期的、慢性的
+
 >>>       civil       —       ['sɪvl]       adj.公民的、文明的
-
-
+>>>       cavity       —       ['kævəti]       n.腔、洞、(牙齿的)龋洞 cave 洞穴，窑洞
+>>>       chronic       —       ['krɑnɪk]       adj.长期的、慢性的  ironic  adj. 讽刺的；反话的
 >>>       circuit       —       ['sɝkɪt]       v.环行       n.巡回、电路
 >>>       capture       —       v.俘获、捕捉       n.俘虏、战利品
 >>>       burst       —       [bɝst]       v/n.爆炸、爆发
