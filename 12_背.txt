@@ -1,14 +1,13 @@
 DAY 12
 >>>       oblige       —       [ə'blaɪdʒ]       v.强制、强迫、迫使
->>>       obscure       —       [əb'skjʊr]       adj.模糊的、不清楚的
 >>>       obsess       —       [əb'sɛs]       v.使着迷
 >>>       odds       —       [ɑdz]       n.几率、可能性
->>>       oppressive       —       [ə'prɛsɪv]       adj.压迫的、压抑的
->>>       orientate       —       ['orɪɛntet]       v.定位、定向
 >>>       ornament       —       ['ɔrnəmənt]       n.装饰（物）
+
 >>>       outraged       —       ['autreidʒid]       adj.愤怒的
-
-
+>>>       oppressive       —       [ə'prɛsɪv]       adj.压迫的、压抑的
+>>>       obscure       —       [əb'skjʊr]       adj.模糊的、不清楚的
+>>>       orientate       —       ['orɪɛntet]       v.定位、定向
 >>>       negotiate       —       [nɪ'ɡoʃɪet]       v.协商、谈判
 >>>       nonsense       —       ['nɑnsɛns]       adj.荒谬的       n.胡说
 >>>       organism       —       ['ɔrɡənɪzəm]       n.生物体、有机体

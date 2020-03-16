@@ -7,7 +7,6 @@ DAY 5
 >>>       conservative       —       [kən'sɝvətɪv]       adj.保守的       n.保守派、保守党
 >>>       constitute       —       ['kɑnstətut]       v.组成、构成
 >>>       constrain       —       [kən'stren]       v.限制、约束
->>>       contest       —       [kən'tɛst]       v/n.竞争、争论
 >>>       contradictory       —       [,kɑntrə'dɪktəri]       adj.矛盾的
 >>>       contrast       —       ['kɑntræst]       v/n.对比、对照
 >>>       controversial       —       [,kɑntrə'vɝʃl]       adj.有争议的
@@ -17,13 +16,13 @@ DAY 5
 >>>       convincing       —       [kən'vɪnsɪŋ]       adj.令人信服的、有说服力的  convince 說服
 >>>       coordination       —       [ko,ɔrdɪ'neʃən]       n.协调、配合、合作
 >>>       cooperate        —       [koʊˈɑːpəreɪt]       v.配合、合作
->>>       corporate       —       [ˈkɔːrpərət]       adj.公司的、企业的 来自词根corp，身体，见corporeal. 即成为一体的，成立法人实体的公司。
+>>>       corporate       —       [ˈkɔːrpərət]       adj.公司的、企业的 来自词根corp,身体，见corporeal. 即成为一体的，成立法人实体的公司。
 >>>       correlate       —       ['kɔrəlet]       v.使相互关联、和……相关
 >>>       correspond       —       [,kɔrə'spɑnd]       v.符合、一致、通信  respond 回答回復
 >>>       corruption       —       [kə'rʌpʃən]       n.贪污、腐败   interrupt  中断；打断；插嘴；妨碍；打断；打扰；中断
 >>>       council       —       ['kaʊnsl]       n.委员会、理事会
 
-
+>>>       contest       —       [kən'tɛst]       v/n.竞争、争论
 >>>       conscience       —       [ˈkɑːnʃəns]       n.良心、良知
 >>>       contract        —       ['kɑntrækt]       n.合约、合同
 >>>       construction       —       [kən'strʌkʃən]       n.建立、建造、建筑（物）

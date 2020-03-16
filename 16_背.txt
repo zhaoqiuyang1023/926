@@ -3,7 +3,6 @@ DAY 16
 >>>       steer       —       [stɪr]       v.驾驶、控制、引导
 >>>       straight        —       [stret]       adj/adv.笔直的/地、直接的/地、连续的/地
 >>>       strain       —       [stren]       v.拉紧  n.张力、压力、负担
->>>       strategy       —       ['strætədʒi]       n.战略、策略
 >>>       strict       —       [strɪkt]       adj.严格的、严厉的、严谨的
 >>>       striking       —       ['straɪkɪŋ]       adj.惊人的、显著的、突出的
 >>>       strive       —       [straɪv]       v.努力、争取
@@ -20,10 +19,11 @@ DAY 16
 >>>       suppose       —       [sə'poz]       v.假设、猜想
 >>>       supreme       —       [suˈprim]       adj.最高的、最大的、最重要的
 >>>       surgery       —       ['sɝdʒəri]       n.外科、（外科）手术
->>>       suspect       —       [səˈspɛkt]       v.怀疑、猜想
 >>>       suspend       —       [sə'spɛnd]       v.悬挂、暂停
 
 
+>>>       strategy       —       ['strætədʒi]       n.战略、策略
+>>>       suspect       —       [səˈspɛkt]       v.怀疑、猜想
 >>>       swing       —       [swɪŋ]       v/n.摇摆、波动、涨落
 >>>       subscribe       —       [səb'skraɪb]       v.签署、订阅、赞同
 >>>       suppress       —       [sə'prɛs]       v.镇压、压制、抑制

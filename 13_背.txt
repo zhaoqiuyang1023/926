@@ -1,64 +1,65 @@
 DAY 13
->>>       paradox       —       ['pærədɑks]       n.悖论
->>>       parallel        —       ['pærəlɛl]       adj.平行的、类似的         n.平行线、类似的事情
->>>       paralysis       —       [pə'ræləsɪs]       n.麻痹、瘫痪
->>>       partial        —       ['pɑrʃəl]       adj.部分的、局部的、偏袒的
->>>       patent       —       ['pætnt]       v.授予/取得专利       n.专利
->>>       peak       —       [pik]       n.顶峰
 >>>       penalty       —       ['pɛnəlti]       n.处罚、惩罚
->>>       pension       —       ['pɛnʃən]       n.津贴、退休金
 >>>       perceive       —       [pɚ'siv]       v.感知、理解
->>>       perish       —       ['pɛrɪʃ]       v.死亡
->>>       permanent       —       ['pɝmənənt]       adj.永久的、永恒的
->>>       perpetuate       —       [pɚ'pɛtʃuet]       v.保持、继续
->>>       perplexed       —       [pɚ'plɛkst]       adj.困惑的
->>>       persistent       —       [pə'zɪstənt]       adj.坚持的、持续的
->>>       perspective       —       [pɚ'spɛktɪv]       n.看法、观点 
->>>       pervasive       —       [pɚ'vesɪv]       adj.普遍的、流行的
->>>       pessimistic       —       [,pɛsɪ'mɪstɪk]       adj.悲观的
->>>       philosophy       —       [fə'lɑsəfi]       n.哲学
->>>       phony       —       ['foni]       adj.假的、虚伪的、虚幻的
->>>       physician       —       [fɪ'zɪʃən]       n.（内科）医生
->>>       plead       —       [plid]       v.请求、恳求
->>>       pledge       —       [plɛdʒ]       v/n.保证、承诺
->>>       polarize       —       ['polə'raɪz]       v.（使）两极分化
+>>>       permanent       —       ['pɝmənənt]       adj.永久的、   永恒的 per 自始至终 + man 逗留 + ent 具有…性质的 → 始终逗留的 → 持久的
+>>>       perpetuate       —       [pɚ'pɛtʃuet]       v.保持、继续  per 自始至终 + pet 寻求；力争 + uate → 追求永久 → 使永久
+>>>       perspective       —       [pɚ'spɛktɪv]       n.看法、观点 per 贯穿，自始至终 + spect 看 + ive …的 → 看穿 → 透视的
+>>>       pervasive       —       [pɚ'vesɪv]       adj.普遍的、流行的 per 贯穿 + vas 走 + ive 有…性质的 → 全部走遍 → 遍及的
 >>>       ponder       —       ['pɑndɚ]       v.仔细考虑、深思
 >>>       portray       —       [pɔr'tre]       v.描述、描绘
->>>       possession       —       [pə'zɛʃən]       n.财产、所有物
 >>>       potential       —       [pə'tɛnʃl]       adj.潜在的、可能的         n.潜能、可能
 >>>       precede       —       [prɪ'sid]       v.在……之前、领先、高于、优于
->>>       precious       —       ['prɛʃəs]       adj.珍贵的、宝贵的
 >>>       precisely       —       [prɪ'saɪsli]       adv.准确地、恰恰是
->>>       predecessor       —       ['prɛdəsɛsɚ]       n.前任、前辈
->>>       preference       —       ['prɛfrəns]       n.偏爱、偏好
->>>       prejudice       —       ['prɛdʒədɪs]       n.偏见
 >>>       preliminary       —       [prɪ'lɪmɪnɛri]       adj.初步的、预备的
 >>>       premise       —       [ˈpremɪs]       n.前提
 >>>       preserve       —       [prɪ'zɝv]       v.保存、保护、保持
 >>>       prestige       —       [prɛ'stidʒ]       n.声誉、声望
->>>       presumptively       —       [pri'zʌmptɪvli]       adv.假设地、推测地
+>>>       presumptively       —       [pri'zʌmptɪvli]       adv.假设地、推测地  pre 前；预先 + sumpt 拿 ，assume 取 + ion，presume 的名词 → 假定；专横
 >>>       prevailing       —       [pri'velɪŋ]       adj.流行的、盛行的
->>>       previous       —       ['privɪəs]       adj.之前的
 >>>       principle       —       ['prɪnsəpl]       n.原理、原则
->>>       prior       —       ['praɪɚ]       adj.在……之前的、事先的、优先的
->>>       privilege       —       [ˈprɪvəlɪdʒ]       n.特权
 >>>       procedure       —       [prə'sidʒɚ]       n.程序、步骤
->>>       proficient        —       [prə'fɪʃnt]       adj.熟练的、精通的
 >>>       profound       —       [prə'faʊnd]       adj.深刻的、深远的
 >>>       prominent       —       ['prɑmɪnənt]       adj.显著的、突出的
 >>>       promising       —       ['prɑmɪsɪŋ]       adj.有希望的、有前途的
->>>       promote       —       [prə'mot]       v.提升、促进、促销
 >>>       prompt       —       [prɑmpt]       adj.迅速的、立即的        v.促使 
 >>>       prone       —       [pron]       adj.易于……的、倾向于……的
 >>>       pronounced       —       [prə'naʊnst]       adj.明显的、显著的
 >>>       property       —       ['prɑpɚti]       n.资产、财产
 >>>       propose       —       [prə'poz]       v.计划、建议
 >>>       prosperity       —       [prɑ'spɛrəti]       n.繁荣
+>>>       proficient        —       [prə'fɪʃnt]       adj.熟练的、精通的
+
+
 >>>       protest        —       [prəˈtɛst]       v/n.抗议
->>>       provoke       —       [prə'vok]       v.激起、引起
 >>>       prudent       —       ['prʊdnt]       adj.谨慎的
 >>>       pursuit       —       [pɚ'sut]       n.追赶、追求、职业、工作
-
+>>>       provoke       —       [prə'vok]       v.激起、引起
+>>>       promote       —       [prə'mot]       v.提升、促进、促销
+>>>       prior       —       ['praɪɚ]       adj.在……之前的、事先的、优先的
+>>>       privilege       —       [ˈprɪvəlɪdʒ]       n.特权
+>>>       previous       —       ['privɪəs]       adj.之前的
+>>>       predecessor       —       ['prɛdəsɛsɚ]       n.前任、前辈
+>>>       preference       —       ['prɛfrəns]       n.偏爱、偏好
+>>>       prejudice       —       ['prɛdʒədɪs]       n.偏见
+>>>       precious       —       ['prɛʃəs]       adj.珍贵的、宝贵的
+>>>       possession       —       [pə'zɛʃən]       n.财产、所有物
+>>>       polarize       —       ['polə'raɪz]       v.（使）两极分化
+>>>       pessimistic       —       [,pɛsɪ'mɪstɪk]       adj.悲观的
+>>>       philosophy       —       [fə'lɑsəfi]       n.哲学
+>>>       phony       —       ['foni]       adj.假的、虚伪的、虚幻的
+>>>       physician       —       [fɪ'zɪʃən]       n.（内科）医生   physics 物理
+>>>       plead       —       [plid]       v.请求、恳求
+>>>       pledge       —       [plɛdʒ]       v/n.保证、承诺
+>>>       perplexed       —       [pɚ'plɛkst]       adj.困惑的
+>>>       persistent       —       [pə'zɪstənt]       adj.坚持的、持续的
+>>>       perish       —       ['pɛrɪʃ]       v.死亡
+>>>       pension       —       ['pɛnʃən]       n.津贴、退休金
+>>>       paradox       —       ['pærədɑks]       n.悖论
+>>>       parallel        —       ['pærəlɛl]       adj.平行的、类似的         n.平行线、类似的事情
+>>>       paralysis       —       [pə'ræləsɪs]       n.麻痹、瘫痪
+>>>       partial        —       ['pɑrʃəl]       adj.部分的、局部的、偏袒的
+>>>       patent       —       ['pætnt]       v.授予/取得专利       n.专利
+>>>       peak       —       [pik]       n.顶峰
 >>>       proceed       —       [pro'sid]       v.接着、继续
 >>>       proclaim       —       [prə'klem]       v.宣布、宣告
 >>>       participate       —       [pɑr'tɪsə'peɪt]       v.参加、参与

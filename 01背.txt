@@ -1,14 +1,14 @@
 DAY 1
->>>       acute       —       [ə'kjut]       adj.严重的、敏锐的
->>>       advocate       —       [ˈædvəkeɪt]       v.提倡、拥护       n.支持者、拥护者
+>>>       advocate       —       [ˈædvəkeɪt]       v.提倡、拥护       n.支持者、拥护者 ：ad 加强 + voc 叫喊；声音 + ate 使… → 一再呼吁 → 倡议
 >>>       agitated       —       ['ædʒɪtetɪd]       adj.激动的、焦虑的
 >>>       allegation       —       ['ælə'geʃən]       n.指控、陈述  al-加强意义 + -leg-诵读 + -e
 
+>>>       acute       —       [ə'kjut]       adj.严重的、敏锐的
 >>>       alleviate       —       [ə'livɪ'et]       v.减轻、缓和
 >>>       affiliation       —       [ə,fɪlɪ'eʃən]       n.联系、有关连的事物
 >>>       adornment       —       [ə'dɔ:nmənt]       n.装饰（品）
 >>>       amateur       —       ['æmə.tʃʊr]       adj.业余的       n.业余爱好者
->>>       aggravate       —       ['ægrəvet]       v.加重、使恶化
+>>>       aggravate       —       ['ægrəvet]       v.加重、使恶化  ag 表加强 + grav 重 + ate 使… →〔病〕加重 → 恶化
 >>>       accommodation       —       [ə,kɑmə'deʃən]       n.住所
 >>>       abundantly       —       [ə'bʌndəntli]       adv.大量地、非常
 >>>       abolish       —       [ə'bɑlɪʃ]      v.废除、取消

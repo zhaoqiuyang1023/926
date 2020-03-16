@@ -1,14 +1,13 @@
 DAY 18
->>>       unique        —       [jʊ'nik]       adj.独特的、唯一的
->>>       urge       —       [ɝdʒ]       v.推动、驱使       n.欲望、要求  
->>>       utility       —       [ju'tɪləti]       n.功用、效用
->>>       vague       —       [veɡ]       adj.模糊的、含糊的
+>>>       vague       —       [veɡ]       adj.模糊的、含糊的 faint 模糊的   ambiguous模糊的、模棱两可的
 >>>       valid        —       ['vælɪd]       adj.有效的
->>>       vanish       —       ['vænɪʃ]       v.消失
 >>>       vanity       —       ['vænəti]       n.虚荣心
 >>>       vibrant       —       ['vaɪbrənt]       adj.充满活力的
 
-
+>>>       utility       —       [ju'tɪləti]       n.功用、效用
+>>>       urge       —       [ɝdʒ]       v.推动、驱使       n.欲望、要求
+>>>       vanish       —       ['vænɪʃ]       v.消失
+>>>       unique        —       [jʊ'nik]       adj.独特的、唯一的
 >>>       vigorously       —       ['vɪgərəsli]       adv.精力充沛地、强烈地
 >>>       unite        —       [ju'naɪt]       v.联合、团结    unit 单位
 >>>       vacuum       —       ['vækjʊəm]       adj.真空的         n.真空

@@ -3,7 +3,6 @@ DAY 15
 >>>       scrutinize       —       ['skrutənaɪz]       v/n.仔细察看、详细检查
 >>>       sensitive       —       ['sɛnsətɪv]       adj.敏感的
 >>>       sentiment       —       ['sɛntɪmənt]       n.感情、情绪
->>>       separate       —       [sɛpəˌret]       adj.单独的、分开的       v.分开、隔开、使分离
 >>>       severe       —       [səˈvɪr]       adj.严重的、严峻的、严厉的
 >>>       shield       —       [ʃild]       v.遮挡、保护         n.盾牌
 >>>       shrinking       —       [ʃrɪŋkɪŋ]       adj.缩小的、萎缩的         n.缩小、萎缩
@@ -14,10 +13,10 @@ DAY 15
 >>>       spread       —       [sprɛd]       v/n.传播、扩散
 >>>       stagnation       —       [stæg'neʃən]       n.停滞
 
->>>       scapegoat       —       ['skepɡot]       n.替罪羊
+>>>       separate       —       [sɛpəˌret]       adj.单独的、分开的       v.分开、隔开、使分离
 >>>       sponsor       —       ['spɑnsɚ]       v.赞助         n.赞助商
 >>>       scary       —       ['skɛri]       adj.可怕的、胆小的
-
+>>>       scapegoat       —       ['skepɡot]       n.替罪羊
 >>>       species       —       ['spiʃiz]       n.种类、物种
 >>>       scorn       —       [skɔrn]       v/n.轻蔑、鄙视
 >>>       significant       —       [sɪɡ'nɪfɪkənt]       adj.重要的

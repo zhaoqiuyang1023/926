@@ -1,8 +1,6 @@
 DAY 11
 >>>       mandatory       —       ['mændətɔri]       adj.强制性的、法定的、义务的、必修的 mand=命令
 >>>       manipulate       —       [mə'nɪpjulet]       v.操作、操纵、控制  mani=manu=手 ；pul=pel =推
->>>       manufacture       —       ['mænjə'fæktʃɚ]       v.加工、制造       n.制造业 fact 手
->>>       manuscript       —       ['mænjuskrɪpt]       adj.手写的       n.手稿、原稿 script 描绘
 >>>       marine       —       [mə'rin]       adj.海洋的  mar=mir=神奇，海洋 Sub下方   machine  机械，机器；机构
 >>>       marvel       —       ['mɑrvl]       v.对……感到惊讶       n.令人惊奇的事物
 >>>       mastery       —       ['mæstəri]       n.掌握、精通、优势、统治权
@@ -11,8 +9,11 @@ DAY 11
 >>>       mechanical       —       [mɪ'kænɪkəl]       adj.机械的、呆板的   mech=mach=机械 machine机器
 >>>       mediation       —       [midɪ'eʃən]       n.调解、调控
 >>>       mental       —       ['mɛntl]       adj.精神的、智力的、心理的
->>>       mercy       —       ['mɝsi]       n.仁慈、宽容、怜悯    merc=商业；价值；水 同情
 
+
+>>>       mercy       —       ['mɝsi]       n.仁慈、宽容、怜悯    merc=商业；价值；水 同情
+>>>       manufacture       —       ['mænjə'fæktʃɚ]       v.加工、制造       n.制造业 fact 手
+>>>       manuscript       —       ['mænjuskrɪpt]       adj.手写的       n.手稿、原稿 script 描绘
 >>>       memorize       —       ['mɛmə'raɪz]       v.记住、记忆 memo
 >>>       massive       —       ['mæsɪv]       adj.大量的、大规模的   mass 大量
 >>>       merit       —       ['mɛrɪt]       n.价值、优点

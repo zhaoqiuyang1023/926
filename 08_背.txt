@@ -1,41 +1,41 @@
 DAY 8
->>>       evidence       —       ['ɛvɪdəns]       n.证据、证明
+>>>       fuse       —       [fjuz]       v.融入、融合 fus=flu 流动
+
 >>>       exaggerate        —       [ɪɡ'zædʒəret]       v.夸大、夸张 ger=gest=动作  aggravate 加重使恶化  aggressive 好斗的
 >>>       excellent       —       ['ɛksələnt]       adj.优秀的、卓越的
 >>>       excessive       —       [ɪkˈsɛsɪv]       adj.过度的、过量的
->>>       exclusive       —       [ɪk'sklusɪv]       adj.排他的、独有的
->>>       executive       —       [ɪɡ'zɛkjətɪv]       adj.执行的、行政的       n.执行者、主管、经理
->>>       exert       —       [ɪɡ'zɝt]       v.施加、运用、发挥
->>>       exhaust       —       [ɪɡ'zɔst]       v.排出、耗尽、使精疲力尽
->>>       explicit       —       [ɪk'splɪsɪt]       adj.清楚的、明确的
->>>       exploit       —       [ɛksplɔɪt]       v.开发、利用
->>>       explore       —       [ɪk'splɔr]       v.探索、探测、探险
->>>       explosion       —       [ɪk'sploʒən]       n.爆炸、爆发、激增
 >>>       expose       —       [ɪk'spoz]       v.揭露、使暴露、使曝光 pose 摆姿势
->>>       extract       —       ['ɛkstrækt]       v.提炼、提取、取出、拔出
->>>       extraordinarily       —       [ɪk'strɔdɪn(ə)rəlɪ]       adv.非常地
->>>       fabric       —       ['fæbrɪk]       n.组织、结构、织物   fab=fac=fact=制造
->>>       facilitate       —       [fə'sɪlə'tet]       v.促进、有助于
->>>       faint       —       [fent]       adj.模糊的、微弱的、勉强的
->>>       fantastic       —       [fæn'tæstɪk]       adj.异想天开的、不切实际的、极好的
->>>       fascinate       —       ['fæsə'net]       v.入迷、使着迷
->>>       fatal        —       ['fetl]       adj.致命的、重大的
->>>       favorable       —       ['fevərəbl]       adj.有利的、赞成的、支持的 favo喜欢  favorite 最喜欢的
->>>       federal       —       ['fɛdərəl]       adj.联邦的
+>>>       explosion       —       [ɪk'sploʒən]       n.爆炸、爆发、激增
+>>>       explore       —       [ɪk'splɔr]       v.探索、探测、探险
+>>>       exploit       —       [ɛksplɔɪt]       v.开发、利用
 >>>       feverish       —       ['fivərɪʃ]       adj.发热的、狂热的
->>>       fierce       —       [fɪrs]       adj.凶猛的、激烈的 force
+>>>       exert       —       [ɪɡ'zɝt]       v.施加、运用、发挥
+>>>       explicit       —       [ɪk'splɪsɪt]       adj.清楚的、明确的  ex 出 + plic 重叠，折叠 + it →〔说话〕不啰嗦的 → 直爽的
+>>>       extract       —       ['ɛkstrækt]       v.提炼、提取、取出、拔出 ex 出 + tract 拉，拖 → 拉出来 → 提炼出
+>>>       exhaust       —       [ɪɡ'zɔst]       v.排出、耗尽、使精疲力尽 ex 出 + haust 抽水 → 抽出 → 抽干
+>>>       flourish       —       [ˈflɜːrɪʃ]       v/n.繁荣、兴旺 flour 花 + ish 做…，使… → 使像花一样 → 繁荣
+>>>       exclusive       —       [ɪk'sklusɪv]       adj.排他的、独有的 ex 出 + clus 关闭 + ive …的 → 排他的；专有的
+>>>       fascinate       —       ['fæsə'net]       v.入迷、使着迷 fascin 迷住 + ate 使… → 使…入迷
+>>>       facilitate       —       [fə'sɪlə'tet]       v.促进、有助于 facil〔e〕容易做的 + it + ate 使… → 使容易
+>>>       fatal        —       ['fetl]       adj.致命的、重大的
+>>>       federal       —       ['fɛdərəl]       adj.联邦的
+>>>       evidence       —       ['ɛvɪdəns]       n.证据、证明
 >>>       flaw       —       [flɔ]       n.缺陷、瑕疵、裂缝  flawless 无暇
->>>       flourish       —       [ˈflɜːrɪʃ]       v/n.繁荣、兴旺 flow
+>>>       executive       —       [ɪɡ'zɛkjətɪv]       adj.执行的、行政的       n.执行者、主管、经理
+>>>       extraordinarily       —       [ɪk'strɔdɪn(ə)rəlɪ]       adv.非常地
+>>>       faint       —       [fent]       adj.模糊的、微弱的、勉强的 obscure  vague
+>>>       fantastic       —       [fæn'tæstɪk]       adj.异想天开的、不切实际的、极好的
 >>>       folk       —       [fok]       adj.民间的         n.人们（多用复数）
 >>>       foster       —       ['fɔstɚ]       v.促进、助长  fos=fod
 >>>       fraction       —       ['frækʃən]       n.（小）部分、少量 frac=frag 折断
 >>>       fragile       —       ['frædʒəl]       adj.脆弱的、易碎的
->>>       freeze       —       [friz]       v.冻结  free=fri
 >>>       frugal        —       ['fruɡl]       adj.朴素的、节俭的
 >>>       frustrate       —       ['frʌstret]       v.失败、受挫
+>>>       fabric       —       ['fæbrɪk]       n.组织、结构、织物   fab=fac=fact=制造
+>>>       fierce       —       [fɪrs]       adj.凶猛的、激烈的 force
+>>>       freeze       —       [friz]       v.冻结  free=fri
 >>>       fulfill       —       [ful'fil]       v.履行、实现、满足 fill=full
-
-
+>>>       favorable       —       ['fevərəbl]       adj.有利的、赞成的、支持的 favo喜欢  favorite 最喜欢的
 >>>       evoke       —       [ɪ'vok]       v.引起、唤起
 >>>       evolve       —       [ɪ'vɑlv]       v.发展、进化
 >>>       extinguish       —       [ɪk'stɪŋɡwɪʃ]       v.使熄灭、使破灭
@@ -60,7 +60,7 @@ DAY 8
 >>>       exception       —       [ɪk'sɛpʃən]       n.例外
 >>>       foundation       —       [faʊn'deʃən]       n.基础、基金（会）
 >>>       function       —       ['fʌŋkʃən]       v.运行、起作用       n.功能  funct=fund
->>>       fuse       —       [fjuz]       v.融入、融合 fus=flu 流动
+
 >>>       fund       —       [fʌnd]       v.投资、资助         n.资金、基金
 >>>       frame       —       [frem]       n.框架、体系、（人或动物的）体格
 >>>       expand       —       [ɪk'spænd]       v.扩大、展开

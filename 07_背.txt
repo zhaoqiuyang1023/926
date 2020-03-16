@@ -1,34 +1,34 @@
 DAY 7
->>>       elaborate       —       [ɪ'læbəret]       v.精心准备、详细阐述        adj.精心的、精致的、详尽的
->>>       elegant       —       ['ɛləgənt]       adj.优雅的、高雅的
->>>       elevate       —       ['ɛlɪvet]       v.提升、提高
->>>       eligible       —       ['ɛlɪdʒəbl]       adj.合格的、有资格的、符合条件的
->>>       eliminate       —       [ɪ'lɪmɪnet]       v.消除、排除
->>>       elite       —       [ɪˈliːt]       n.精英
->>>       embrace       —       [ɪm'bres]       v/n.拥抱、接受
->>>       emerging       —       [ɪ'mɝdʒɪŋ]       adj.新兴的
->>>       emission       —       [ɪ'mɪʃən]       n.排放（量）
->>>       emotional       —       [ɪ'moʃənl]       adj.情绪的、情感的
->>>       emphasize       —       ['ɛmfəsaɪz]       v.强调
->>>       empower       —       [ɪm'paʊɚ]       v.授权、允许 
->>>       encounter       —       [ɪn'kaʊntɚ]       v/n.遭遇、遇到 confront  vt. 面对；遭遇；比较
->>>       endeavor       —       [ɪn'dɛvɚ]       v/n.努力、尝试
->>>       engage       —       [ɪn'ɡedʒ]       v.从事、参与
->>>       enhance       —       [ɪn'hæns]       v.提高、增加、加强
->>>       enrage       —       [in'reidʒ]       v.激怒
->>>       entail       —       [ɪn'tel]       v.需要   retail  v. 零售，（以某价格）零售；详述；散播（私密消息）
->>>       entertaining       —       [,ɛntɚ'tenɪŋ]       adj.有趣的、令人愉快的  款待（entertain的ing形式）
->>>       enthusiasm       —       [ɪn'θuzɪæzəm]       n.热情
->>>       entirely       —       [ɪn'taɪɚli]       adv.完全地、彻底地
->>>       epidemic       —       [,ɛpɪ'dɛmɪk]       adj.传染性的、流行的       n.传染病、流行病、流行、风行
->>>       equivalent       —       [ɪ'kwɪvələnt]       adj.相等的、等价的、意义相同的       n.等价物 
->>>       essential       —       [ɪ'sɛnʃl]       adj.基本的、本质的、必要的       n.本质、必需品
->>>       establish       —       [ɪˈstæblɪʃ]       v.创立、建立
->>>       esteem       —       [ɪ'stim]       v/n.尊敬、尊重
->>>       estimate       —       ['ɛstə,met]       v/n.估计、估算、评价
->>>       ethical       —       ['ɛθɪkl]       adj.伦理的、道德的
->>>       evaluate       —       [ɪ'væljʊ'et]       v.评价、评估   morality
+>>>       elaborate       —       [ɪ'læbəret]       v.精心准备、详细阐述  adj.精心的、精致的、详尽的 e 表加强 + labor 工作，劳动 + ate 表动词 → 精细化工作 → 精工细作
 
+>>>       emphasize       —       ['ɛmfəsaɪz]       v.强调
+>>>       endeavor       —       [ɪn'dɛvɚ]       v/n.努力、尝试  try one's best
+>>>       engage       —       [ɪn'ɡedʒ]       v.从事、参与  participate in
+>>>       eliminate       —       [ɪ'lɪmɪnet]       v.消除、排除 e 出 + limin 限制 + ate 表动词 → 消除对事物的限制 → 消除
+>>>       elegant       —       ['ɛləgənt]       adj.优雅的、高雅的 e 出 + leg 选择；收集 + ant …的 → 选出的 → 美好的
+>>>       emerging       —       [ɪ'mɝdʒɪŋ]       adj.新兴的   e进入 merge合成 合成的就是没出现过的  emerge 浮现，露出;暴露;露出真相;被知晓;露头;显现;显露
+>>>       embrace       —       [ɪm'bres]       v/n.拥抱、接受 em 进入…之中；包围 + brace 胳膊 → 被胳膊包围 → 拥抱
+>>>       enhance       —       [ɪn'hæns]       v.提高、增加、加强  同义词 raise
+>>>       entirely       —       [ɪn'taɪɚli]       adv.完全地、彻底地
+>>>       epidemic       —       [,ɛpɪ'dɛmɪk]       adj.传染性的、流行的 n.传染病、流行病、流行、风行 epi 在…上、周围或中间；在…后面 + dem 人民 + ic …的 → 在人民中间的 → 流行性的
+>>>       essential       —       [ɪ'sɛnʃl]       adj.基本的、本质的、必要的   n.本质、必需品 sen 钱 钱是必要的
+>>>       establish       —       [ɪˈstæblɪʃ]       v.创立、建立  set up
+>>>       esteem       —       [ɪ'stim]       v/n.尊敬、尊重  respect
+>>>       estimate       —       ['ɛstə,met]       v/n.估计、估算、评价  estim 价值 + ate 表动词 → 估计，估量
+>>>       entail       —       [ɪn'tel]       v.需要   retail  v. 零售，（以某价格）零售；详述；散播（私密消息）en 使… + tail 剪，割，切 → 剪碎的东西让别人来收拾 → 使承担
+>>>       enthusiasm       —       [ɪn'θuzɪæzəm]       n.热情 en 进入 + thus〔theo 神〕+ i + asm 表情况 → 很入神 → 热情
+>>>       entertaining       —       [,ɛntɚ'tenɪŋ]       adj.有趣的、令人愉快的  款待（entertain的ing形式）enter 进入 + tain 拿住 → 在〔工作〕中间抓住时间〔休息〕→ 娱乐
+>>>       ethical       —       ['ɛθɪkl]       adj.伦理的、道德的  moral
+>>>       equivalent       —       [ɪ'kwɪvələnt]       adj.相等的、等价的、意义相同的 n.等价物 equi 平等；相等 + val 价值 + ent 具有…性质的 → 相等的；等价的
+>>>       evaluate       —       [ɪ'væljʊ'et]       v.评价、评估   e 出 + valu 价值 + ate 表动词 → 出价 → 估价
+>>>       emotional       —       [ɪ'moʃənl]       adj.情绪的、情感的 emotion 情感 + al …的→ 感情（上）的
+>>>       elevate       —       ['ɛlɪvet]       v.提升、提高 e 出 + lev 举起 + ate 表动词 → 举出 → 举起
+>>>       emission       —       [ɪ'mɪʃən]       n.排放（量） e 出 + miss 送，放出 + ion 表名词 → 发出，放射
+>>>       eligible       —       ['ɛlɪdʒəbl]       adj.合格的、有资格的、符合条件的  e 出 + lig 选择 + ible 可…的，能…的 → 选出来的 → 合格的
+>>>       enrage       —       [in'reidʒ]       v.激怒  en 使… + rage 疯狂 → 使人疯狂 → 使发怒
+>>>       encounter       —       [ɪn'kaʊntɚ]       v/n.遭遇、遇到 confront  vt. 面对；遭遇；比较
+>>>       empower       —       [ɪm'paʊɚ]       v.授权、允许
+>>>       elite       —       [ɪˈliːt]       n.精英
 >>>       envision       —       [ɪn'vɪʒn]       v.想象、设想  vis 看
 >>>       emigrate       —       ['ɛmɪɡret]       v.移民（出）
 >>>       embarrassing       —       [ɪm'bærəsɪŋ]       adj.令人尴尬的
