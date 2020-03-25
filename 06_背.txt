@@ -1,23 +1,23 @@
 DAY 6
->>>       delicate        —       [ˈdɛlɪkɪt]       adj.微妙的、棘手的、脆弱的 delicious
->>>       deduce       —       [dɪˈdjus]       v.推理、推断  deduct  扣除，减去；演绎
->>>       deprive       —       [dɪ'praɪv]       v.剥夺、使丧失
->>>       deteriorate       —       [dɪ'tɪrɪəret]       v.恶化
->>>       devastating       —       ['devəsteitiŋ]       adj.毁灭性的、破坏性极强的  de-, 强调，整个的。vast, 广阔的。即整个摧毁。
->>>       disruptive       —       [dɪs'rʌptɪv]       adj.破坏（性）的、分裂（性）的 rupt 打破破裂断裂
->>>       distraction       —       [dɪ'strækʃən]       n.分心、分心的事物
->>>       diverse       —       [daɪ'vɝs]       adj.不同的、各种各样的
->>>       dormant       —       ['dɔrmənt]       adj.休眠的、静止的
->>>       dramatic       —       [drə'mætɪk]       adj.戏剧（性）的、引人注目的、急剧的 drama 戏剧，戏剧艺术；剧本；戏剧性事件
->>>       drastic       —       ['dræstɪk]       adj.激烈的、剧烈的
+>>>       delicate      —[ˈdɛlɪkɪt]       adj.微妙的、棘手的、 脆弱的 de 加强 + lic 引诱 + ate 具有…的 → 非常引诱人的 → 精致的
 
 
->>>       disguise       —       [dɪs'ɡaɪz]       v/n.掩饰、伪装
->>>       disposable       —       [dɪ'spozəbl]       adj.一次性的
->>>       district       —       ['dɪstrɪkt]       n.区域、地区
->>>       distort       —       [dɪ'stɔrt]       v.歪曲、扭曲
->>>       derive        —       [dɪ'raɪv]       v.来自、源于
->>>       devise       —       [dɪ'vaɪz]       v.设计、发明
+>>>       deduce        —[dɪˈdjus]       v.推理、推断  演绎 de 向下 + duc 引导；带来 + e → 向下引出 → 推论
+>>>       deprive       —[dɪ'praɪv]       v.剥夺、使丧失   de 去掉 + priv 单个 + e → 从个人身边拿掉 → 剥夺
+>>>       deteriorate   —[dɪ'tɪrɪəret]       v.恶化 deterior 更坏 + ate 使… → 恶化
+>>>       devastating   —['devəsteitiŋ]       adj.毁灭性的、破坏性极强的  de-, 强调，整个的。vast, 广阔的。即整个摧毁。
+>>>       distraction   —[dɪ'strækʃən]       n.分心、分心的事物   dis 向外 traction 拉 向外拉→ 分心，分心的事物
+>>>       disruptive    —[dɪs'rʌptɪv]       adj.破坏（性）的、分裂（性）的 rupt 打破破裂断裂    disrupt 打扰
+>>>       dormant       —['dɔrmənt]       adj.休眠的、静止的 dorm 睡 + ant …的→ 休眠的  dormitory 学生宿舍同dorm
+>>>       dramatic      —[drə'mætɪk]       adj.戏剧（性）的、引人注目的、急剧的 drama 戏剧，戏剧艺术；剧本；戏剧性事件 drama 戏剧 + tic 有…性质的 → 戏剧性的
+>>>       drastic       —['dræstɪk]       adj.激烈的、剧烈的 dra 表演 + stic → 表演很累 → 剧烈的
+>>>       diverse       —[daɪ'vɝs]       adj.不同的、各种各样的 di 分开 + vers 转 + e → 转开了 → 不同的
+>>>       disguise      —[dɪs'ɡaɪz]       v/n.掩饰、伪装
+>>>       disposable    —[dɪ'spozəbl]       adj.一次性的
+>>>       district      —['dɪstrɪkt]       n.区域、地区
+>>>       distort       —[dɪ'stɔrt]       v.歪曲、扭曲
+>>>       derive        —[dɪ'raɪv]       v.来自、源于
+>>>       devise        —[dɪ'vaɪz]       v.设计、发明
 >>>       diminish       —       [dɪ'mɪnɪʃ]       v.减少、变小
 >>>       discipline       —       ['dɪsəplɪn]       n.纪律、原则
 >>>       durable       —       ['dʊrəbl]       adj.持续的、持久的、耐用的    dur 延续坚硬持续持续时间  durex   杜蕾斯

@@ -1,40 +1,42 @@
 DAY 4
->>>       cognitive       —       ['kɑgnətɪv]       adj.认知的 c
->>>       coherent       —       [ko'hɪrənt]       adj.连贯的、一致的、协调的
->>>       coincidence       —       [ko'ɪnsɪdəns]       n.巧合
->>>       collaborative       —       [kə'læbəretɪv]       adj.合作的、协作的
->>>       collapse       —       [kə'læps]       v/n.倒塌、瓦解
->>>       combat       —       ['kɑmbæt]       adj.战斗的、斗争的       v/n.战斗、斗争
->>>       commemorate       —       [kə'mɛməret]       v.纪念
->>>       commercial       —       [kə'mɝʃəl]       adj.商业的、商务的       n.商业广告
->>>       commission       —       [kə'mɪʃən]       v.委托、委任       n.委托、委任、委员会
->>>       commodity       —       [kə'mɑdəti]       n.商品
->>>       compact       —       ['kɑmpækt]       n.合同、契约
->>>       compensate       —       ['kɑmpɛnset]       v.补偿、赔偿、弥补、抵消
->>>       competent       —       ['kɑmpɪtənt]       adj.有能力的、能胜任的
->>>       competitive       —       [kəm'pɛtətɪv]       adj.竞争的
->>>       complicated       —       ['kɑmplɪketɪd]       adj.复杂的、难懂的
->>>       comprehensive       —       [ˌkɑːmprɪˈhensɪv]       adj.综合的、全面的
->>>       conceive       —       [kən'siv]       v.怀孕、构想、认为
->>>       concentrate       —       ['kɑnsn'tret]       v.集中、浓缩、专心
->>>       concept       —       ['kɑnsɛpt]       n.概念、观念
->>>       concession       —       [kən'sɛʃən]       n.妥协、让步
->>>       conclude       —       [kən'klud]       v.结束、推断、做出结论
->>>       concrete       —       ['kɑŋkrit]       adj.具体的、实际的       n.混凝土 
->>>       condemn       —       [kən'dɛm]       v.谴责、责备 
->>>       conduct       —       [kən'dʌkt]       v.实施、管理、引导        n.行为 
->>>       confer       —       [kən'fɝ]       v.给予、协商
+>>>       coincidence    —[ko'ɪnsɪdəns]       n.巧合
+>>>       collapse       —[kə'læps]           v/n.倒塌、瓦解 ol 共同 + laps 滑，滑走 + e → 一起滑落 → 倒塌
+>>>       compensate     —['kɑmpɛnset]         v.补偿、赔偿、弥补、抵消 com 加强 + pens 花费 + ate 使… → 花费的钱〔全部拿回来〕→ 赔偿
+>>>       complicated    —['kɑmplɪketɪd]       adj.复杂的、难懂的 om 加强 + plic 重叠，折叠 + ate 表动词 → 一再重叠 → 弄复杂
+>>>       concentrate    —['kɑnsn'tret]        v.集中、浓缩、专心 con 加强 + centr 中心；中间 + ate 使… → 使…成为中心 → 集中
+>>>       concession     —[kən'sɛʃən]          n.妥协、让步
+>>>       concrete       —['kɑŋkrit]           adj.具体的、实际的       n.混凝土
+>>>       condemn        —[kən'dɛm]            v.谴责、责备  con 共同 + demn 伤害；惩罚 → 共同惩罚 → 谴责
 
->>>       compromise       —       ['kɑmprəmaɪz]       v.妥协、让步
->>>       compelling       —       [kəm'pɛlɪŋ]       adj.强制的、有说服力的
->>>       coalition      —      [ˌkoʊəˈlɪʃn]      n.联合、联盟
->>>       composition       —       [,kɑmpə'zɪʃən]       n.（文学、音乐、美术等）作品
->>>       community       —       [kəˈmjunətɪ]       n.社区、团体
->>>       compile       —       [kəm'paɪl]       v.编译、编辑
->>>       complex       —       [kəmˈplɛks]       adj.复杂的
->>>       comply       —       [kəm'plaɪ]       v.遵守
->>>       compare       —       [kəm'pɛr]       v.对比、比较
->>>       component       —       [kəm'ponənt]       n.组成部分
->>>       commit       —       [kə'mɪt]       v.进行、实施
->>>       command       —       [kə'mænd]       v/n.命令、指挥、掌握
->>>       collect       —       [kə'lɛkt]       v.收集、采集
+>>>       conclude       —[kən'klud]      v.结束、推断、做出结论  con 加强 + clud 关闭 + e → 强行关闭 → 终结   记忆方法->盖棺定论
+>>>       compact        —['kɑmpækt]       n.合同、契约 com 表加强 + pact 合同 → 合同
+>>>       concept        —['kɑnsɛpt]       n.概念、观念 con 表加强 + cept 拿，握住 → 牢牢拿住 → 概念
+>>>       conceive       —[kən'siv]        v.怀孕、构想、认为 con 共同 + ceive 抓 → 大家一起抓〔思想〕→ 想像；构想
+>>>       commemorate    —[kə'mɛməret]     v.纪念 com 加强 + memor 记忆；记 + ate 表动词 → 纪念
+>>>       competent      —['kɑmpɪtənt]     adj.有能力的、能胜任的 com 共同 + pet 寻求；力争 + ent 具有…性质的 →〔敢于〕竞争的 → 有能力的
+>>>       confer         —[kən'fɝ]        v.给予、协商 con 共同 + fer 带来，拿来 → 共同拿出〔观点〕→ 协商
+>>>       combat         —['kɑmbæt]           adj.战斗的、斗争的       v/n.战斗、斗争 com 表加强 + bat 打，击 → 打得非常激烈 → 格斗
+>>>       cognitive      —['kɑgnətɪv]         adj.认知的 cogn 知道 + itive 有…倾向（性质）的 → 认知的
+>>>       collaborative  —[kə'læbəretɪv]      adj.合作的、协作的  colla 可拉风
+>>>       competitive    —[kəm'pɛtətɪv]        adj.竞争的 compete 比赛；竞争 + itive 有…倾向（性质）的 → 比赛的；竞争的
+>>>       commission     —[kə'mɪʃən]           v.委托、委任       n.委托、委任、委员会 com 共同 + miss 送，放出 + ion 表名词 → 共同送出〔选出〕的人 → 委员会
+>>>       conduct        —[kən'dʌkt]           v.实施、管理、引导        n.行为  con 共同 + duct 引导；带来 → 引导共同做 → 指挥
+>>>       comprehensive  —[ˌkɑːmprɪˈhensɪv]    adj.综合的、全面的 com 加强 + prehens 抓 + ive …的 → 全部抓住的 → 综合性的
+
+>>>       coherent       —[ko'hɪrənt]         adj.连贯的、一致的、协调的 coher 附着；黏着 + ent 具有…性质的 → 粘连着而不乱的 → 有条理的
+
+>>>       commodity      —[kə'mɑdəti]      n.商品 com 共同 + mod 方式，模式 + ity 具备某种性质，状况 → 有共同模式的东西 → 商品
+>>>       commercial     —[kə'mɝʃəl]       adj.商业的、商务的       n.商业广告 com 共同 + merc 商业，交易 + ial 属于…的 → 商业的
+>>>       compromise     —['kɑmprəmaɪz]       v.妥协、让步
+>>>       compelling     —[kəm'pɛlɪŋ]       adj.强制的、有说服力的
+>>>       coalition      —[koʊəˈlɪʃn]      n.联合、联盟
+>>>       composition    —[,kɑmpə'zɪʃən]       n.（文学、音乐、美术等）作品
+>>>       community      —[kəˈmjunətɪ]       n.社区、团体
+>>>       compile        —[kəm'paɪl]       v.编译、编辑
+>>>       complex        —[kəmˈplɛks]       adj.复杂的
+>>>       comply         —[kəm'plaɪ]       v.遵守
+>>>       compare        —[kəm'pɛr]       v.对比、比较
+>>>       component      —[kəm'ponənt]       n.组成部分
+>>>       commit         —[kə'mɪt]       v.进行、实施
+>>>       command        —[kə'mænd]       v/n.命令、指挥、掌握
+>>>       collect        —[kə'lɛkt]       v.收集、采集

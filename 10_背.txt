@@ -1,20 +1,20 @@
 DAY 10
->>>       implicit       —       [ɪm'plɪsɪt]       adj.含蓄的、隐含的
->>>       inevitable       —       [ɪn'ɛvɪtəbl]       adj.不可避免的、必然的  in-,不，非，e-,向外，-vit,分开，离开
->>>       infuriating       —       [ɪn'fjʊrɪetɪŋ]       adj.令人愤怒的  v. 使发怒（infuriate 的现在分词）
->>>       innocent       —       ['ɪnəsnt]       adj.无辜的、无罪的
->>>       instinct       —       ['ɪnstɪŋkt]       n.本性、本能
+>>>       implicit       —[ɪm'plɪsɪt]       adj.含蓄的、隐含的 ：im 加以… + plic 重叠，折叠 + it → 重叠表达 → 含蓄的
+>>>       inevitable     —[ɪn'ɛvɪtəbl]       adj.不可避免的、必然的  in-,不，非，e-,向外，-vit,分开，离开 in 不，无，非 + evitable 可避免的 → 不可避免的
+>>>       infuriating    —[ɪn'fjʊrɪetɪŋ]       adj.令人愤怒的  v. 使发怒（infuriate 的现在分词）
+>>>       innocent       —['ɪnəsnt]       adj.无辜的、无罪的
+>>>       instinct       —['ɪnstɪŋkt]       n.本性、本能
 
->>>       incite       —       [ɪn'saɪt]       v.煽动、鼓动 in-,进入，使，-cit,移动，运动，召唤，词源同cite,excite,cinema.引申词义煽动，刺激。
->>>       impulse       —       ['ɪmpʌls]       n.冲动、心血来潮  冲动 心血来潮  pul=pel=推  impulsive adj. 冲动的；受感情驱使的；任性的
->>>       intervention       —       [,ɪntɚ'vɛnʃən]       n.干预、介入      interrupt 中断；打断；插嘴；妨碍；打断；打扰；中断；
->>>       intricate       —       [ˈɪntrəkət]       adj.错综复杂的  complex =complicated
->>>       intellectual       —       [,ɪntə'lɛktʃuəl]       adj.学术的、知识的        n.知识分子   学术的 academic
->>>       intangible       —       [ɪn'tændʒəbl]       adj.无形的、触摸不到的  tang 触摸
->>>       infuse       —       [ɪn'fjuz]       v.注入、灌输  fus 流
->>>       indispensable       —       ['ɪndɪ'spɛnsəbl]       adj.必不可少的、不可或缺的  dispense 分发
->>>       intelligence       —       [ɪn'tɛlɪdʒəns]       n.智力、智能
->>>       innovation       —       [,ɪnə'veʃən]       n.创新、革新
+>>>       incite         —[ɪn'saɪt]  v.煽动、鼓动 in-,进入，使，-cit,移动，运动，召唤，词源同cite,excite,cinema.引申词义煽动，刺激。
+>>>       impulse        —['ɪmpʌls]   n.冲动、心血来潮  冲动 心血来潮  pul=pel=推  impulsive adj. 冲动的；受感情驱使的；任性的
+>>>       intervention   —[,ɪntɚ'vɛnʃən]       n.干预、介入      interrupt 中断；打断；插嘴；妨碍；打断；打扰；中断；
+>>>       intricate      —[ˈɪntrəkət]       adj.错综复杂的  complex =complicated
+>>>       intellectual   —[,ɪntə'lɛktʃuəl]       adj.学术的、知识的        n.知识分子   学术的 academic
+>>>       intangible     —[ɪn'tændʒəbl]       adj.无形的、触摸不到的  tang 触摸  躺那
+>>>       infuse         —[ɪn'fjuz]       v.注入、灌输  fus 流
+>>>       indispensable  —['ɪndɪ'spɛnsəbl]       adj.必不可少的、不可或缺的  dispense 分发
+>>>       intelligence   —[ɪn'tɛlɪdʒəns]       n.智力、智能
+>>>       innovation     —[,ɪnə'veʃən]       n.创新、革新
 >>>       insurance       —       [ɪn'ʃʊrəns]       n.保险、预防措施
 >>>       insidious       —       [ɪn'sɪdɪəs]       adj.潜伏的、不易察觉的  sid=坐，存在
 >>>       interact       —       [,ɪntɚ'ækt]       v.相互作用、相互影响  inter-相互

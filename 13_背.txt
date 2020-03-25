@@ -17,17 +17,17 @@ DAY 13
 >>>       presumptively       —       [pri'zʌmptɪvli]       adv.假设地、推测地  pre 前；预先 + sumpt 拿 ，assume 取 + ion，presume 的名词 → 假定；专横
 >>>       prevailing       —       [pri'velɪŋ]       adj.流行的、盛行的
 >>>       principle       —       ['prɪnsəpl]       n.原理、原则
->>>       procedure       —       [prə'sidʒɚ]       n.程序、步骤
->>>       profound       —       [prə'faʊnd]       adj.深刻的、深远的
->>>       prominent       —       ['prɑmɪnənt]       adj.显著的、突出的
->>>       promising       —       ['prɑmɪsɪŋ]       adj.有希望的、有前途的
+>>>       procedure       —       [prə'sidʒɚ]       n.程序、步骤  pro 在前 + ced 行走，前进 + ure 表结果 → 前面经过的〔历程〕→ 程序
+>>>       profound       —       [prə'faʊnd]       adj.深刻的、深远的 pro 前面 + found 基础 → 有基础在前面 → 深远的
+>>>       prominent       —       ['prɑmɪnənt]       adj.显著的、突出的 pro 向前 + min 伸出，突出 + ent 具有…性质的 → 向前突出 → 杰出的
+>>>       promising       —       ['prɑmɪsɪŋ]       adj.有希望的、有前途的  promise
 >>>       prompt       —       [prɑmpt]       adj.迅速的、立即的        v.促使 
 >>>       prone       —       [pron]       adj.易于……的、倾向于……的
->>>       pronounced       —       [prə'naʊnst]       adj.明显的、显著的
+>>>       pronounced       —       [prə'naʊnst]       adj.明显的、显著的  pro 前 + nounc 讲，说 + e → 在〔人〕前讲话 → 宣告
 >>>       property       —       ['prɑpɚti]       n.资产、财产
 >>>       propose       —       [prə'poz]       v.计划、建议
->>>       prosperity       —       [prɑ'spɛrəti]       n.繁荣
->>>       proficient        —       [prə'fɪʃnt]       adj.熟练的、精通的
+>>>       prosperity       —       [prɑ'spɛrəti]       n.繁荣 pro 在前 + sper 希望 + ity，prosper 的名词 → 繁荣昌盛
+>>>       proficient        —       [prə'fɪʃnt]       adj.熟练的、精通的 pro 向前，在前 + fici 做 + ent 具有…性质的 → 在〔别人〕前面做给他们看 → 熟练的
 
 
 >>>       protest        —       [prəˈtɛst]       v/n.抗议

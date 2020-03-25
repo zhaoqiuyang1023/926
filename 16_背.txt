@@ -7,26 +7,26 @@ DAY 16
 >>>       striking       —       ['straɪkɪŋ]       adj.惊人的、显著的、突出的
 >>>       strive       —       [straɪv]       v.努力、争取
 >>>       subsequent       —       ['sʌbsɪkwənt]       adj.随后的、后来的
->>>       subsidy       —       ['sʌbsədi]       n.补助、补贴、津贴
->>>       substantial       —       [səbˈstænʃəl]       adj.大量的、实质的
->>>       substitute       —       ['sʌbstɪtut]       v.替代       n.替代（品）  
+>>>       subsidy       — ['sʌbsədi]       n.补助、补贴、津贴 sub 下 + sid 坐 + y 表结果 → 补助金
+>>>       substantial       —       [səbˈstænʃəl]       adj.大量的、实质的 sub 下 + stant 站，立 + ial …的 → 本质的；实在的
+>>>       substitute       —       ['sʌbstɪtut]       v.替代 n.替代（品）   sub 下 + stitute 建立；放 → 被放到下面 → 代替
 >>>       subtle       —       ['sʌtl]       adj.不明显的、不易察觉的
->>>       suicide       —       ['suɪsaɪd]       v/n.自杀
+>>>       suicide       —       ['suɪsaɪd]       v/n.自杀 sui 自己 + cid 切；杀 + e → 自杀
 >>>       superb       —       [suːˈpɜːrb]       adj.非常好的
->>>       superior        —       [sʊˈpɪrɪɚ]       adj.比……好的、优秀的、出众的
+>>>       superior        —       [sʊˈpɪrɪɚ]       adj.比……好的、优秀的、出众的 super 上 + ior 较…的 → 较高的
 >>>       supervision       —       [,sʊpɚ'vɪʒən]       n.监督、管理
->>>       supplement       —       ['sʌplɪmənt]       v.补充    n.补充、增刊、副刊
->>>       suppose       —       [sə'poz]       v.假设、猜想
+>>>       supplement       —       ['sʌplɪmənt]       v.补充    n.补充、增刊、副刊 sup 下 + ple 满的；填满 + ment 表名词 → 从下面增加以填满 → 补充
+>>>       suppose       —       [sə'poz]       v.假设、猜想 sup 下 + pos 放，放置 + e → 在下面提出 → 推测
 >>>       supreme       —       [suˈprim]       adj.最高的、最大的、最重要的
 >>>       surgery       —       ['sɝdʒəri]       n.外科、（外科）手术
->>>       suspend       —       [sə'spɛnd]       v.悬挂、暂停
+>>>       suspend       —       [sə'spɛnd]       v.悬挂、暂停      sus 下 + pend 悬挂 → 挂在下面 → 悬吊，引申为停止
 
 
 >>>       strategy       —       ['strætədʒi]       n.战略、策略
 >>>       suspect       —       [səˈspɛkt]       v.怀疑、猜想
 >>>       swing       —       [swɪŋ]       v/n.摇摆、波动、涨落
 >>>       subscribe       —       [səb'skraɪb]       v.签署、订阅、赞同
->>>       suppress       —       [sə'prɛs]       v.镇压、压制、抑制
+>>>       suppress       —       [sə'prɛs]       v.镇压、压制、抑制    surprised
 >>>       sustain       —       [sə'sten]       v.支撑、保持、维持
 >>>       swamp       —       [swɑmp]       v.淹没、（使）陷入困境       n.沼泽
 >>>       summit       —       ['sʌmɪt]       n.顶点、顶峰

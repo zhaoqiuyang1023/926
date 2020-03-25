@@ -1,14 +1,14 @@
 DAY 11
 >>>       mandatory       —       ['mændətɔri]       adj.强制性的、法定的、义务的、必修的 mand=命令
 >>>       manipulate       —       [mə'nɪpjulet]       v.操作、操纵、控制  mani=manu=手 ；pul=pel =推
->>>       marine       —       [mə'rin]       adj.海洋的  mar=mir=神奇，海洋 Sub下方   machine  机械，机器；机构
+>>>       marine       —       [mə'rin]       adj.海洋的  mar=mir=神奇，海洋 Sub下方   machine  机械，机器；机构 mar 海 + ine 具有…性质的，如…的 → 海的
 >>>       marvel       —       ['mɑrvl]       v.对……感到惊讶       n.令人惊奇的事物
->>>       mastery       —       ['mæstəri]       n.掌握、精通、优势、统治权
+>>>       mastery       —       ['mæstəri]       n.掌握、精通、优势、统治权 master 掌握 + y 状态，行为 → 精通
 >>>       materialistic       —       [mə'tɪrɪə'lɪstɪk]       adj.唯物主义的
 >>>       mature       —       [mə'tʃʊr]       adj.成熟的  mat 母，成熟
 >>>       mechanical       —       [mɪ'kænɪkəl]       adj.机械的、呆板的   mech=mach=机械 machine机器
->>>       mediation       —       [midɪ'eʃən]       n.调解、调控
->>>       mental       —       ['mɛntl]       adj.精神的、智力的、心理的
+>>>       mediation       —       [midɪ'eʃən]       n.调解、调控 medi 中间 + ation 行为 →〔在中间〕调解，斡旋
+>>>       mental       —       ['mɛntl]       adj.精神的、智力的、心理的 ment 头脑，智力 + al …的 → 智力的；精神的
 
 
 >>>       mercy       —       ['mɝsi]       n.仁慈、宽容、怜悯    merc=商业；价值；水 同情

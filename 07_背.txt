@@ -1,20 +1,21 @@
 DAY 7
 >>>       elaborate       —       [ɪ'læbəret]       v.精心准备、详细阐述  adj.精心的、精致的、详尽的 e 表加强 + labor 工作，劳动 + ate 表动词 → 精细化工作 → 精工细作
-
+>>>       enhance       —       [ɪn'hæns]       v.提高、增加、加强  同义词 raise
+>>>       essential       —       [ɪ'sɛnʃl]       adj.基本的、本质的、必要的   n.本质、必需品 sen 钱 钱是必要的
 >>>       emphasize       —       ['ɛmfəsaɪz]       v.强调
+>>>       esteem       —       [ɪ'stim]       v/n.尊敬、尊重  respect
+>>>       estimate       —       ['ɛstə,met]       v/n.估计、估算、评价  estim 价值 + ate 表动词 → 估计，估量
+
+
 >>>       endeavor       —       [ɪn'dɛvɚ]       v/n.努力、尝试  try one's best
 >>>       engage       —       [ɪn'ɡedʒ]       v.从事、参与  participate in
 >>>       eliminate       —       [ɪ'lɪmɪnet]       v.消除、排除 e 出 + limin 限制 + ate 表动词 → 消除对事物的限制 → 消除
 >>>       elegant       —       ['ɛləgənt]       adj.优雅的、高雅的 e 出 + leg 选择；收集 + ant …的 → 选出的 → 美好的
 >>>       emerging       —       [ɪ'mɝdʒɪŋ]       adj.新兴的   e进入 merge合成 合成的就是没出现过的  emerge 浮现，露出;暴露;露出真相;被知晓;露头;显现;显露
 >>>       embrace       —       [ɪm'bres]       v/n.拥抱、接受 em 进入…之中；包围 + brace 胳膊 → 被胳膊包围 → 拥抱
->>>       enhance       —       [ɪn'hæns]       v.提高、增加、加强  同义词 raise
 >>>       entirely       —       [ɪn'taɪɚli]       adv.完全地、彻底地
 >>>       epidemic       —       [,ɛpɪ'dɛmɪk]       adj.传染性的、流行的 n.传染病、流行病、流行、风行 epi 在…上、周围或中间；在…后面 + dem 人民 + ic …的 → 在人民中间的 → 流行性的
->>>       essential       —       [ɪ'sɛnʃl]       adj.基本的、本质的、必要的   n.本质、必需品 sen 钱 钱是必要的
 >>>       establish       —       [ɪˈstæblɪʃ]       v.创立、建立  set up
->>>       esteem       —       [ɪ'stim]       v/n.尊敬、尊重  respect
->>>       estimate       —       ['ɛstə,met]       v/n.估计、估算、评价  estim 价值 + ate 表动词 → 估计，估量
 >>>       entail       —       [ɪn'tel]       v.需要   retail  v. 零售，（以某价格）零售；详述；散播（私密消息）en 使… + tail 剪，割，切 → 剪碎的东西让别人来收拾 → 使承担
 >>>       enthusiasm       —       [ɪn'θuzɪæzəm]       n.热情 en 进入 + thus〔theo 神〕+ i + asm 表情况 → 很入神 → 热情
 >>>       entertaining       —       [,ɛntɚ'tenɪŋ]       adj.有趣的、令人愉快的  款待（entertain的ing形式）enter 进入 + tain 拿住 → 在〔工作〕中间抓住时间〔休息〕→ 娱乐
