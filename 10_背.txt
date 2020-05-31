@@ -15,29 +15,29 @@ DAY 10
 >>>       indispensable  —['ɪndɪ'spɛnsəbl]       adj.必不可少的、不可或缺的  dispense 分发
 >>>       intelligence   —[ɪn'tɛlɪdʒəns]       n.智力、智能
 >>>       innovation     —[,ɪnə'veʃən]       n.创新、革新
->>>       insurance       —       [ɪn'ʃʊrəns]       n.保险、预防措施
->>>       insidious       —       [ɪn'sɪdɪəs]       adj.潜伏的、不易察觉的  sid=坐，存在
->>>       interact       —       [,ɪntɚ'ækt]       v.相互作用、相互影响  inter-相互
->>>       induce       —       [ɪn'dus]       v.引诱、引起  duc=duct=引导 tempt in-,进入，使，-duc,引导，引领，
->>>       immune       —       [ɪ'mjʊn]       adj.免疫的、免除的、不受影响的 mun=公共的 ，交换  不受公共事务的影响
->>>       interpretation       —       [ɪn'tɝprɪ'teʃən]       n.翻译、解释   translate  翻译；转化；解释；转变为；调动；翻译； interpret 说明；口译；解释；翻译；
->>>       indication       —       [,ɪndɪ'keʃən]       n.指示、迹象
->>>       integrity       —       [ɪn'tɛɡrəti]       n.完整、诚信、正直  integr=完整
->>>       inferior       —       [ɪn'fɪrɪɚ]       adj.较差的  fer 拿
->>>       insightful        —       ['ɪnsaɪtfəl]       adj.有深刻见解的、富有洞察力的   Insight 洞察力
->>>       interpersonal       —       ['ɪntɚ'pɝsnl]       adj.人际的、人与人之间的
->>>       intense       —       [ɪn'tɛns]       adj.紧张的、强烈的、非常的
->>>       institution       —       [,ɪnstɪ'tuʃən]       n.机构、制度
->>>       instruct       —       [ɪn'strʌkt]       v.指导、命令  struct 构建
->>>       insist       —       [ɪn'sɪst]       v.坚持认为、坚决要求  sist=站立
->>>       inspire       —       [ɪn'spaɪɚ]       v.激发、使产生灵感  spire吸气
->>>       ingenuity       —       [,ɪndʒə'nuəti]       n.创造力、智慧  创造力 智慧  genuine 真诚的
->>>       inherent       —       [ɪn'hɪrənt]       adj.内在的、固有的、与生俱来的 her=链接
->>>       innate       —       [ɪ'net]       adj.天生的、与生俱来的
->>>       infirm       —       [ɪn'fɝm]       adj.（年老）体弱的、意志薄弱的、不坚固的
->>>       inflation       —       [ɪn'fleʃən]       n.（通货）膨胀
->>>       infrastructure       —       ['ɪnfrə'strʌktʃɚ]       n.基础设施
->>>       indulge       —       [ɪn'dʌldʒ]       v.放任、纵容     Dulce酒杯
+>>>       insurance      —[ɪn'ʃʊrəns]       n.保险、预防措施
+>>>       insidious      —[ɪn'sɪdɪəs]       adj.潜伏的、不易察觉的  sid=坐，存在
+>>>       interact       —,ɪntɚ'ækt]       v.相互作用、相互影响  inter-相互
+>>>       induce         —[ɪn'dus]       v.引诱、引起  duc=duct=引导 tempt in-,进入，使，-duc,引导，引领，
+>>>       immune         —  [ɪ'mjʊn]       adj.免疫的、免除的、不受影响的 mun=公共的 ，交换  不受公共事务的影响
+>>>       interpretation —[ɪn'tɝprɪ'teʃən]       n.翻译、解释   translate  翻译；转化；解释；转变为；调动；翻译； interpret 说明；口译；解释；翻译；
+>>>       indication     —[,ɪndɪ'keʃən]       n.指示、迹象
+>>>       integrity      —[ɪn'tɛɡrəti]       n.完整、诚信、正直  integr=完整
+>>>       inferior       —[ɪn'fɪrɪɚ]       adj.较差的  fer 拿
+>>>       insightful     —['ɪnsaɪtfəl]       adj.有深刻见解的、富有洞察力的   Insight 洞察力
+>>>       interpersonal  —['ɪntɚ'pɝsnl]       adj.人际的、人与人之间的
+>>>       intense        —[ɪn'tɛns]       adj.紧张的、强烈的、非常的
+>>>       institution    —[,ɪnstɪ'tuʃən]       n.机构、制度
+>>>       instruct       —[ɪn'strʌkt]       v.指导、命令  struct 构建
+>>>       insist         —[ɪn'sɪst]       v.坚持认为、坚决要求  sist=站立
+>>>       inspire        —[ɪn'spaɪɚ]       v.激发、使产生灵感  spire吸气
+>>>       ingenuity      —[,ɪndʒə'nuəti]       n.创造力、智慧  创造力 智慧  genuine 真诚的
+>>>       inherent       —[ɪn'hɪrənt]       adj.内在的、固有的、与生俱来的 her=链接
+>>>       innate         —[ɪ'net]       adj.天生的、与生俱来的
+>>>       infirm         —[ɪn'fɝm]       adj.（年老）体弱的、意志薄弱的、不坚固的
+>>>       inflation      —[ɪn'fleʃən]       n.（通货）膨胀
+>>>       infrastructure  —['ɪnfrə'strʌktʃɚ]       n.基础设施
+>>>       indulge         — [ɪn'dʌldʒ]       v.放任、纵容     Dulce酒杯
 >>>       inedible       —       [ɪn'ɛdəbl]       adj.不能吃的、难吃的     不能吃的，难吃的
 >>>       incline       —       [ɪn'klaɪn]       v.倾斜、倾向于  clin=爬
 >>>       incomplete       —       ['ɪnkəm'plit]       adj.不完整的、不完全的、不足的

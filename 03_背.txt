@@ -1,5 +1,4 @@
 DAY 3
->>>       bias       —       ['baɪəs]       v.使有偏见         n.偏见  prejudice
 >>>       bribery       —       ['braɪbəri]       n.行贿、受贿
 >>>       broaden       —       ['brɔdn]       v.扩大、加宽
 >>>       budget       —       ['bʌdʒɪt]       v/n.预算
@@ -7,7 +6,7 @@ DAY 3
 
 
 >>>       capture       —       v.俘获、捕捉       n.俘虏、战利品
-
+>>>       bias       —       ['baɪəs]       v.使有偏见         n.偏见  prejudice
 >>>       capable       —       ['kepəbl]       adj.有能力的、能胜任的
 >>>       bureaucratic       —       [,bjʊrə'krætɪk]       adj.官僚主义的 corruption  cor 加强 + rupt 破，断裂 + ion 表状态 → 腐败
 >>>       board       —       [bɔrd]       n.委员会、董事会 板子 膳食
